@@ -1,0 +1,342 @@
+/* Up Ahead Page Styles */
+.up-ahead-page {
+  padding-bottom: 100px; /* Bottom Nav Space */
+}
+
+/* Alert Banner */
+.ua-alert-banner {
+  background: linear-gradient(135deg, rgba(255, 71, 87, 0.15), rgba(255, 71, 87, 0.05));
+  border: 1px solid rgba(255, 71, 87, 0.3);
+  padding: 16px;
+  margin: 16px;
+  border-radius: 16px;
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  animation: pulse-red 3s infinite;
+}
+
+@keyframes pulse-red {
+  0% { box-shadow: 0 0 0 rgba(255, 71, 87, 0); }
+  50% { box-shadow: 0 0 10px rgba(255, 71, 87, 0.1); }
+  100% { box-shadow: 0 0 0 rgba(255, 71, 87, 0); }
+}
+
+.ua-alert-icon {
+  font-size: 1.5rem;
+}
+
+.ua-alert-content h4 {
+  color: var(--accent-danger);
+  font-size: 0.95rem;
+  margin-bottom: 4px;
+}
+
+.ua-alert-content p {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+}
+
+/* View Toggle */
+.ua-view-toggle {
+  display: flex;
+  background: var(--bg-secondary);
+  margin: 16px;
+  padding: 4px;
+  border-radius: 12px;
+}
+
+.ua-toggle-btn {
+  flex: 1;
+  padding: 8px;
+  border: none;
+  background: transparent;
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+  font-weight: 500;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.ua-toggle-btn.active {
+  background: var(--bg-card);
+  color: var(--accent-primary);
+  font-weight: 600;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+/* Timeline */
+.ua-timeline {
+  padding: 0 16px;
+}
+
+.ua-day-section {
+  margin-bottom: 24px;
+  position: relative;
+  padding-left: 20px;
+}
+
+.ua-day-section::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: var(--border-default);
+  border-radius: 2px;
+}
+
+.ua-day-header {
+  margin-bottom: 12px;
+  padding-left: 12px;
+}
+
+.ua-day-label {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.ua-date-sub {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* Timeline Item Card */
+.ua-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-default);
+  border-radius: 16px;
+  padding: 16px;
+  margin-bottom: 12px;
+  margin-left: 12px;
+  position: relative;
+  transition: transform 0.2s;
+}
+
+.ua-card:active {
+  transform: scale(0.98);
+}
+
+.ua-card::after {
+  content: '';
+  position: absolute;
+  left: -26px; /* Align with timeline line */
+  top: 20px;
+  width: 10px;
+  height: 10px;
+  background: var(--bg-secondary);
+  border: 2px solid var(--accent-secondary);
+  border-radius: 50%;
+  z-index: 2;
+}
+
+.ua-card.today::after {
+  background: var(--accent-primary);
+  border-color: var(--accent-primary);
+  box-shadow: 0 0 8px var(--accent-primary);
+}
+
+.ua-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 8px;
+}
+
+.ua-type-badge {
+  font-size: 0.7rem;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.type-movie { background: rgba(240, 136, 62, 0.2); color: #F0883E; } /* Orange */
+.type-event { background: rgba(88, 166, 255, 0.2); color: #58A6FF; } /* Blue */
+.type-sport { background: rgba(63, 185, 80, 0.2); color: #3FB950; } /* Green */
+.type-festival { background: rgba(168, 85, 247, 0.2); color: #A855F7; } /* Purple */
+.type-alert { background: rgba(255, 71, 87, 0.2); color: #FF4757; } /* Red */
+.type-shopping { background: rgba(255, 105, 180, 0.2); color: #FF69B4; } /* HotPink */
+.type-civic { background: rgba(112, 128, 144, 0.2); color: #708090; } /* SlateGray */
+.type-weather_alert { background: rgba(220, 38, 38, 0.2); color: #DC2626; } /* Dark Red */
+
+.ua-card-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 4px;
+  line-height: 1.3;
+}
+
+.ua-card-subtitle {
+  font-size: 0.85rem;
+  color: var(--accent-secondary);
+  font-weight: 500;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.ua-card-desc {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  line-height: 1.5;
+  margin-bottom: 12px;
+}
+
+.ua-card-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 1px solid var(--border-default);
+  padding-top: 12px;
+}
+
+.ua-tags {
+  display: flex;
+  gap: 6px;
+}
+
+.ua-tag {
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  background: var(--bg-secondary);
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+.ua-actions {
+  display: flex;
+  gap: 12px;
+}
+
+.ua-action-btn {
+  background: transparent;
+  border: none;
+  color: var(--text-muted);
+  font-size: 1.2rem;
+  cursor: pointer;
+  transition: color 0.2s;
+}
+
+.ua-action-btn:hover {
+  color: var(--accent-primary);
+}
+
+.ua-action-btn.active {
+  color: var(--accent-primary);
+}
+
+/* Weekly Plan View */
+.ua-weekly-plan {
+  padding: 16px;
+}
+
+.ua-plan-day-row {
+  display: flex;
+  margin-bottom: 24px;
+  gap: 16px;
+}
+
+.ua-plan-day-label {
+  min-width: 60px;
+  text-align: right;
+  padding-top: 8px;
+}
+
+.ua-day-name {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  display: block;
+}
+
+.ua-plan-day-content {
+  flex: 1;
+  background: var(--bg-card);
+  border: 1px solid var(--border-default);
+  border-radius: 12px;
+  padding: 4px 12px;
+}
+
+.ua-plan-event-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 10px 0;
+  text-decoration: none;
+  border-bottom: 1px dashed var(--border-default);
+}
+
+.ua-plan-event-item:last-child {
+  border-bottom: none;
+}
+
+.ua-event-icon {
+  font-size: 1.1rem;
+  line-height: 1.3;
+}
+
+.ua-event-title {
+  color: var(--text-primary);
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
+.ua-plan-empty {
+  color: var(--text-muted);
+  font-size: 1.5rem;
+  font-weight: 300;
+  display: block;
+  text-align: center;
+  padding: 8px;
+}
+
+/* Worth Knowing Section */
+.ua-worth-knowing {
+  padding: 0 16px;
+  margin-top: 24px;
+}
+
+.ua-wk-card {
+  background: var(--bg-secondary);
+  border-radius: 12px;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.ua-wk-title {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 12px;
+  color: var(--text-primary);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.ua-wk-list {
+  list-style: none;
+}
+
+.ua-wk-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px 0;
+  border-bottom: 1px dashed var(--border-default);
+  font-size: 0.9rem;
+}
+
+.ua-wk-item:last-child {
+  border-bottom: none;
+}
+
+.ua-wk-item span:last-child {
+  color: var(--accent-primary);
+  font-weight: 500;
+}

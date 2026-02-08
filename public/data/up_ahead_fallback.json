@@ -1,0 +1,16 @@
+{
+  "generated": "static-fallback",
+  "timeline": [
+    {
+      "date": "Today",
+      "items": [
+        {
+          "id": "fallback-1",
+          "title": "Check Up Ahead settings to discover local events",
+          "category": "events",
+          "description": "Configure your locations and categories in Settings > Up Ahead to see personalized events."
+        }
+      ]
+    }
+  ]
+}

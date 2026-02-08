@@ -1,0 +1,123 @@
+.market-ticker-container {
+    flex: 1;
+    min-width: 0;
+    background: transparent;
+    color: #e2e8f0;
+    height: 28px;
+    display: flex;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+    font-family: 'Inter', sans-serif;
+    font-size: 0.75rem;
+    z-index: 10;
+    margin: 0 8px;
+    border-radius: 4px;
+    background: rgba(0, 0, 0, 0.2);
+}
+
+.ticker-label {
+    background: #dc2626;
+    padding: 0 6px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.85rem;
+    color: #ffffff;
+    box-shadow: 2px 0 10px rgba(0,0,0,0.3);
+    z-index: 2;
+    flex-shrink: 0;
+}
+
+/* Static Last Updated Label */
+.ticker-updated {
+    background: rgba(0, 0, 0, 0.2);
+    padding: 0 8px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    font-size: 0.75rem;
+    color: #94a3b8;
+    z-index: 2;
+    flex-shrink: 0;
+    white-space: nowrap;
+}
+
+/* Hide 'Updated' text on very small screens to prevent overlap */
+@media (max-width: 600px) {
+    .ticker-updated {
+        display: none;
+    }
+}
+
+.ticker-track-wrapper {
+    flex: 1;
+    overflow-x: auto; /* Allow manual scroll */
+    white-space: nowrap;
+    position: relative;
+    mask-image: linear-gradient(to right, transparent, black 5%, black 95%, transparent);
+    -webkit-mask-image: linear-gradient(to right, transparent, black 5%, black 95%, transparent);
+    scrollbar-width: none; /* Hide scrollbar Firefox */
+    -ms-overflow-style: none;  /* IE 10+ */
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.ticker-track-wrapper::-webkit-scrollbar {
+    display: none; /* Chrome/Safari */
+}
+
+.ticker-track {
+    display: inline-flex;
+    align-items: center;
+    padding-left: 100%; /* Start off-screen */
+}
+
+/* Ticker Item Styling */
+.ticker-item {
+    display: inline-flex;
+    align-items: center;
+    margin-right: 24px;
+    transition: opacity 0.2s;
+}
+
+.ticker-name {
+    color: #cbd5e1;
+    font-weight: 500;
+    margin-right: 4px;
+    font-size: 0.72rem;
+}
+
+.ticker-price {
+    font-weight: 600;
+    color: #f8fafc;
+    margin-right: 3px;
+    font-size: 0.72rem;
+}
+
+.ticker-change {
+    font-size: 0.68rem;
+    font-weight: 500;
+}
+
+.ticker-change.positive {
+    color: #4ade80;
+}
+
+.ticker-change.negative {
+    color: #ef4444;
+}
+
+/* Stale Data Styling */
+.ticker-item.stale-data {
+    opacity: 0.5;
+    filter: grayscale(0.8);
+}
+
+.ticker-item.stale-data .ticker-name,
+.ticker-item.stale-data .ticker-price,
+.ticker-item.stale-data .ticker-change {
+    color: #94a3b8 !important;
+}
