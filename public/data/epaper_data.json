@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-09T03:41:26.502943",
+  "lastUpdated": "2026-02-10T03:48:55.450085",
   "sources": {
     "THE_HINDU": [
       {
@@ -48,6 +48,73 @@
           }
         ],
         "summary": "• Motorsport\n• Other Sports",
+        "summary_method": "headlines"
+      },
+      {
+        "page": "Front Page",
+        "articles": [
+          {
+            "title": "‘Restrictive’ software tools being used for SIR, says SC",
+            "link": "https://www.thehindu.com/todays-paper/2026-02-10/th_chennai/articleGSQFIJV4Q-13432820.ece"
+          },
+          {
+            "title": "Opposition mulls motion to remove LS Speaker Birla",
+            "link": "https://www.thehindu.com/todays-paper/2026-02-10/th_chennai/articleG7FFIJ91K-13432823.ece"
+          },
+          {
+            "title": "Stalin opens Jaguar Land Rover plant in Ranipet",
+            "link": "https://www.thehindu.com/todays-paper/2026-02-10/th_chennai/articleGSQFIJV4O-13432824.ece"
+          },
+          {
+            "title": "Pay dues or serve jail term, HC tells Kochadaiiyaan producer",
+            "link": "https://www.thehindu.com/todays-paper/2026-02-10/th_chennai/articleGSQFIJPNO-13432826.ece"
+          },
+          {
+            "title": "‘Centre has released ₹10,354.15 crore for CMRL’s phase II work’",
+            "link": "https://www.thehindu.com/todays-paper/2026-02-10/th_chennai/articleG7FFIJ96Q-13432825.ece"
+          },
+          {
+            "title": "Chief Secretary holds meeting to monitor avian influenza in city",
+            "link": "https://www.thehindu.com/todays-paper/2026-02-10/th_chennai/articleG7FFIJ96M-13432827.ece"
+          },
+          {
+            "title": "Fisherfolk oppose proposed Mamallan reservoir project",
+            "link": "https://www.thehindu.com/todays-paper/2026-02-10/th_chennai/articleG7FFIJGVF-13432828.ece"
+          },
+          {
+            "title": "Man with disabilities murdered, body dumped in septic tank",
+            "link": "https://www.thehindu.com/todays-paper/2026-02-10/th_chennai/articleG7FFIJGVD-13432829.ece"
+          },
+          {
+            "title": "Cancer awareness campaign launched",
+            "link": "https://www.thehindu.com/todays-paper/2026-02-10/th_chennai/articleG7FFIJGVB-13432830.ece"
+          },
+          {
+            "title": "Metro Rail completes tunnel from Light House to Thirumayilai",
+            "link": "https://www.thehindu.com/todays-paper/2026-02-10/th_chennai/articleG7FFIJGV9-13432831.ece"
+          },
+          {
+            "title": "Tamil Nadu competes with nations, not States, in attracting investment: Stalin",
+            "link": "https://www.thehindu.com/todays-paper/2026-02-10/th_chennai/articleG7FFIJ96E-13432832.ece"
+          },
+          {
+            "title": "Jana Nayagan producer to withdraw writ petition against CBFC from HC",
+            "link": "https://www.thehindu.com/todays-paper/2026-02-10/th_chennai/articleG7FFIJ966-13432836.ece"
+          },
+          {
+            "title": "‘Lack of co-ordination, old practices posing challenges to DMK alliance’",
+            "link": "https://www.thehindu.com/todays-paper/2026-02-10/th_chennai/articleG7FFIJ964-13432837.ece"
+          },
+          {
+            "title": "Fog, mist to persist across T.N. as winter conditions extend into mid-February",
+            "link": "https://www.thehindu.com/todays-paper/2026-02-10/th_chennai/articleG7FFIJ962-13432838.ece"
+          },
+          {
+            "title": "Stalin extends free meal scheme to one lakh more conservancy workers",
+            "link": "https://www.thehindu.com/todays-paper/2026-02-10/th_chennai/articleG7FFIJ96A-13432834.ece"
+          }
+        ],
+        "summary": "• ‘Restrictive’ software tools being used for SIR, says SC\n• Opposition mulls motion to remove LS Speaker Birla\n• Stalin opens Jaguar Land Rover plant in Ranipet\n• Pay dues or serve jail term, HC tells Kochadaiiyaan producer\n• ‘Centre has released ₹10,354.15 crore for CMRL’s phase II work’\n• Chief Secretary holds meeting to monitor avian influenza in city\n• Fisherfolk oppose proposed Mamallan reservoir project\n• Man with disabilities murdered, body dumped in septic tank\n• Cancer awareness campaign launched\n• Metro Rail completes tunnel from Light House to Thirumayilai",
         "summary_method": "headlines"
       },
       {
@@ -160,67 +227,84 @@
         "summary_method": "headlines"
       },
       {
+        "page": "National",
+        "articles": [
+          {
+            "title": "What is the current controversy around Form 7? | Explained",
+            "link": "https://www.thehindu.com/news/national/what-is-the-current-controversy-around-form-7-explained/article70612544.ece"
+          }
+        ],
+        "summary": "• What is the current controversy around Form 7? | Explained",
+        "summary_method": "headlines"
+      },
+      {
         "page": "International",
         "articles": [
           {
-            "title": "SpaceX shifts focus from Mars to Moon, Musk says",
-            "link": "https://www.thehindu.com/news/international/spacex-shifts-focus-from-mars-to-moon-musk-says/article70609502.ece"
+            "title": "Australia urges calm after violent clashes in Sydney during Israeli President's visit",
+            "link": "https://www.thehindu.com/news/international/australia-urges-calm-after-violent-clashes-in-sydney-during-israeli-presidents-visit/article70613644.ece"
+          },
+          {
+            "title": "U.S. says it struck vessel in eastern Pacific, killing two",
+            "link": "https://www.thehindu.com/news/international/us-strike-vessel-in-eastern-pacific-february-10-2026/article70613632.ece"
           }
         ],
-        "summary": "• SpaceX shifts focus from Mars to Moon, Musk says",
+        "summary": "• Australia urges calm after violent clashes in Sydney during Israeli President's visit\n• U.S. says it struck vessel in eastern Pacific, killing two",
         "summary_method": "headlines"
       },
       {
         "page": "Cities",
         "articles": [
           {
-            "title": "Three found dead inside car near Delhi flyover; probe on",
-            "link": "https://www.thehindu.com/news/cities/Delhi/three-found-dead-inside-car-near-delhi-flyover-probe-on/article70609514.ece"
+            "title": "Regional course in emergency medicine and anti-doping launched",
+            "link": "https://www.thehindu.com/news/cities/chennai/regional-course-in-emergency-medicine-and-anti-doping-launched/article70610803.ece"
           }
         ],
-        "summary": "• Three found dead inside car near Delhi flyover; probe on",
+        "summary": "• Regional course in emergency medicine and anti-doping launched",
         "summary_method": "headlines"
       },
       {
         "page": "International",
         "articles": [
           {
-            "title": "U.S. Congress to depose Epstein accomplice Ghislaine Maxwell",
-            "link": "https://www.thehindu.com/news/international/us-congress-to-depose-epstein-accomplice-ghislaine-maxwell/article70609490.ece"
-          },
-          {
-            "title": "Hong Kong tycoon Jimmy Lai sentenced to 20 years in national security trial",
-            "link": "https://www.thehindu.com/news/international/hong-kong-tycoon-jimmy-lai-sentenced-to-20-years-in-national-security-trial/article70609487.ece"
-          },
-          {
-            "title": "Mexico sends two ships with humanitarian aid for Cuba",
-            "link": "https://www.thehindu.com/news/international/mexico-sends-two-ships-with-humanitarian-aid-for-cuba/article70609483.ece"
+            "title": "U.S. lawmakers reviewing unredacted Epstein files",
+            "link": "https://www.thehindu.com/news/international/us-lawmakers-reviewing-unredacted-epstein-files/article70613627.ece"
           }
         ],
-        "summary": "• U.S. Congress to depose Epstein accomplice Ghislaine Maxwell\n• Hong Kong tycoon Jimmy Lai sentenced to 20 years in national security trial\n• Mexico sends two ships with humanitarian aid for Cuba",
+        "summary": "• U.S. lawmakers reviewing unredacted Epstein files",
         "summary_method": "headlines"
       },
       {
-        "page": "National",
+        "page": "Cities",
         "articles": [
           {
-            "title": "Vypeen-Munambam road turns a death trap",
-            "link": "https://www.thehindu.com/news/national/kerala/vypeen-munambam-road-turns-a-death-trap/article70608097.ece"
-          },
-          {
-            "title": "History-sheeter booked for cheating and criminal intimidation",
-            "link": "https://www.thehindu.com/news/national/telangana/history-sheeter-booked-for-cheating-and-criminal-intimidation/article70607831.ece"
-          },
-          {
-            "title": "Bhatti tears into BRS on penultimate day of electioneering",
-            "link": "https://www.thehindu.com/news/national/telangana/bhatti-tears-into-brs-on-penultimate-day-of-electioneering/article70607961.ece"
-          },
-          {
-            "title": "Hyderabad police commissioner presents awards to 1,446 personnel, introduces ‘Extra Mile’ recognition",
-            "link": "https://www.thehindu.com/news/national/telangana/hyderabad-police-commissioner-presents-awards-to-1446-personnel-introduces-extra-mile-recognition/article70607861.ece"
+            "title": "Metro fare: ‘Will do a thorough study’",
+            "link": "https://www.thehindu.com/news/cities/bangalore/metro-fare-will-do-a-thorough-study/article70613624.ece"
           }
         ],
-        "summary": "• Vypeen-Munambam road turns a death trap\n• History-sheeter booked for cheating and criminal intimidation\n• Bhatti tears into BRS on penultimate day of electioneering\n• Hyderabad police commissioner presents awards to 1,446 personnel, introduces ‘Extra Mile’ recognition",
+        "summary": "• Metro fare: ‘Will do a thorough study’",
+        "summary_method": "headlines"
+      },
+      {
+        "page": "International",
+        "articles": [
+          {
+            "title": "Israeli strikes kill three people in Gaza, hospital says",
+            "link": "https://www.thehindu.com/news/international/israeli-airstrikes-on-gaza-many-killed-february-10-2026/article70613616.ece"
+          }
+        ],
+        "summary": "• Israeli strikes kill three people in Gaza, hospital says",
+        "summary_method": "headlines"
+      },
+      {
+        "page": "Front Page",
+        "articles": [
+          {
+            "title": "Morning Digest: Publisher says no copies of Naravane’s Memoir published; ICC confirms India-Pakistan T20 World Cup match on February 15, and more",
+            "link": "https://www.thehindu.com/news/morning-digest-february-10-2026/article70612937.ece"
+          }
+        ],
+        "summary": "• Morning Digest: Publisher says no copies of Naravane’s Memoir published; ICC confirms India-Pakistan T20 World Cup match on February 15, and more",
         "summary_method": "headlines"
       }
     ],
@@ -229,201 +313,201 @@
         "page": "Front Page",
         "articles": [
           {
-            "title": "UP Budget Session from today, SIR to raise poll temperature",
-            "link": "https://indianexpress.com/article/cities/lucknow/up-budget-session-from-today-sir-to-raise-poll-temperature-10521677/"
+            "title": "‘Har Ghar, Har Dawar Swachhta Ki Dastak’ drive: Chandigarh Mayor, MC Commissioner visit households: ‘strictly follow waste segregation guidelines’",
+            "link": "https://indianexpress.com/article/cities/chandigarh/chandigarh-mayor-mc-commissioner-households-waste-segregation-guidelines-10523642/"
           },
           {
-            "title": "Arijit Singh returns to stage in Kolkata with Anoushka Shankar after playback retirement: ‘I am so nervous’. Watch",
-            "link": "https://indianexpress.com/article/entertainment/bollywood/arijit-singh-returns-to-stage-in-kolkata-with-anoushka-shankar-after-playback-retirement-10521675/"
+            "title": "New ATS building, police station & quarters: Dy CM launches development projects worth Rs 202 cr for Gujarat Police",
+            "link": "https://indianexpress.com/article/cities/ahmedabad/ats-building-police-station-deputy-cm-projects-gujarat-police-10523631/"
           },
           {
-            "title": "The hardest frontier? Why West Bengal may be BJP’s toughest electoral test yet",
-            "link": "https://indianexpress.com/article/political-pulse/the-hardest-frontier-why-west-bengal-may-be-bjps-toughest-electoral-test-yet-10521445/"
+            "title": "Several break-in & theft cases cracked, 2 held: Vadodara Police",
+            "link": "https://indianexpress.com/article/cities/ahmedabad/several-break-in-theft-cases-cracked-2-held-vadodara-police-10523629/"
           },
           {
-            "title": "‘A slap in face to our country’: Donald Trump says Bad Bunny’s Super Bowl halftime show was ‘absolutely terrible’",
-            "link": "https://indianexpress.com/article/world/us-news/donald-trump-says-bad-bunnys-super-bowl-halftime-show-was-absolutely-terrible-10521641/"
+            "title": "Aamir Khan reveals the reason behind his visit to Arijit Singh’s house, says he persuaded him to reconsider retirement: ‘It was in vain’",
+            "link": "https://indianexpress.com/article/entertainment/bollywood/aamir-khan-reason-behind-arijit-singh-house-visit-reconsider-retirement-10523592/"
           },
           {
-            "title": "‘I’m more than a Muslim Rapper’: Saniya Mistri Qaiyummuddin on breaking stereotypes and the hijab debate",
-            "link": "https://indianexpress.com/article/entertainment/music/saniya-mistri-qaiyummuddin-on-breaking-stereotypes-and-the-hijab-debate-10513538/"
+            "title": "UP per capita income has more than doubled: Economic Survey",
+            "link": "https://indianexpress.com/article/cities/lucknow/up-per-capita-doubled-economic-survey-10523615/"
           },
           {
-            "title": "Jack Dorsey’s Block cutting up to 10% of staff: Report",
-            "link": "https://indianexpress.com/article/technology/tech-news-technology/jack-dorseys-block-cutting-up-to-10-of-staff-report-10521702/"
+            "title": "Newborn girl found abandoned near GMSH-16, dies during treatment: police",
+            "link": "https://indianexpress.com/article/cities/chandigarh/newborn-girl-found-abandoned-near-gmsh-16-dies-during-treatment-police-10523624/"
           },
           {
-            "title": "‘It is a man’s world, but I’ve learned to live with it. It’s flexible, I am independent’",
-            "link": "https://indianexpress.com/article/cities/delhi/delhi-city-gig-workers-du-student-mans-world-10521681/"
+            "title": "Legless body found in gunny bag at Juhu beach, police probe murder",
+            "link": "https://indianexpress.com/article/cities/mumbai/legless-body-found-in-gunny-bag-at-juhu-beach-police-probe-murder-10523613/"
           },
           {
-            "title": "Panchayat Amendment Bill passed: TMC says it’s for stability, BJP calls it ruling party’s political insurance",
-            "link": "https://indianexpress.com/article/cities/kolkata/panchayat-amendment-bill-passed-tmc-says-its-for-stability-bjp-calls-it-ruling-partys-political-insurance-10521687/"
+            "title": "Shinde Sena outshines Uddhav’s party by wide margin in ZP polls",
+            "link": "https://indianexpress.com/article/cities/mumbai/shinde-sena-outshines-uddhavs-party-by-wide-margin-in-zp-polls-10523608/"
           },
           {
-            "title": "Houselisting data and housing survey: Census 2027 in Haryana to be in 2 phases",
-            "link": "https://indianexpress.com/article/cities/chandigarh/houselisting-data-and-housing-survey-census-2027-in-haryana-to-be-in-2-phases-10521686/"
+            "title": "‘Not at cost of career annihilation’: Calcutta High Court slams CISF for firing constable over mobile phone use on duty",
+            "link": "https://indianexpress.com/article/legal-news/calcutta-high-court-cisf-constable-dismissal-mobile-phone-proportionality-ruling-10522271/"
           },
           {
-            "title": "Border 2 Box Office Collection Worldwide Day 17 Update: Sunny Deol film crosses Rs 440 cr mark worldwide",
-            "link": "https://indianexpress.com/article/entertainment/bollywood/border-2-box-office-collection-day-17-sunny-deol-varun-dhawan-dhurandhar-comparison-10519304/"
+            "title": "Delhi Confidential",
+            "link": "https://indianexpress.com/article/delhi-confidential/delhi-confidential-19-10523603/"
           },
           {
-            "title": "SpaceX to prioritise building self-growing city on moon, Musk says",
-            "link": "https://indianexpress.com/article/technology/science/spacex-to-prioritise-building-self-growing-city-on-moon-musk-says-10521680/"
+            "title": "Weighing 186 kg at 31, he was hospitalised twice as common infection turned deadly: Study shows obesity as risk factor",
+            "link": "https://indianexpress.com/article/health-wellness/obesity-body-weight-type-2-diabetes-high-blood-pressure-10523594/"
           },
           {
-            "title": "Delhi gig stories: Stopgap arrangement for some, lifeline for others",
-            "link": "https://indianexpress.com/article/cities/delhi/delhi-gig-stories-stopgap-arrangement-for-some-lifeline-for-others-10521646/"
+            "title": "Vijay’s party blows the whistle after cops silence Chennai match day must-carry",
+            "link": "https://indianexpress.com/article/cities/chennai/vijays-party-cops-chennai-match-day-10523552/"
           },
           {
-            "title": "Bifurcation of Malappuram, more holidays for Eid: Clerics’ body in Kerala issues demands ahead of polls",
-            "link": "https://indianexpress.com/article/india/bifurcation-of-malappuram-more-holidays-for-eid-clerics-body-in-kerala-issues-demands-ahead-of-polls-10521421/"
+            "title": "Firms not completing works under Jal Jeevan Mission on time will face FIR, jail, warns UP minister",
+            "link": "https://indianexpress.com/article/cities/lucknow/firms-not-completing-works-under-jal-jeevan-mission-on-time-will-face-fir-jail-warns-up-minister-10523587/"
           },
           {
-            "title": "Former CJI Gavai backs ‘People’s Charter’ to ‘save Goa’",
-            "link": "https://indianexpress.com/article/india/former-cji-gavai-backs-peoples-charter-to-save-goa-10521420/"
+            "title": "Amid high drama, Ludhiana MC House passes integrated solid waste mgt proposal; private firm to oversee garbage collection",
+            "link": "https://indianexpress.com/article/cities/chandigarh/ludhiana-mc-house-passes-integrated-solid-waste-mgt-proposal-private-firm-to-oversee-garbage-collection-10523575/"
           },
           {
-            "title": "Tax cuts on cancer therapies are a relief but won’t go far",
-            "link": "https://indianexpress.com/article/health-wellness/tax-cuts-are-a-relief-but-wont-go-far-10521546/"
+            "title": "Daily Briefing: SC draws hard line on SIR of electoral rolls",
+            "link": "https://indianexpress.com/article/live-news/daily-briefing-top-news-february-cricket-sir-10523551/"
           }
         ],
-        "summary": "• UP Budget Session from today, SIR to raise poll temperature\n• Arijit Singh returns to stage in Kolkata with Anoushka Shankar after playback retirement: ‘I am so nervous’. Watch\n• The hardest frontier? Why West Bengal may be BJP’s toughest electoral test yet\n• ‘A slap in face to our country’: Donald Trump says Bad Bunny’s Super Bowl halftime show was ‘absolutely terrible’\n• ‘I’m more than a Muslim Rapper’: Saniya Mistri Qaiyummuddin on breaking stereotypes and the hijab debate\n• Jack Dorsey’s Block cutting up to 10% of staff: Report\n• ‘It is a man’s world, but I’ve learned to live with it. It’s flexible, I am independent’\n• Panchayat Amendment Bill passed: TMC says it’s for stability, BJP calls it ruling party’s political insurance\n• Houselisting data and housing survey: Census 2027 in Haryana to be in 2 phases\n• Border 2 Box Office Collection Worldwide Day 17 Update: Sunny Deol film crosses Rs 440 cr mark worldwide",
+        "summary": "• ‘Har Ghar, Har Dawar Swachhta Ki Dastak’ drive: Chandigarh Mayor, MC Commissioner visit households: ‘strictly follow waste segregation guidelines’\n• New ATS building, police station & quarters: Dy CM launches development projects worth Rs 202 cr for Gujarat Police\n• Several break-in & theft cases cracked, 2 held: Vadodara Police\n• Aamir Khan reveals the reason behind his visit to Arijit Singh’s house, says he persuaded him to reconsider retirement: ‘It was in vain’\n• UP per capita income has more than doubled: Economic Survey\n• Newborn girl found abandoned near GMSH-16, dies during treatment: police\n• Legless body found in gunny bag at Juhu beach, police probe murder\n• Shinde Sena outshines Uddhav’s party by wide margin in ZP polls\n• ‘Not at cost of career annihilation’: Calcutta High Court slams CISF for firing constable over mobile phone use on duty\n• Delhi Confidential",
         "summary_method": "headlines"
       },
       {
         "page": "India",
         "articles": [
           {
-            "title": "Bifurcation of Malappuram, more holidays for Eid: Clerics’ body in Kerala issues demands ahead of polls",
-            "link": "https://indianexpress.com/article/india/bifurcation-of-malappuram-more-holidays-for-eid-clerics-body-in-kerala-issues-demands-ahead-of-polls-10521421/"
+            "title": "From Chhattisgarh stage, Shah’s warning to Naxals in Telangana, and a plea to women cadre",
+            "link": "https://indianexpress.com/article/india/from-chhattisgarh-stage-shahs-warning-to-naxals-in-telangana-and-a-plea-to-women-cadre-10523365/"
           },
           {
-            "title": "Former CJI Gavai backs ‘People’s Charter’ to ‘save Goa’",
-            "link": "https://indianexpress.com/article/india/former-cji-gavai-backs-peoples-charter-to-save-goa-10521420/"
+            "title": "Congress leader’s request to Amartya Sen, Romila Thapar: Don’t attend Kerala conference ‘aimed at legitimising authoritarian govt’",
+            "link": "https://indianexpress.com/article/india/congress-leaders-request-to-amartya-sen-romila-thapar-dont-attend-kerala-conference-aimed-at-legitimising-authoritarian-govt-10523368/"
           },
           {
-            "title": "Dogs’ unusual barking alerts family, 6-year-old girl found in pool of blood",
-            "link": "https://indianexpress.com/article/india/dogs-unusual-barking-alerts-family-6-year-old-girl-found-in-pool-of-blood-10521424/"
+            "title": "J&K unemployment hits 6.7%, nearly double the national average – and job seekers have paid ₹48 crore in application fees",
+            "link": "https://indianexpress.com/article/india/indianexpress-com-article-india-jammu-and-kashmir-unemployment-rate-mission-yuva-jkpsc-jkssb-fees-10521490/"
           },
           {
-            "title": "‘Maoist issue not linked to development’: In Chhattisgarh, Amit Shah reiterates March deadline to uproot Naxalism",
-            "link": "https://indianexpress.com/article/india/maoist-issue-not-linked-to-development-in-chhattisgarh-amit-shah-reiterates-march-deadline-to-uproot-naxalism-10521423/"
+            "title": "Cocaine seller flew under the radar till fake currency he deposited at PNB branch gave him away",
+            "link": "https://indianexpress.com/article/india/cocaine-seller-flew-under-the-radar-till-fake-currency-he-deposited-at-pnb-branch-gave-him-away-10523373/"
           },
           {
-            "title": "Free NEET coaching, Rs 10-lakh pilgrim insurance: Vaishno Devi shrine board’s new decisions",
-            "link": "https://indianexpress.com/article/india/free-neet-coaching-rs-10-lakh-pilgrim-insurance-vaishno-devi-shrine-boards-new-decisions-10521422/"
+            "title": "Kashmir defies nature: Tulips bloom in December for first time, months ahead of spring",
+            "link": "https://indianexpress.com/article/india/kashmir-tulip-winter-bloom-skuast-floral-tourism-10523369/"
           },
           {
-            "title": "Once attacked by mob, now escorted by CM: Kuki-Zo MLA injured in 2023 attack airlifted from Manipur to Gurgaon",
-            "link": "https://indianexpress.com/article/india/once-attacked-by-mob-now-escorted-by-cm-kuki-zo-mla-injured-in-2023-attack-airlifted-from-manipur-to-gurgaon-10521414/"
+            "title": "Budget cautious, forgetful  of the past, reform express stuck: Chidambaram in Rajya Sabha",
+            "link": "https://indianexpress.com/article/india/budget-cautious-forgetful-of-the-past-reform-express-stuck-chidambaram-in-rajya-sabha-10523491/"
           },
           {
-            "title": "‘My daughter didn’t bow, how can I’: Ankita Bhandari’s parents join mahapanchayat seeking justice",
-            "link": "https://indianexpress.com/article/india/my-daughter-didnt-bow-how-can-i-ankita-bhandaris-parents-join-mahapanchayat-seeking-justice-10521499/"
+            "title": "Congress slams govt over PMO note to Lok Sabha; BJP says UPA kept PM fund out of RTI",
+            "link": "https://indianexpress.com/article/india/congress-slams-govt-over-pmo-note-to-lok-sabha-bjp-says-upa-kept-pm-fund-out-of-rti-10523487/"
           },
           {
-            "title": "5 girls go out to play in Bihar village, only 1 returns — mystery continues",
-            "link": "https://indianexpress.com/article/india/girls-go-out-to-play-in-bihar-village-returns-mystery-continues-10521452/"
+            "title": "From maritime to digital: India, Seychelles give ties a shot in arm",
+            "link": "https://indianexpress.com/article/india/from-maritime-to-digital-india-seychelles-give-ties-a-shot-in-arm-10523432/"
           },
           {
-            "title": "Maharashtra Zilla Parishad Election Results 2026 LIVE Updates: Over 68% turnout across 12 districts, vote counting to begin shortly",
-            "link": "https://indianexpress.com/article/india/maharashtra-zilla-parishad-zp-election-results-2026-live-updates-district-wise-zp-panchayat-samiti-counting-10521594/"
+            "title": "Flux in agency behind PMKVY: CEO exit, police complaint",
+            "link": "https://indianexpress.com/article/india/flux-in-agency-behind-pmkvy-ceo-exit-police-complaint-10523423/"
           },
           {
-            "title": "Exclusive: From file disposal to output, Union Secretaries now get a report card each",
-            "link": "https://indianexpress.com/article/india/from-file-disposal-to-output-union-secretaries-now-get-a-report-card-each-10521460/"
+            "title": "India, Greece sign joint declaration of intent to strengthen defence cooperation",
+            "link": "https://indianexpress.com/article/india/india-greece-sign-joint-declaration-of-intent-to-strengthen-defence-cooperation-10523417/"
           },
           {
-            "title": "From business to tech, India inks key pacts with Malaysia",
-            "link": "https://indianexpress.com/article/india/from-business-to-tech-india-inks-key-pacts-with-malaysia-10521515/"
+            "title": "On flagship skill PMKVY scheme blacklist: Empty centres, claims, counter-claims, few takers",
+            "link": "https://indianexpress.com/article/india/on-flagship-skill-pmkvy-scheme-blacklist-empty-centres-claims-counter-claims-few-takers-10523397/"
           },
           {
-            "title": "Only ERO, not micro observers, can accept or reject eligibility of electors: Election Commission",
-            "link": "https://indianexpress.com/article/india/only-ero-not-micro-observers-can-accept-or-reject-eligibility-of-electors-election-commission-10521518/"
+            "title": "National interest will guide how India sources its energy: Foreign Secretary Vikram Misri",
+            "link": "https://indianexpress.com/article/india/national-interest-will-guide-how-india-sources-its-energy-foreign-secretary-vikram-misri-10523392/"
           },
           {
-            "title": "Former consumer  affairs secretary is USISPF Global Value Chains Committee Chair",
-            "link": "https://indianexpress.com/article/india/former-consumer-affairs-secretary-is-usispf-global-value-chains-committee-chair-10521495/"
+            "title": "‘No harassment from I-T’ in CJ Roy death: Confident Group MD rejects claim by chairman’s brother",
+            "link": "https://indianexpress.com/article/india/no-harassment-from-i-t-in-cj-roy-death-confident-group-md-rejects-claim-by-chairmans-brother-10523230/"
           },
           {
-            "title": "Security info channel opens with Canada post Ajit Doval visit",
-            "link": "https://indianexpress.com/article/india/security-info-channel-opens-with-canada-post-ajit-doval-visit-10521507/"
+            "title": "‘Next-generation system’: To strengthen tsunami monitoring, Andaman and Nicobar to get regional service centre",
+            "link": "https://indianexpress.com/article/india/tsunami-monitoring-andaman-nicobar-next-generation-system-regional-service-centre-10523057/"
           },
           {
-            "title": "IRCTC Divine East Temple Tour: Railways to operate Bharat Gaurav Deluxe Tourist train – check journey date, route, ticket price",
-            "link": "https://indianexpress.com/article/india/irctc-divine-east-temple-tour-railways-to-operate-bharat-gaurav-deluxe-tourist-train-check-journey-date-route-ticket-price-10521324/"
+            "title": "Indian Railways infra push: Rs 2,414 crore projects approved across Kerala, Tamil Nadu, Jharkhand & Punjab",
+            "link": "https://indianexpress.com/article/india/indian-railways-rs-2414-crore-projects-approved-kerala-tamil-nadu-jharkhand-punjab-10522723/"
           }
         ],
-        "summary": "• Bifurcation of Malappuram, more holidays for Eid: Clerics’ body in Kerala issues demands ahead of polls\n• Former CJI Gavai backs ‘People’s Charter’ to ‘save Goa’\n• Dogs’ unusual barking alerts family, 6-year-old girl found in pool of blood\n• ‘Maoist issue not linked to development’: In Chhattisgarh, Amit Shah reiterates March deadline to uproot Naxalism\n• Free NEET coaching, Rs 10-lakh pilgrim insurance: Vaishno Devi shrine board’s new decisions\n• Once attacked by mob, now escorted by CM: Kuki-Zo MLA injured in 2023 attack airlifted from Manipur to Gurgaon\n• ‘My daughter didn’t bow, how can I’: Ankita Bhandari’s parents join mahapanchayat seeking justice\n• 5 girls go out to play in Bihar village, only 1 returns — mystery continues\n• Maharashtra Zilla Parishad Election Results 2026 LIVE Updates: Over 68% turnout across 12 districts, vote counting to begin shortly\n• Exclusive: From file disposal to output, Union Secretaries now get a report card each",
+        "summary": "• From Chhattisgarh stage, Shah’s warning to Naxals in Telangana, and a plea to women cadre\n• Congress leader’s request to Amartya Sen, Romila Thapar: Don’t attend Kerala conference ‘aimed at legitimising authoritarian govt’\n• J&K unemployment hits 6.7%, nearly double the national average – and job seekers have paid ₹48 crore in application fees\n• Cocaine seller flew under the radar till fake currency he deposited at PNB branch gave him away\n• Kashmir defies nature: Tulips bloom in December for first time, months ahead of spring\n• Budget cautious, forgetful  of the past, reform express stuck: Chidambaram in Rajya Sabha\n• Congress slams govt over PMO note to Lok Sabha; BJP says UPA kept PM fund out of RTI\n• From maritime to digital: India, Seychelles give ties a shot in arm\n• Flux in agency behind PMKVY: CEO exit, police complaint\n• India, Greece sign joint declaration of intent to strengthen defence cooperation",
         "summary_method": "headlines"
       },
       {
         "page": "World",
         "articles": [
           {
-            "title": "‘We were careless’: Noam Chomsky’s wife apologises for ‘grave mistake’ over ties with Jeffrey Epstein",
-            "link": "https://indianexpress.com/article/world/noam-chomskys-wife-apologises-for-grave-mistake-over-ties-with-jeffrey-epstein-10521578/"
+            "title": "US slashes Bangladesh reciprocal tariff to 19% in new trade deal",
+            "link": "https://indianexpress.com/article/world/us-slashes-bangladesh-reciprocal-tariff-to-19-in-new-trade-deal-10523548/"
           },
           {
-            "title": "Donald Trump congratulates Japan’s Takaichi on election win",
-            "link": "https://indianexpress.com/article/world/donald-trump-congratulates-japans-takaichi-on-election-win-10521552/"
+            "title": "US says it struck vessel in eastern Pacific, killing two",
+            "link": "https://indianexpress.com/article/world/us-news/us-struck-vessel-eastern-pacific-killing-two-10523554/"
           },
           {
-            "title": "Who is Narges Mohammadi and why Iran has sentenced the Nobel Peace Prize winner again?",
-            "link": "https://indianexpress.com/article/world/who-is-narges-mohammadi-and-why-iran-has-sentenced-her-10521535/"
+            "title": "From margins to centre stage, Jamaat’s new role in Bangladesh’s poll battle",
+            "link": "https://indianexpress.com/article/world/from-margins-to-centre-stage-jamaats-new-role-in-bangladeshs-poll-battle-10523404/"
           },
           {
-            "title": "Days before Bangladesh polls, writing on the wall: Posters of Khaleda Zia everywhere, none of Hasina",
-            "link": "https://indianexpress.com/article/world/days-before-bangladesh-polls-writing-on-the-wall-posters-of-khaleda-zia-everywhere-none-of-hasina-10521473/"
+            "title": "Five years after Myanmar coup, ‘Even hope has become a risk’",
+            "link": "https://indianexpress.com/article/world/five-years-after-myanmar-coup-even-hope-has-become-a-risk-10523338/"
           },
           {
-            "title": "Venezuelan opposition leader Juan Pablo Guanipa freed after 8 months in prison",
-            "link": "https://indianexpress.com/article/world/venezuelan-opposition-leader-juan-pablo-guanipa-freed-10521391/"
+            "title": "A raid in a small town brings Trump’s deportations to deep-red Idaho",
+            "link": "https://indianexpress.com/article/world/us-news/a-raid-in-a-small-town-brings-trumps-deportations-to-deep-red-idaho-10523334/"
           },
           {
-            "title": "Investigation continues a week after Savannah Guthrie mother was reported missing",
-            "link": "https://indianexpress.com/article/world/us-news/savannah-guthrie-mother-nancy-missing-arizona-ransom-investigation-updates-10521387/"
+            "title": "Oil rises after US urges caution for vessels traveling near Iran",
+            "link": "https://indianexpress.com/article/world/oil-rises-after-us-urges-caution-for-vessels-traveling-near-iran-10523327/"
           },
           {
-            "title": "Epstein sought to meet Putin, built ties with Russian officials, files show",
-            "link": "https://indianexpress.com/article/world/us-news/epstein-files-russian-officials-putin-sergei-lavrov-trump-advice-10521368/"
+            "title": "Purported Nancy Guthrie ransom note deadline approaches as search enters a second week",
+            "link": "https://indianexpress.com/article/world/us-news/nancy-guthrie-kidnapping-deadline-savannah-guthrie-ransom-payment-tucson-10523323/"
           },
           {
-            "title": "New photos show Epstein’s ‘wild’ dinner party with Elon Musk, Mark Zuckerberg",
-            "link": "https://indianexpress.com/article/world/us-news/epstein-files-photo-elon-musk-mark-zuckerberg-2015-dinner-details-10521320/"
+            "title": "Bangladesh Election 2026: 5 things to know before voting in Bangladesh polls",
+            "link": "https://indianexpress.com/article/world/bangladesh-national-election-2026-july-charter-bnp-jamaat-ncp-results-date-10523292/"
           },
           {
-            "title": "Inside Jeffrey Epstein’s plans to create a ‘super race’, with help from AI and gene engineering",
-            "link": "https://indianexpress.com/article/world/jeffrey-epstein-baby-ranch-eugenics-transhumanism-plan-explained-10521276/"
+            "title": "Ghislaine Maxwell declines to answer questions from House committee, citing 5th Amendment rights",
+            "link": "https://indianexpress.com/article/world/us-news/ghislaine-maxwell-fifth-amendment-epstein-deposition-clintons-trump-clemency-10523200/"
           },
           {
-            "title": "Iran sentences Nobel laureate Narges Mohammadi to 7 more years in prison",
-            "link": "https://indianexpress.com/article/world/iran-sentences-nobel-laureate-narges-mohammadi-to-prison-10521279/"
+            "title": "Iran says it could dilute enriched uranium if all sanctions are lifted",
+            "link": "https://indianexpress.com/article/world/iran-says-it-could-dilute-enriched-uranium-if-all-sanctions-are-lifted-10523108/"
           },
           {
-            "title": "Japan’s ‘Iron Lady’ Sanae Takaichi forges stunning election win",
-            "link": "https://indianexpress.com/article/world/japan-election-results-2026-sanae-takaichi-landslide-victory-ldp-supermajority-10521221/"
+            "title": "Keir Starmer not resigning as UK prime minister, announces Downing Street",
+            "link": "https://indianexpress.com/article/world/keir-starmer-resignation-rumours-mandelson-epstein-scandal-tim-allan-quits-10522934/"
           },
           {
-            "title": "UK PM Starmer’s chief of staff Morgan McSweeney quits over Mandelson fallout",
-            "link": "https://indianexpress.com/article/world/uk-pm-starmer-chief-of-staff-mcsweeney-resigns-mandelson-epstein-files-10521210/"
+            "title": "Epstein files 2026: Who resigned, who was fired, who apologised as Europe’s elite face reckoning",
+            "link": "https://indianexpress.com/article/world/us-news/jeffrey-epstein-2026-files-europe-political-fallout-uk-norway-resignations-10522763/"
           },
           {
-            "title": "Cash, massages, scholarships: How Epstein lured his victims into hierarchy of abuse",
-            "link": "https://indianexpress.com/article/world/us-news/jeffrey-epstein-files-jane-testimony-victim-luring-strategy-10521185/"
+            "title": "Epstein files 2026: Who will inherit Epstein’s million-dollar fortune? Hint: It’s not just Ghislaine Maxwell",
+            "link": "https://indianexpress.com/article/world/us-news/jeffrey-epstein-1953-trust-karyna-shuliak-beneficiary-estate-details-10522899/"
           },
           {
-            "title": "Bangladesh Election 2026: BNP, Jamaat and NCP promise bullet trains, rail project in post-Awami League era",
-            "link": "https://indianexpress.com/article/world/bangladesh-election-2026-manifestos-bnp-jamaat-ncp-bullet-train-rail-projects-10520908/"
+            "title": "‘Stand with us’: Epstein survivors air Super Bowl advert urging release of files, call on US attorney general",
+            "link": "https://indianexpress.com/article/world/us-news/epstein-survivors-air-super-bowl-advert-urging-release-of-files-call-on-us-attorney-general-10521981/"
           },
           {
-            "title": "Bangladesh Election 2026: How voting works in Bangladesh",
-            "link": "https://indianexpress.com/article/world/bangladesh-election-2026-guide-postal-voting-expatriates-jatiya-sangsad-10520990/"
+            "title": "What we know so far about Milan protests after police clash with demonstrators at start of Winter Olympics",
+            "link": "https://indianexpress.com/article/world/what-we-know-so-far-about-milan-protests-after-police-clash-with-demonstrators-at-start-of-winter-olympics-10521683/"
           }
         ],
-        "summary": "• ‘We were careless’: Noam Chomsky’s wife apologises for ‘grave mistake’ over ties with Jeffrey Epstein\n• Donald Trump congratulates Japan’s Takaichi on election win\n• Who is Narges Mohammadi and why Iran has sentenced the Nobel Peace Prize winner again?\n• Days before Bangladesh polls, writing on the wall: Posters of Khaleda Zia everywhere, none of Hasina\n• Venezuelan opposition leader Juan Pablo Guanipa freed after 8 months in prison\n• Investigation continues a week after Savannah Guthrie mother was reported missing\n• Epstein sought to meet Putin, built ties with Russian officials, files show\n• New photos show Epstein’s ‘wild’ dinner party with Elon Musk, Mark Zuckerberg\n• Inside Jeffrey Epstein’s plans to create a ‘super race’, with help from AI and gene engineering\n• Iran sentences Nobel laureate Narges Mohammadi to 7 more years in prison",
+        "summary": "• US slashes Bangladesh reciprocal tariff to 19% in new trade deal\n• US says it struck vessel in eastern Pacific, killing two\n• From margins to centre stage, Jamaat’s new role in Bangladesh’s poll battle\n• Five years after Myanmar coup, ‘Even hope has become a risk’\n• A raid in a small town brings Trump’s deportations to deep-red Idaho\n• Oil rises after US urges caution for vessels traveling near Iran\n• Purported Nancy Guthrie ransom note deadline approaches as search enters a second week\n• Bangladesh Election 2026: 5 things to know before voting in Bangladesh polls\n• Ghislaine Maxwell declines to answer questions from House committee, citing 5th Amendment rights\n• Iran says it could dilute enriched uranium if all sanctions are lifted",
         "summary_method": "headlines"
       },
       {
@@ -497,6 +581,30 @@
         "page": "Business",
         "articles": [
           {
+            "title": "Draft income tax rules: Hike in threshold for quoting PAN for cash deposits, hotel bills, property transactions",
+            "link": "https://indianexpress.com/article/business/draft-income-tax-rules-hike-in-threshold-for-quoting-pan-for-cash-deposits-hotel-bills-property-transactions-10523500/"
+          },
+          {
+            "title": "From SMS to graded e-mails, Govt’s tax ‘nudge’ makes a mark",
+            "link": "https://indianexpress.com/article/business/from-sms-to-graded-e-mails-govts-tax-nudge-makes-a-mark-10523366/"
+          },
+          {
+            "title": "Bullet train project: Railway Board directs NHSRCL to prepare DPRs for seven new high-speed rail corridors",
+            "link": "https://indianexpress.com/article/business/bullet-train-project-railway-board-directs-nhsrcl-to-prepare-dprs-for-seven-new-high-speed-rail-corridors-10523383/"
+          },
+          {
+            "title": "‘Domestic MFs halve ownership gap with FIIs in NSE-listed firms to 5.5% in by December 2025’",
+            "link": "https://indianexpress.com/article/business/domestic-mfs-halve-ownership-gap-with-fiis-in-nse-listed-firms-to-5-5-in-by-december-2025-10523078/"
+          },
+          {
+            "title": "Sensex, Nifty edge upward in early trade on Asian market momentum",
+            "link": "https://indianexpress.com/article/business/sensex-nifty-edge-upward-in-early-trade-on-asian-market-momentum-10522161/"
+          },
+          {
+            "title": "Rupee rises 21 paise to 90.44 against the US dollar in early trade",
+            "link": "https://indianexpress.com/article/business/rupee-rises-21-paise-to-90-44-against-the-us-dollar-in-early-trade-10521894/"
+          },
+          {
             "title": "Top I-T firms earmark Labour Code costs, less than 3% of payroll",
             "link": "https://indianexpress.com/article/business/top-i-t-firms-earmark-labour-code-costs-less-than-3-per-cent-of-payroll-10521478/"
           },
@@ -531,33 +639,9 @@
           {
             "title": "India, US reach interim deal: Sensitive sectors safeguarded, Piyush Goyal on farm, dairy producers",
             "link": "https://indianexpress.com/article/business/india-us-trade-deal-concession-national-security-tariffs-metals-autos-pharma-10518478/"
-          },
-          {
-            "title": "Vidarbha holds 75% of Maharashtra’s minerals and best iron ore; aim is to produce steel cheaper than China: Union Minister Nitin Gadkari",
-            "link": "https://indianexpress.com/article/business/nitin-gadkari-vidarbha-holds-75-of-maharashtras-minerals-best-iron-ore-10518290/"
-          },
-          {
-            "title": "Digital fraud cases: RBI plans compensation up to Rs 25,000 even if victim shares OTP",
-            "link": "https://indianexpress.com/article/business/digital-fraud-cases-rbi-plans-compensation-up-to-rs-25000-even-if-victim-shares-otp-10518253/"
-          },
-          {
-            "title": "Urban consumer confidence declines, reflects growing caution on economic conditions: RBI survey",
-            "link": "https://indianexpress.com/article/business/urban-consumer-confidence-declines-reflects-growing-caution-on-economic-conditions-rbi-survey-10518277/"
-          },
-          {
-            "title": "Monetary Policy Meet: Repo rate steady at 5.25%; FY26 GDP, inflation projections raised",
-            "link": "https://indianexpress.com/article/business/monetary-policy-meet-repo-rate-steady-at-5-25-fy26-gdp-inflation-projections-raised-10518283/"
-          },
-          {
-            "title": "RBI doubles collateral-free loans to MSMEs to Rs 20 lakh",
-            "link": "https://indianexpress.com/article/business/rbi-doubles-collateral-free-loans-to-msmes-to-rs-20-lakh-10517346/"
-          },
-          {
-            "title": "RBI moves to shield customers from small fraud, caps compensation at Rs 25,000",
-            "link": "https://indianexpress.com/article/business/rbi-shield-customers-small-fraud-caps-compensation-10517406/"
           }
         ],
-        "summary": "• Top I-T firms earmark Labour Code costs, less than 3% of payroll\n• No sunset date for old tax regime, 95% of refunds disbursed, says CBDT chair\n• India’s GPU capacity may triple to 100,000 by 2026-end: IndiaAI Mission CEO\n• What India has really given on agriculture in India-US trade deal\n• KIIT Continues Strong Placement Performance for 2025 Batch; NVIDIA, Microsoft Among Top Recruiters\n• Tariff cuts on soybean oil, fruits, and wine: What interim agreement on India-US trade entails\n• “Soybean and cotton farmers interests are protected”- Maharashtra CM Devendra Fadnavis on Indo-US trade deal\n• C. V. Raman Global University Hosts International Conference on Intelligent Computing, Cognitive Networks, and Smart Systems (IC2NS2-2026)\n• India, US reach interim deal: Sensitive sectors safeguarded, Piyush Goyal on farm, dairy producers\n• Vidarbha holds 75% of Maharashtra’s minerals and best iron ore; aim is to produce steel cheaper than China: Union Minister Nitin Gadkari",
+        "summary": "• Draft income tax rules: Hike in threshold for quoting PAN for cash deposits, hotel bills, property transactions\n• From SMS to graded e-mails, Govt’s tax ‘nudge’ makes a mark\n• Bullet train project: Railway Board directs NHSRCL to prepare DPRs for seven new high-speed rail corridors\n• ‘Domestic MFs halve ownership gap with FIIs in NSE-listed firms to 5.5% in by December 2025’\n• Sensex, Nifty edge upward in early trade on Asian market momentum\n• Rupee rises 21 paise to 90.44 against the US dollar in early trade\n• Top I-T firms earmark Labour Code costs, less than 3% of payroll\n• No sunset date for old tax regime, 95% of refunds disbursed, says CBDT chair\n• India’s GPU capacity may triple to 100,000 by 2026-end: IndiaAI Mission CEO\n• What India has really given on agriculture in India-US trade deal",
         "summary_method": "headlines"
       }
     ],
@@ -566,134 +650,134 @@
         "page": "Latest News",
         "articles": [
           {
-            "title": "மேஷம் - மீனம்: தினப்பலன்கள்! - Dinamani",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdnQxZEVZcDdtdnlsTWVSeWtqYmpUTE4xdTFsQmRJS2tsNGxWS2h4SlVRSGRNVWRjMW1WdUZLc0Rsc0lhaE1xZmRneWlNd29IYnFHTFVtWExYQV91b2gyb3RQSkltNzA4MEVMNUdHbTJvN1FmZWNHVTJYQndaZ2Itc2w4WXY1eGfSAYcBQVVfeXFMTXZ0MWRFWXA3bXZ5bE1lUnlramJqVExOMXUxbEJkSUtrbDRsVktoeEpVUUhkTVVkYzFtVnVGS3NEbHNJYWhNcWZkZ3lpTXdvSGJxR0xVbVhMWEFfdW9oMm90UEpJbTcwODBFTDVHR20ybzdRZmVjR1UyWEJ3WmdiLXNsOFl2NXhn?oc=5"
+            "title": "வருமான வரித்துறை கண்காணிக்கும் 10 பணப்பரிமாற்றங்கள்! - Dinamani",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQzhGYVBnZFRpZHRNajlCN2dDTTRvbDFiYU1lN1RsOUZ1c0VNeWt0MThqbnMxVkl5RGVsZVJVOGt6cTc2OW1PdUowdU5QMXJwaWVvb1N3MTlJMnJ0UEdpX3F3NHRyTFdlaFJYdnlaSHliSGhJeFdGVlFQcHJsdUdzalB2WjAtZjdDaUdYVnF3eTJvS1RJdzJoRjRGcjB3V2NVQnVxV1VkU0pubkM0cmc3TGlBZUlNQnYwWmRwSTN30gG-AUFVX3lxTE1DOEZhUGdkVGlkdE1qOUI3Z0NNNG9sMWJhTWU3VGw5RnVzRU15a3QxOGpuczFWSXlEZWxlUlU4a3pxNzY5bU91SjB1TlAxcnBpZW9vU3cxOUkycnRQR2lfcXc0dHJMV2VoUlh2eVpIeWJIaEl4V0ZWUVBwcmx1R3NqUHZaMC1mN0NpR1hWcXd5Mm9LVEl3MmhGNEZyMHdXY1VCdXFXVWRTSm5uQzRyZzdMaUFlSU1CdjBaZHBJM3c?oc=5"
           },
           {
-            "title": "திமுக அரசின் குளறுபடியால் டிஎன்பிஎஸ்சி குரூப் 2, 2 ஏ தேர்வுகள் ரத்து: அண்ணாமலை கண்டனம் - Dinamani",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWFVTLVVSazBxSkNuRC1iVW1JeGw4aGJpTGluQjRFaFlhLTcyVU45SGV1WU8zTnlOZEFOMEM1TGFzRFlQdVpyZ1lmR0RHQTVES1hZaWh4VWZZRUVSZzE3RDFvNU5wZmVLUzViZnZrYWt3ejZCVElvV3VDT2t6SVJ4NnNPSzlINWJDQWtKYmRzbkRtUXdYTmhudjl4eU5pajg5d1NqX0dB?oc=5"
+            "title": "டாடா மோட்டாா்ஸ் காா் தயாரிப்பு தொழிற்சாலை! - Dinamani",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMy1jTU1EcGRRVTV3LW5XcFdDSk1sWGw2c2tLdks2aU9zX2hJb2lQSXV0OGVjRnF2cEZEVVdNN1JLR192YlEtSG55bUpMRWY4SlRZc0NBN19jWDVXMER6XzZtODlURzVjMG1KeE5TaWNRcWZKRDhSZFEyX1dreWRVeVNhSGYxQ2V3dEk3XzA0VmdDY09fbGQ5ZVdDYzBaakk0R1pn0gGjAUFVX3lxTE0zLWNNTURwZFFVNXctbldwV0NKTWxYbDZza0t2SzZpT3NfaElvaVBJdXQ4ZWNGcXZwRkRVV003UktHX3ZiUS1IbnltSkxFZjhKVFlzQ0E3X2NYNVcwRHpfNm04OVRHNWMwbUp4TlNpY1FxZkpEOFJkUTJfV2t5ZFV5U2FIZjFDZXd0STdfMDRWZ0NjT19sZDllV0NjMFpqSTRHWmc?oc=5"
+          },
+          {
+            "title": "மிதுன ராசிக்கு மகிழ்ச்சி: தினப்பலன்கள்! - Dinamani",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNenRyUTFGWHg5MS00YjVLdlA5enlaLWdoRHY1ZGp4a1ZxVmRJRzVMWnZYa2xaZ3VjT1p6R05KM0VNY3o2cmdzUWZVcnhSSmppaHZaRHRtQWgzY3g4VlV5Yy0tV2JDTHF4NHJublcxMWhjNXZ2Y3lxYi1KV3VLQkZpby1abVhkaGvSAYcBQVVfeXFMTXp0clExRlh4OTEtNGI1S3ZQOXp5Wi1naER2NWRqeGtWcVZkSUc1TFp2WGtsWmd1Y09aekdOSjNFTWN6NnJnc1FmVXJ4UkpqaWh2WkR0bUFoM2N4OFZVeWMtLVdiQ0xxeDRybm5XMTFoYzV2dmN5cWItSld1S0JGaW8tWm1YZGhr?oc=5"
+          },
+          {
+            "title": "முடி கருமையாக நீண்டு வளர.. - Dinamani",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQkE2S2xCcmI0RjFuNjhPUVFCSExfc3lSVG9wcXNic0VmY0FzbDZNRXA4Y0JHeUlpaUZNWXNZWnRrdmExWWpHVHRJYjI4QXZzdG9aNHpZanZwNlRPelc3TGJYSkNPN05HSE1Fa2FRXzFqN2EybXJqVEpYZjd5cUtrLUprNURnWWdQZms0QjcxWXNVWE9FVTlQLS1NbDNiS0lXV3J0SVNVMzJhMlJEWUHSAa4BQVVfeXFMUEJBNktsQnJiNEYxbjY4T1FRQkhMX3N5UlRvcHFzYnNFZmNBc2w2TUVwOGNCR3lJaWlGTVlzWVp0a3ZhMVlqR1R0SWIyOEF2c3RvWjR6WWp2cDZUT3pXN0xiWEpDTzdOR0hNRWthUV8xajdhMm1yalRKWGY3eXFLay1KazVEZ1lnUGZrNEI3MVlzVVhPRVU5UC0tTWwzYktJV1dydElTVTMyYTJSRFlB?oc=5"
+          },
+          {
+            "title": "சமையல் மணக்க.. ருசிக்க.. - Dinamani",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcDlKUnhtWHNWY3RPLW4wTC12Nkp0VmFkek9OWndWQl92TlFGM0hRWTdXaFBJWGtZV1dEY3BUanJGSGhBaFdRSE9jS203WEdzVUtUdFZJWWl4QTlmQ0dDc1EtallYSFUyS3ppLUVURFYwbmZWbm1lWjhDV1hMRHBXVVphbDBSSEFqaFRBQzhZblhLc2tCZmtkQtIBmAFBVV95cUxNcDlKUnhtWHNWY3RPLW4wTC12Nkp0VmFkek9OWndWQl92TlFGM0hRWTdXaFBJWGtZV1dEY3BUanJGSGhBaFdRSE9jS203WEdzVUtUdFZJWWl4QTlmQ0dDc1EtallYSFUyS3ppLUVURFYwbmZWbm1lWjhDV1hMRHBXVVphbDBSSEFqaFRBQzhZblhLc2tCZmtkQg?oc=5"
+          },
+          {
+            "title": "சவரனுக்கு ரூ. 1,840 உயர்ந்த தங்கம் விலை! - Dinamani",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQk5mVFMxYmR2VDNVOXllOHl0djZJczJZVTNTc19QRHZFSzFjUktJZnFQemFkYzBXRms3UWFiazBZYlVVTzlRczVKWHhhakNYaTNJN3lIOVMyYnlWdEtTSTlMbUhtVm5zUUY5cXFFMzNxWWowbXVYaExRVlBQdjBqTXVrb3FWUENkV3BXak9TS2JEZ9IBkgFBVV95cUxPQk5mVFMxYmR2VDNVOXllOHl0djZJczJZVTNTc19QRHZFSzFjUktJZnFQemFkYzBXRms3UWFiazBZYlVVTzlRczVKWHhhakNYaTNJN3lIOVMyYnlWdEtTSTlMbUhtVm5zUUY5cXFFMzNxWWowbXVYaExRVlBQdjBqTXVrb3FWUENkV3BXak9TS2JEZw?oc=5"
           },
           {
             "title": "Tamil Breaking News | Tamil Nadu Local News | Latest News in Tamil | தமிழ் நியூஸ் | தமிழ் செய்திகள் | Politics | Videos | Astrology | Business | Sports | Movie | Lifestyle | Health | Election 2026 Updates - Dinamani",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMmNUTFQxcFRDU0ZPRDN2YjRhSzM5eENhNmNBNVgzbjE4dHpjZDg0d3JYWWFzRkFyb0I3UXJpdTZGb0ZxQ1FFU3pUd2hobDFyaDZEbm1uZGxSdUNVTUFtVjVVOG5mdk9vS1lOOGYxakI3amNxQW9faVNfN25pNFFLR0xISWlGSm9RcU1fRmMyQlNSU2EyeGVVRUhwdm5udk14bGViZW5R?oc=5"
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUTdLRHpZRVEwN2QzeDZLemhDTWlqSk9GdTFnMUZ3UFZLZURIaTcxNHFWaVhXVFM3SjBmRGpVTVpobVFQLTVpS3k4V000MzZJNzNLWEYzU3NTNFdHRHp5Z01ROXpiWVdkLTVMeTM3ZWpPTnJGTS1lWVlUcWc3b3ZVY2QxWnNESDdWWDljX0RpTmwtTE14alRFTzdZcDJvM0QtV0FnaWlB?oc=5"
           },
           {
-            "title": "டிஎன்பிஎஸ்சி தேர்வைக்கூட நடத்த கையாலாகாத அரசு: எடப்பாடி பழனிசாமி கடும் கண்டனம்! - Dinamani",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT0J2NktRR2xmRUNPY2Y4VW1BY3l2MTZnd2c4akVJczFaZExRQ2hvSXNERzJJTW1BMUhIdTAzXzJQUnMySnVwcVFDTHc4eHI5RU9RWHowWlFya2otTFhlTC1nYUxTQkVKVjBGeGVJdWl1SkJLaGtLMXo2R1o2VEl0UVFMRUU3SmkzczZHUFljTXNCeC1OMXNXODI3TnRWUnZObV9KTE13?oc=5"
+            "title": "ஆசிரியர்களும் தகுதித் தேர்வுகளும்... - Dinamani",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbnJEaDM5UFAyQjV2bFZGaFVlcGw4Z1YxM3dhTGNFYXVxQklHMmI0QUdFSzRwNEpiczBrRlhTRms5aFJOMWVrMmtSRzRTRmU1TDdvbm1yV3NBUGZnRldvTjRBczlnMGM4LVc0T0pPTDRGZWxMVUhZcWhjZjdWd1NtX3F4aVVXQi1VanljLUpzbFRJYlFDZnfSAZYBQVVfeXFMTW5yRGgzOVBQMkI1dmxWRmhVZXBsOGdWMTN3YUxjRWF1cUJJRzJiNEFHRUs0cDRKYnMwa0ZYU0ZrOWhSTjFlazJrUkc0U0ZlNUw3b25tcldzQVBmZ0ZXb040QXM5ZzBjOC1XNE9KT0w0RmVsTFVIWXFoY2Y3VndTbV9xeGlVV0ItVWp5Yy1Kc2xUSWJRQ2Z3?oc=5"
           },
           {
-            "title": "சீனாவுக்கு காத்திருக்கும் சவால்! - Dinamani",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMmF2VzJZTG8yYlpHT01fVkR6bkJSTFZXeWJ3Ny1ZTFpIUkh5c3VST1VpUk1ocGlidXdka0VGUlNXeHhUT1IzSWZ5Y1pLYnJfRzRWT2JmNHUwYkNuVXlEUFNZMXNSdFk0UENndFNFcG5BcWFkcTMxaTJDY3Ntay1TcjRQc0JmamtmRkJfZG01SWpoVkhkZTl6U2g3N0RrNG9aempGMk0tcTlMTGFKRkHSAa4BQVVfeXFMTTJhdlcyWUxvMmJaR09NX1ZEem5CUkxWV3lidzctWUxaSFJIeXN1Uk9VaVJNaHBpYnV3ZGtFRlJTV3h4VE9SM0lmeWNaS2JyX0c0Vk9iZjR1MGJDblV5RFBTWTFzUnRZNFBDZ3RTRXBuQXFhZHEzMWkyQ2NzbWstU3I0UHNCZmprZkZCX2RtNUlqaFZIZGU5elNoNzdEazRvWnpqRjJNLXE5TExhSkZB?oc=5"
+            "title": "இந்திய ரஷிய உறவில் சிக்கல்? ஐநா முன்னாள் அதிகாரி ஆர்.கண்ணன் நேர்காணல் - Dinamani",
+            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRnJuRGtQVVFpZnJFSl9KZVFlSDBRcTJXWVNBc3BtWWRrcllIWEhWMWN6dF8zY1pTTGMwY0xIUERlUjhtSlQ4MDd5S1dFS2hnZWlJNzJ3WEFCQUJXWEd5WjQ0WFRiNVpJWmVLNEd0aVJtUkFsX3pGRG42Tl9pTl9HSTJQdGhGVmJEakZhMlk0N3hfZDhNbnU1cldHOFRNcWF1QU1wUmFjOEdqUW1HSXFNNzByTVFCVTlRaFpIUXVyWmdoXy04cFV6SExQajBMUdIBzgFBVV95cUxQRnJuRGtQVVFpZnJFSl9KZVFlSDBRcTJXWVNBc3BtWWRrcllIWEhWMWN6dF8zY1pTTGMwY0xIUERlUjhtSlQ4MDd5S1dFS2hnZWlJNzJ3WEFCQUJXWEd5WjQ0WFRiNVpJWmVLNEd0aVJtUkFsX3pGRG42Tl9pTl9HSTJQdGhGVmJEakZhMlk0N3hfZDhNbnU1cldHOFRNcWF1QU1wUmFjOEdqUW1HSXFNNzByTVFCVTlRaFpIUXVyWmdoXy04cFV6SExQajBMUQ?oc=5"
           },
           {
-            "title": "கோயில் விழாவில் மூதாட்டியிடம் 4 பவுன் நகை பறிப்பு - Dinamani",
-            "link": "https://news.google.com/rss/articles/CBMikwVBVV95cUxOTGttemZ6T25NWnVTRVBvNjRyWkpQNXNpWEFBZlZVSl9PRGpoUzZfMnpra1kybklHSjR1c3pKV1g5Ql9pelFNOWdjWWp5YVk2QVZ5VzdaNU8zdzAyc29BUlhiYnNHbmw2RDBqQ1FrUzBTR3JBc3JrM0FuQVplemVJcWJ3RWFkb056bUU5VzlvZlh5NWZjQjNFUUVYcDIyUmRpbi1NY3pfYjR0NUlCekxmSndDRU51bVpidG1tZEN1WFN4NzZmUmdMVWsxQ3l4bG9BZWM0Z2Z5UUdxLUViVTVKUDFVXzZneUd2QmpTVWpWd0RDYUphNG5Ia0gtN2t2WjdJX0IyczdjUE5pbTRMdHlJRkRvWEo2UngzREM3bURFMkYxM2ZISUgyQ1lxT1ZrTkJQMmtidUp6bFJSNElEeWVEUmxUdS05czcxZXUwc2tDWEVTQWFGMS0wS0lxVW5La0hZOGJkaEx4WDlRMmdyNkV4TnB1VUhCNzdoTEZxR3lUbmtOam1yaGZUN3VWZ3EtbU55ckNqeVExSTFjZmNYNnJlTWZMekhYVmwwQlluenFRTm9HZ25WMUVUWHlYakJEeHREMFkzcDhZaWFpMDkyNzBOMFRPeU1KM1B3YjBVYmUxQ2tlOExqR19zS3U2bjRtSVEySENOb0ZIM2NkX3lCTmZnYjBBOGtJU3BsSGpwb19ZZlZRbUdJZTQzeEk1NkQ5cnpGRFJSMGV4YmFNclc0VDVRVDFWRk13NHNQRGZEQS1aak4tUmF4WUQwX2tJUWVDemxBYVFla1RnWXgxX0prTE9ZYmdOUDVHOU1iV2Y4S2Q5NGZ1VUxTUVRnUVA2TnVGZ0NITlEtbDFYR3lOZk5DNVZhbFVyZ9IBkwVBVV95cUxOTGttemZ6T25NWnVTRVBvNjRyWkpQNXNpWEFBZlZVSl9PRGpoUzZfMnpra1kybklHSjR1c3pKV1g5Ql9pelFNOWdjWWp5YVk2QVZ5VzdaNU8zdzAyc29BUlhiYnNHbmw2RDBqQ1FrUzBTR3JBc3JrM0FuQVplemVJcWJ3RWFkb056bUU5VzlvZlh5NWZjQjNFUUVYcDIyUmRpbi1NY3pfYjR0NUlCekxmSndDRU51bVpidG1tZEN1WFN4NzZmUmdMVWsxQ3l4bG9BZWM0Z2Z5UUdxLUViVTVKUDFVXzZneUd2QmpTVWpWd0RDYUphNG5Ia0gtN2t2WjdJX0IyczdjUE5pbTRMdHlJRkRvWEo2UngzREM3bURFMkYxM2ZISUgyQ1lxT1ZrTkJQMmtidUp6bFJSNElEeWVEUmxUdS05czcxZXUwc2tDWEVTQWFGMS0wS0lxVW5La0hZOGJkaEx4WDlRMmdyNkV4TnB1VUhCNzdoTEZxR3lUbmtOam1yaGZUN3VWZ3EtbU55ckNqeVExSTFjZmNYNnJlTWZMekhYVmwwQlluenFRTm9HZ25WMUVUWHlYakJEeHREMFkzcDhZaWFpMDkyNzBOMFRPeU1KM1B3YjBVYmUxQ2tlOExqR19zS3U2bjRtSVEySENOb0ZIM2NkX3lCTmZnYjBBOGtJU3BsSGpwb19ZZlZRbUdJZTQzeEk1NkQ5cnpGRFJSMGV4YmFNclc0VDVRVDFWRk13NHNQRGZEQS1aak4tUmF4WUQwX2tJUWVDemxBYVFla1RnWXgxX0prTE9ZYmdOUDVHOU1iV2Y4S2Q5NGZ1VUxTUVRnUVA2TnVGZ0NITlEtbDFYR3lOZk5DNVZhbFVyZw?oc=5"
+            "title": "பெரம்பலூரில் பொதுமக்கள் குறைதீா் கூட்டம் - Dinamani",
+            "link": "https://news.google.com/rss/articles/CBMizwRBVV95cUxPSkFxTlprZlF1ZnBhUjBhamxWU2NOb1huczBOOVgzNzF4S1lSbmZOano3LVBGeDVwLUZCUXRwcXFIbGhyVmhScmJuek9pUWxfRk1GN0hmUmNVMnBIQVJvNjBjWHU0MHA0cVFCdXRCQWdSOVRpZmJyQkdXZ2R3VUVRRjVyRjdMLUdFUEFEUmREM2dWOFhUWExwanFVNlU4amFISVpnc0puWlZHN09sTzBGSm9sYi0xZWNiMGYzYmEzaUR1X0Y2dTJZZXdhZ0tIOVJhRHVwTzNaSXZCZlRVOVFLWWZBMmJpMFVDNEhnV0Y5dnZSUjdBLTZ5TjBXdkZ0S3d3RTF5MmpYamJuNnlHOUk5LUtjamJvdkU3MjBnVkt3OEZwY2h0ek5jNmZ0OHU0bXdWb0twQTk0V1JjNjhUaHpiaTIzeGRSNDItWHJ6eHZZM2FWVmRQR1ZrdEFoX1VYMDhWMGFpVnhtdkhrNk9UZE5kaGlOeFAwWTEtQ3ZvREtuLVlQbWxPMGRnZkRkTVNrMGsxTEVRN3JNcWtnb1dHX2t2LXJaZ2VQeGdtQnBRcUQ5S2xSYVk2aEphenh5S0lid3hGXzdKVWJPRnR5R0lhTDR4dTNDOU04NVJXSTVNY01pcU85OGpvZGthZnF3NVZOdE1aM3B4eWVaMlVHMTZISnNJbE0xdnJCWnliaGk4cHFkUkoyMjZpRmk3NkJUMHhfNW1YM1VzOVVSdWM4WG8yWUJQRkhtUXh3alVVelJKcmduejFWdnk4bFl5R0pVeXFydVnSAc8EQVVfeXFMT0pBcU5aa2ZRdWZwYVIwYWpsVlNjTm9YbnMwTjlYMzcxeEtZUm5mTmp6Ny1QRng1cC1GQlF0cHFxSGxoclZoUnJibnpPaVFsX0ZNRjdIZlJjVTJwSEFSbzYwY1h1NDBwNHFRQnV0QkFnUjlUaWZickJHV2dkd1VFUUY1ckY3TC1HRVBBRFJkRDNnVjhYVFhMcGpxVTZVOGphSElaZ3NKblpWRzdPbE8wRkpvbGItMWVjYjBmM2JhM2lEdV9GNnUyWWV3YWdLSDlSYUR1cE8zWkl2QmZUVTlRS1lmQTJiaTBVQzRIZ1dGOXZ2UlI3QS02eU4wV3ZGdEt3d0UxeTJqWGpibjZ5RzlJOS1LY2pib3ZFNzIwZ1ZLdzhGcGNodHpOYzZmdDh1NG13Vm9LcEE5NFdSYzY4VGh6YmkyM3hkUjQyLVhyenh2WTNhVlZkUEdWa3RBaF9VWDA4VjBhaVZ4bXZIazZPVGROZGhpTnhQMFkxLUN2b0RLbi1ZUG1sTzBkZ2ZEZE1TazBrMUxFUTdyTXFrZ29XR19rdi1yWmdlUHhnbUJwUXFEOUtsUmFZNmhKYXp4eUtJYnd4Rl83SlViT0Z0eUdJYUw0eHUzQzlNODVSV0k1TWNNaXFPOThqb2RrYWZxdzVWTnRNWjNweHllWjJVRzE2SEpzSWxNMXZyQlp5YmhpOHBxZFJKMjI2aUZpNzZCVDB4XzVtWDNVczlVUnVjOFhvMllCUEZIbVF4d2pVVXpSSnJnbnoxVnZ5OGxZeUdKVXlxcnVZ?oc=5"
           },
           {
-            "title": "மேலப்பாளையத்தில் 42 ஆண்டுகளுக்குப் பின் சந்தித்துக் கொண்ட பள்ளித் தோழா்கள் - Dinamani",
-            "link": "https://news.google.com/rss/articles/CBMioAdBVV95cUxNTXlBcUhUckU2NWdzS1d1aUNSNHREa2FtbWNpZm9wVzRtMEQtMFlGSVpkTjdPRmlxTDRWUXc5UWdpSWNDU3dRUDRibzZVTWQtbHktV3JUYWhLYXNLejVIaTFnaU9SU01UdjQ0Rlp1X2JJOXp5dUpodHc3cGZjcWdwQW1iRElhYzV1c1UxRE44NGl6ekVwb09pTVM0clFkR29XbTlOdGRRdTkyVFlQTE9rcXdPRVpkQ3YwODZac3Q1aE9oRzRubTZzNnlYSnE0STVxeE1ya2RwNnZYZGRJSGhQQ2I3M0s2R3R1MnFfTEgtWDlHMXlUVHQtX2R0NE9fQWVTUkZma0xUVTM2cm9VeWlnUS0tTlhTQjMwWTc3NVdlRGMwUzVWeVRTQmc5N2lQUHByVTROYmtMaXBZdnc0aF9QcEhObXBscTU0eU5zaXVybTNpc1JCcHVYYk9NQm16U1BKUThjMnVlQUo0T0E5Rlk2OW9QcVpTQmZ5R2JSTHV1aFFjMDR3MS13M0JPUU00UW45LVJvd25PdTB2R3h3ek94LXctRzhoRGkwbWp1VUw3SDBjR2dDWm44bEpDeHVXd3hvbGh5RWF0MUdSeDZOYVRHaUU2S0ttUGNUNndVVkh1eDM4elJvVnJ5LVlDVENKejJpcFg0ZG4wVE1nRjZzT0RCSVcxN01XYi1TMHZiYnRiWnBIOEE5TXpQTC1aQmwwVFdYd2pXbm9tX203Zm14ZENiWW5WWENzbkNkRlF1b1FuVERFTGZNeGR0QV9HTk02V0tTM2U5WmpvY1luNjVzMVpxeEQxVDRwdWJQNUVuUnJERWRFRUFxTEswUzhMYlZJZ0V1SmlaS1gxb3hsUHR5b3JyVXM5bjRNUnFCOGNCc00yeVpWN2V2TlhfM2JHM3FTWUNuM1V5NVQ1NERabnlOdThXOGlsWmNKaktrV1U3VnhNQUYwVkVRaXRSNk5BYkEzVEdjMWk4MnpSN2wtUmFwQnhXczhnV05hVHlHMWNJeE5kLUEycERFMjJzVThwc19fc2pFRWdheEt6bnd0NkFWU0l4MTQyMkpVNzlaU2tLNEpaVkR6eTVRLXhDcm9mMGxqOTg2bUJaOXVSaklkUG96eWNneHF5VW5GTHBZenlUMmdlc2ZESzZFaUl4NU1TUkFmc1lweE9yZklzaE1sRVBmNWh0WGVzYTlqTzJ2aTBhYmhWYXpaMkZ0RTdWVUhkSmR0TUFt0gGgB0FVX3lxTE1NeUFxSFRyRTY1Z3NLV3VpQ1I0dERrYW1tY2lmb3BXNG0wRC0wWUZJWmRON09GaXFMNFZRdzlRZ2lJY0NTd1FQNGJvNlVNZC1seS1XclRhaEthc0t6NUhpMWdpT1JTTVR2NDRGWnVfYkk5enl1Smh0dzdwZmNxZ3BBbWJESWFjNXVzVTFETjg0aXp6RXBvT2lNUzRyUWRHb1dtOU50ZFF1OTJUWVBMT2txd09FWmRDdjA4NlpzdDVoT2hHNG5tNnM2eVhKcTRJNXF4TXJrZHA2dlhkZElIaFBDYjczSzZHdHUycV9MSC1YOUcxeVRUdC1fZHQ0T19BZVNSRmZrTFRVMzZyb1V5aWdRLS1OWFNCMzBZNzc1V2VEYzBTNVZ5VFNCZzk3aVBQcHJVNE5ia0xpcFl2dzRoX1BwSE5tcGxxNTR5TnNpdXJtM2lzUkJwdVhiT01CbXpTUEpROGMydWVBSjRPQTlGWTY5b1BxWlNCZnlHYlJMdXVoUWMwNHcxLXczQk9RTTRRbjktUm93bk91MHZHeHd6T3gtdy1HOGhEaTBtanVVTDdIMGNHZ0NabjhsSkN4dVd3eG9saHlFYXQxR1J4Nk5hVEdpRTZLS21QY1Q2d1VWSHV4Mzh6Um9WcnktWUNUQ0p6MmlwWDRkbjBUTWdGNnNPREJJVzE3TVdiLVMwdmJidGJacEg4QTlNelBMLVpCbDBUV1h3aldub21fbTdmbXhkQ2JZblZYQ3NuQ2RGUXVvUW5UREVMZk14ZHRBX0dOTTZXS1MzZTlaam9jWW42NXMxWnF4RDFUNHB1YlA1RW5SckRFZEVFQXFMSzBTOExiVklnRXVKaVpLWDFveGxQdHlvcnJVczluNE1ScUI4Y0JzTTJ5WlY3ZXZOWF8zYkczcVNZQ24zVXk1VDU0RFpueU51OFc4aWxaY0pqS2tXVTdWeE1BRjBWRVFpdFI2TkFiQTNUR2MxaTgyelI3bC1SYXBCeFdzOGdXTmFUeUcxY0l4TmQtQTJwREUyMnNVOHBzX19zakVFZ2F4S3pud3Q2QVZTSXgxNDIySlU3OVpTa0s0SlpWRHp5NVEteENyb2YwbGo5ODZtQlo5dVJqSWRQb3p5Y2d4cXlVbkZMcFl6eVQyZ2VzZkRLNkVpSXg1TVNSQWZzWXB4T3JmSXNoTWxFUGY1aHRYZXNhOWpPMnZpMGFiaFZheloyRnRFN1ZVSGRKZHRNQW0?oc=5"
+            "title": "விழுப்புரம் மாவட்டத்தில்\n12-ஆம் வகுப்பு செய்முறைத் தோ்வுகள் தொடக்கம் - Dinamani",
+            "link": "https://news.google.com/rss/articles/CBMi8AZBVV95cUxOZjVmNEFGZU80SWlrZk5kRUY4dW5oU19tTkkwOUdIUVZ1Vi1iZzFZUHVSeVpJUG5uNWZEakk3bnBwMTBiSllwUkVvdWJ2VkRPXzVHcGQ4cUZBdHRzdEczc1RFNW02LUFuYWZ1QnhtM21jQ1ZwOUlqTjM3bTFsczZxcFZEaU0tYnluMlJfTlZRMnl5cmt4XzZPbUt0Z3lTMndTOHRYZFVFSzR2ckVBWjVrTTl4b2pxNzNIb3V3dUNPYXpTT2ZQZmY0VlBsLWdmTHJRYWg5MVVwOURZbEZkUHpQWXZZTVlNdW1vb21ydmc2eUJ5Z2Y0SzlLYXM4RzRzQ0xGUlp0N3gwLUxJUGxqbExfM0RuVTNEODVydF9qcW1Rc3V5alE0ZzA1RFpXaE13cEZadHVlM1g0RDNSbzNIdU11T1ZrVnpIWi1TWGozeklfTmwwcjJqbGRKQU43dFBrTzk1aERyTU8xX1Bmc1gyWnRCQ1NEdW5qS011dXlOWV9wdW82N0RqeWs3cDB6WU1oMmdwTk9aMFFzUHpjYnJYNnZ0Ql9WOW8tRVdGRThJbWpGeWVNOEV5MUFPZldIcDhuWC1YOC1FaE1oUkhqTlB2RE5sOFJzZTR4Z2JiUmh6ZjU0Tk41dUc3RkhHRktFa1NYbmxieHFhN0tBY3pUUFdwdHpleHBLWFpoS01EMklNaElzNHlWanRDMktEbkR2aVo1Ul9DWE5TN2I2eGp6UkQ3NEpXTXpUZ2tyUmVEaHFBRDlMNS1KWGtQQjFKbzBGMmVUdnZfQmZJT2tRZW1vLXNjX2c1d0F4SEdabmFBOHg1bEg3dHEyX3FoVjlQeThna1NzY2tzWFd0Qm1QWTk5ZEdyZmlLOE5hY2x1VFVwWlNFbDlXSmRMOFJfNEtHNHhvX1M5ZDctUmZFcGZleEpsTDJhUFQxTGJNajhfejJaNXZGcWd1ckxDaGF1Z0x2MlpSeFBSTDlMZVIxNnQtc29oWm9ncko0R05lWVJSelcyaTQzUUQ3Tmx1QVBSWnl0cEJna3pnNTJVS3NRU2Nva3JjUWdScmpHLVdWRW9haXhwdXNtN29IZzFPOTNFNGZJMWN4SVk4OFdxUUpVSGVIZzZyd29CaW9YQnJtanlQSXJQS3VIZFkzaS1YTmZ1MlRXbS12X2pqbVp50gHwBkFVX3lxTE5mNWY0QUZlTzRJaWtmTmRFRjh1bmhTX21OSTA5R0hRVnVWLWJnMVlQdVJ5WklQbm41ZkRqSTducHAxMGJKWXBSRW91YnZWRE9fNUdwZDhxRkF0dHN0RzNzVEU1bTYtQW5hZnVCeG0zbWNDVnA5SWpOMzdtMWxzNnFwVkRpTS1ieW4yUl9OVlEyeXlya3hfNk9tS3RneVMyd1M4dFhkVUVLNHZyRUFaNWtNOXhvanE3M0hvdXd1Q09helNPZlBmZjRWUGwtZ2ZMclFhaDkxVXA5RFlsRmRQelBZdllNWU11bW9vbXJ2ZzZ5QnlnZjRLOUthczhHNHNDTEZSWnQ3eDAtTElQbGpsTF8zRG5VM0Q4NXJ0X2pxbVFzdXlqUTRnMDVEWldoTXdwRlp0dWUzWDREM1JvM0h1TXVPVmtWekhaLVNYajN6SV9ObDByMmpsZEpBTjd0UGtPOTVoRHJNTzFfUGZzWDJadEJDU0R1bmpLTXV1eU5ZX3B1bzY3RGp5azdwMHpZTWgyZ3BOT1owUXNQemNiclg2dnRCX1Y5by1FV0ZFOEltakZ5ZU04RXkxQU9mV0hwOG5YLVg4LUVoTWhSSGpOUHZETmw4UnNlNHhnYmJSaHpmNTROTjV1RzdGSEdGS0VrU1hubGJ4cWE3S0FjelRQV3B0emV4cEtYWmhLTUQySU1oSXM0eVZqdEMyS0RuRHZpWjVSX0NYTlM3YjZ4anpSRDc0SldNelRna3JSZURocUFEOUw1LUpYa1BCMUpvMEYyZVR2dl9CZklPa1FlbW8tc2NfZzV3QXhIR1puYUE4eDVsSDd0cTJfcWhWOVB5OGdrU3Nja3NYV3RCbVBZOTlkR3JmaUs4TmFjbHVUVXBaU0VsOVdKZEw4Ul80S0c0eG9fUzlkNy1SZkVwZmV4SmxMMmFQVDFMYk1qOF96Mlo1dkZxZ3VyTENoYXVnTHYyWlJ4UFJMOUxlUjE2dC1zb2hab2dySjRHTmVZUlJ6VzJpNDNRRDdObHVBUFJaeXRwQmdremc1MlVLc1FTY29rcmNRZ1JyakctV1ZFb2FpeHB1c203b0hnMU85M0U0ZkkxY3hJWTg4V3FRSlVIZUhnNnJ3b0Jpb1hCcm1qeVBJclBLdUhkWTNpLVhOZnUyVFdtLXZfamptWnk?oc=5"
           },
           {
-            "title": "பறவைகள் கணக்கெடுப்பு\nபணியில் கல்லூரி மாணவா்கள் - Dinamani",
-            "link": "https://news.google.com/rss/articles/CBMi_wRBVV95cUxOYnV1SEZrRHBiTDJkNTU2RXNGOEIyVDc5MEtlZF9DZmZRdnJpSUZpRzAzczVsMFJMZjJPN2pXbmlOMzlPUmlHWEFHZFZweTFwdzl5d2ZBaF9ZamkzTHlweU5BTHlUV2lKdXRVNThpeFNTUi01dGdnVVFkM0l0MDZLVFAzUGFOZlRpRmlOVUd0N1VUUUlzNnh5Ul91SUpVaDFULWsweDVLdG5GTU1jb1BZRm85MjctdWVwck9qUXNrX1plZU1Ub09EVjZvN2ExaHdDdkdUbnhCaVYwdDlta1RyYUttd2puU1I0UUJXRTBzWWtIUDdDUV92cWZQNjVtN29tMjg2UzltMzNHNFVhWThQMFMxRlRqRzFwRllTUmxuTDQ3UFo4UHR0bzA3Y05acm5jQnFfSjh2dkdBU0V2OGtIeGpXQThNR3BDV3pwRHQzX2tFQ2pNdUNCTTRJS3RCTHlHbDM1WVEwZXBWRHYxc1NaM05hMk5OdFZiWlV4V3ZnSG1lLWwxX2g4RFFJb3dsczVFTmhKTlVLTFE2SU9kZWJoUUk3ampoN1Bnb2dnYThhM08wUjJ1cVdpdk9oSHlOMk1yc0ctSERRejA4OUdFN2h6RElQWUhTaW9VbEZ0S2VnRzZ2V0ZYcmRhSkV0RzFfTkZrRnRjR0Q2b2hRNWVYelFJMFB2ZzlJQVhjbnMwcTVBTkFRYTdiVlJTeWVnMXlSelVwMlB5M3NOMDVnaTFRYXlXcVJoeFlHd0dHSXNiUHZBdTVQUERRMW1ZRTV1WWtna2pXUXBMQ1RvY0dnUEpadHl0NXVWaElkQUhBaHllMWpoZFdfSjBVcGJ1Q0lLQndmVlXSAf8EQVVfeXFMTmJ1dUhGa0RwYkwyZDU1NkVzRjhCMlQ3OTBLZWRfQ2ZmUXZyaUlGaUcwM3M1bDBSTGYyTzdqV25pTjM5T1JpR1hBR2RWcHkxcHc5eXdmQWhfWWppM0x5cHlOQUx5VFdpSnV0VTU4aXhTU1ItNXRnZ1VRZDNJdDA2S1RQM1BhTmZUaUZpTlVHdDdVVFFJczZ4eVJfdUlKVWgxVC1rMHg1S3RuRk1NY29QWUZvOTI3LXVlcHJPalFza19aZWVNVG9PRFY2bzdhMWh3Q3ZHVG54QmlWMHQ5bWtUcmFLbXdqblNSNFFCV0Uwc1lrSFA3Q1FfdnFmUDY1bTdvbTI4NlM5bTMzRzRVYVk4UDBTMUZUakcxcEZZU1Jsbkw0N1BaOFB0dG8wN2NOWnJuY0JxX0o4dnZHQVNFdjhrSHhqV0E4TUdwQ1d6cER0M19rRUNqTXVDQk00SUt0Qkx5R2wzNVlRMGVwVkR2MXNTWjNOYTJOTnRWYlpVeFd2Z0htZS1sMV9oOERRSW93bHM1RU5oSk5VS0xRNklPZGViaFFJN2pqaDdQZ29nZ2E4YTNPMFIydXFXaXZPaEh5TjJNcnNHLUhEUXowODlHRTdoekRJUFlIU2lvVWxGdEtlZ0c2dldGWHJkYUpFdEcxX05Ga0Z0Y0dENm9oUTVlWHpRSTBQdmc5SUFYY25zMHE1QU5BUWE3YlZSU3llZzF5UnpVcDJQeTNzTjA1Z2kxUWF5V3FSaHhZR3dHR0lzYlB2QXU1UFBEUTFtWUU1dVlrZ2tqV1FwTENUb2NHZ1BKWnR5dDV1VmhJZEFIQWh5ZTFqaGRXX0owVXBidUNJS0J3ZlZV?oc=5"
+            "title": "மடிக்கணினி கோரி கூட்டுறவு மேலாண் நிலைய மாணவா்கள் மனு - Dinamani",
+            "link": "https://news.google.com/rss/articles/CBMixAVBVV95cUxPb2p3eFJWRFJHOS0wLTc1ZEFKcjhqRFhRNUx4Zl83YzdUWkZlS0VPZ0MxZDVGZGZGWXNBTGtfcGFheGxBS282cmhISkg0aTZzV2VydEwzV3NSRFA3SkdKQWhYYzltcDlDYXN0aV9ta1JoMk4zTldKUWZBeXBucUo5M25yQi1ObU83bk56aDJqN01rc0syUUVGWHFiRmdLclZlamVGcEVhdURibmlxS1FNNjQwS09HUGptWkhrb1BSVDlESmtGNUdvc3lWMmtNaERCZU5SaXlXRTF4bUE0ajFhbDA1SGQ5U1hfMEM1ZTNCUmlhTlN5OWNpYjltNElERmJjRFktdHVRZW9XajhBbXoxbGlseXZDWV9DQ0U0eU1nWFU4c0JvSWNfV1FETEVQblZxajFFS0kxY1RqcmkyQWZXV19xZVZHUjZyc1MxWjh5TTZONGlZTG4wQXRTN1pDbW1YeGFJTUhsSGdGZjRnZWxCVi1jZEQwOHJQQkVYckxmY0RGWHVCTHVKQ3J3MmthX1VKUmtXSnExWDRkZUZwOHpVQlh1TWp2U0JTWlJnNTBXUlE1MmtHU3FyWHJ3djdjUXhuQ2xpT3U1anNIUzFSX3djcjBqQU1kblZ2VU5IaHRUTFM0Q2pBTEV6RmdrdTBvNlZuVW9fNWdFMG01ZEYwUGVOelJRLWN3cGVXelNEeHRpWTU5b2Q0TTU1N2kzVFd1bzBKLXZtTmtPdFhTaVlTSmRZX2poaGtfQXhaeEVKZ05ZeDFUWlJlN2V3VXNjZVZPLWkySWU3LTM0WVRUYzcyWHJyVGlienUzUVZCZGlZN0poZzV5dUNFdTlDYmxUaWl5WHJkUTI0M3liZ1lXT1VzeGtDMjdITkNrQjdROU1oU0NDSVl1WGswOEtoUGFGWm9Rb3REcGJkR2ZESkpRdHNuQnlYclFpZ3bSAcQFQVVfeXFMT29qd3hSVkRSRzktMC03NWRBSnI4akRYUTVMeGZfN2M3VFpGZUtFT2dDMWQ1RmRmRllzQUxrX3BhYXhsQUtvNnJoSEpINGk2c1dlcnRMM1dzUkRQN0pHSkFoWGM5bXA5Q2FzdGlfbWtSaDJOM05XSlFmQXlwbnFKOTNuckItTm1PN25OemgyajdNa3NLMlFFRlhxYkZnS3JWZWplRnBFYXVEYm5pcUtRTTY0MEtPR1BqbVpIa29QUlQ5REprRjVHb3N5VjJrTWhEQmVOUml5V0UxeG1BNGoxYWwwNUhkOVNYXzBDNWUzQlJpYU5TeTljaWI5bTRJREZiY0RZLXR1UWVvV2o4QW16MWxpbHl2Q1lfQ0NFNHlNZ1hVOHNCb0ljX1dRRExFUG5WcWoxRUtJMWNUanJpMkFmV1dfcWVWR1I2cnNTMVo4eU02TjRpWUxuMEF0UzdaQ21tWHhhSU1IbEhnRmY0Z2VsQlYtY2REMDhyUEJFWHJMZmNERlh1Qkx1SkNydzJrYV9VSlJrV0pxMVg0ZGVGcDh6VUJYdU1qdlNCU1pSZzUwV1JRNTJrR1Nxclhyd3Y3Y1F4bkNsaU91NWpzSFMxUl93Y3IwakFNZG5WdlVOSGh0VExTNENqQUxFekZna3UwbzZWblVvXzVnRTBtNWRGMFBlTnpSUS1jd3BlV3pTRHh0aVk1OW9kNE01NTdpM1RXdW8wSi12bU5rT3RYU2lZU0pkWV9qaGhrX0F4WnhFSmdOWXgxVFpSZTdld1VzY2VWTy1pMkllNy0zNFlUVGM3MlhyclRpYnp1M1FWQmRpWTdKaGc1eXVDRXU5Q2JsVGlpeVhyZFEyNDN5YmdZV09Vc3hrQzI3SE5Da0I3UTlNaFNDQ0lZdVhrMDhLaFBhRlpvUW90RHBiZEdmREpKUXRzbkJ5WHJRaWd2?oc=5"
           },
           {
-            "title": "தெக்கலூா் ரோட்டரி சங்கக் கட்டடம் கட்ட தானமாக நிலம் வழங்கியவருக்கு பாராட்டு - Dinamani",
-            "link": "https://news.google.com/rss/articles/CBMitAdBVV95cUxQY2FrcUxtallIeF9SNTRkNWRHa2dXeTQ4Skx1aXlZQjgzYXIyeFMyVVFLNENzUUlGMlZFdXk5d09sVFFoRmZWdmczY2hRVWVjdy1JVUpMUU5JdWlfRHpRd0hJZV9XR0JUOWYtQnNXaFVfbWFqSG5Id0JMVU9HVV9fa3JjeFFxejNSX1hUaXRjSTZSc3oxekJmZ0tNNVc5bmJoTWJtMUZMTHJuc0w4ZEdaNWwzRS1PbTdyX2NFUkhtZzk3NW9RanRtVU4wUVN6RjVuSzZJVjk4Vms0VlhfcUdDZGFfc2c5VWxjQ19uaTMzN2VjUDE0S0dDd0RuVnRHcmNFZGFQNm5BNzRsYmF5YVN1REtUa3dKT1ZQbDFzUmk4NWxnZDRwQlBFcGlpVElMcWEtLUN6V3dqb2JfZ1NTUU15Mm5zc09TcXZUYXpZQnhfdS1yVFRNVVI1RTNGeWl0WGRQVE92RUFrdFdRSXFsYVA3MlBiaVZYUndnWHRRU25QREp1Nmxsdy1oSW96WnYwbDJ0TVdfZWZBUWxnT0ZTMTlmaElxNWxnc3Y0UHJzM0NfNWpYOTZOdUR0WG1lZ1VvcUFWLXlieUZaZmQ4TjVZZkJsUE9oQm45VUd3ZnRkZm5hektBbk5QeTRhSHc4VjlaRFVQUXA3S1YwN3hzMFBxUmx2SzFpT0Nsc3ZndXVBdkRCLVU0cERxSWNjUWdRZmZVT2pGRVVhdnFMbUtzLTV1NkNyWW9jZzhlQXcxZ3NmV2ExWWw2QWMwQ1dzbU5EaS1JbklKMUExeG9VOFMwalFaR0IxUHdUQ1gtNVBDOUxWUFFESTB2Q0NfMVYzNnhDVDFkaUFvVGd2TDN4cFhiU3pWaXBWWWoxaUVvcFBPTlhMVXR5MDZ3azdmeU81Wm8tM3VFbGZLUzhCZ0JFQ2R4X1B4QlpXTTFEY1JyR1VlTGRkeVQ3Z2FlYVVaTm4yT05SMjk2cE5vb3VfUHZIQ0ZZbmpjbWtXRXhIY1B0MDBBTDdyeE1lMGwwSTZSUlYtTzJUb3VaaXhFV19pUWZsdmZReFM3U0tpVHlZZS1DM2diWlRLd0txcTNtSUpIcVRCeXBDR0p6dnJxV0RsaURrd1ZzaVBPQnRZN1lmT0NSODJLTDhyeE4zbmxJVDhFTGpNS2ZDcHduOXpVTzF1WlVzanExcEw5aXUyMlhabHpmd3EySlI5VFRFS21nSUZia05WNE1FR1ZRdjNDaG9Cbmp0N1VZckUxc1BMTGFTcG_SAbQHQVVfeXFMUGNha3FMbWpZSHhfUjU0ZDVkR2tnV3k0OEpMdWl5WUI4M2FyMnhTMlVRSzRDc1FJRjJWRXV5OXdPbFRRaEZmVnZnM2NoUVVlY3ctSVVKTFFOSXVpX0R6UXdISWVfV0dCVDlmLUJzV2hVX21hakhuSHdCTFVPR1VfX2tyY3hRcXozUl9YVGl0Y0k2UnN6MXpCZmdLTTVXOW5iaE1ibTFGTExybnNMOGRHWjVsM0UtT203cl9jRVJIbWc5NzVvUWp0bVVOMFFTekY1bks2SVY5OFZrNFZYX3FHQ2RhX3NnOVVsY0NfbmkzMzdlY1AxNEtHQ3dEblZ0R3JjRWRhUDZuQTc0bGJheWFTdURLVGt3Sk9WUGwxc1JpODVsZ2Q0cEJQRXBpaVRJTHFhLS1Deld3am9iX2dTU1FNeTJuc3NPU3F2VGF6WUJ4X3UtclRUTVVSNUUzRnlpdFhkUFRPdkVBa3RXUUlxbGFQNzJQYmlWWFJ3Z1h0UVNuUERKdTZsbHctaElvelp2MGwydE1XX2VmQVFsZ09GUzE5ZmhJcTVsZ3N2NFByczNDXzVqWDk2TnVEdFhtZWdVb3FBVi15YnlGWmZkOE41WWZCbFBPaEJuOVVHd2Z0ZGZuYXpLQW5OUHk0YUh3OFY5WkRVUFFwN0tWMDd4czBQcVJsdksxaU9DbHN2Z3V1QXZEQi1VNHBEcUljY1FnUWZmVU9qRkVVYXZxTG1Lcy01dTZDcllvY2c4ZUF3MWdzZldhMVlsNkFjMENXc21ORGktSW5JSjFBMXhvVThTMGpRWkdCMVB3VENYLTVQQzlMVlBRREkwdkNDXzFWMzZ4Q1QxZGlBb1RndkwzeHBYYlN6VmlwVllqMWlFb3BQT05YTFV0eTA2d2s3ZnlPNVpvLTN1RWxmS1M4QmdCRUNkeF9QeEJaV00xRGNSckdVZUxkZHlUN2dhZWFVWk5uMk9OUjI5NnBOb291X1B2SENGWW5qY21rV0V4SGNQdDAwQUw3cnhNZTBsMEk2UlJWLU8yVG91Wml4RVdfaVFmbHZmUXhTN1NLaVR5WWUtQzNnYlpUS3dLcXEzbUlKSHFUQnlwQ0dKenZycVdEbGlEa3dWc2lQT0J0WTdZZk9DUjgyS0w4cnhOM25sSVQ4RUxqTUtmQ3B3bjl6VU8xdVpVc2pxMXBMOWl1MjJYWmx6ZndxMkpSOVRURUttZ0lGYmtOVjRNRUdWUXYzQ2hvQm5qdDdVWXJFMXNQTExhU3Bv?oc=5"
+            "title": "கள் மீதான தடையை நீக்க மரம் ஏறும் தொழிலாளா்கள் வலியுறுத்தல் - Dinamani",
+            "link": "https://news.google.com/rss/articles/CBMiggZBVV95cUxPLW4wYUhWS0lRY1BqcUsyeFJHdWhzdnBtTThrOHZ3UkpmQUhmT2Z4b1lueGZBckFGbDNBN1c4YlpuMkpKYWZUUlFQR1BPdWYtcG92dXNGeDk4TGExWDRIeE9Tb01HNzE3eDNaUDIzdkMydjZyWkMtU0xLWnY1d0VNOTNBR2t2OFhWMUliSmpJZVRlbUpCM1lfVjA4eGxibGM4LTF2TTVYMlREWmNxTW4zY1NsZDlSOXlIeUJwLWZ2TXNJODNRR1ZwZGg5Rl95cllhTFNKZFRvMkZQbkFnU0lqa3ZuOS1Gc3paaDQtQlgxcUVLVXdYblVnZmNMWVF6Q1V3RUNSRzF4Z1hkWWZiN3REZ2xWeV8wbnhmaEE2alhrNnFpMXRmSHZsMkNCU1BpVzF3V01IU1JETm0wUURieHNLZmtUQWxwczZCNUF5N0FMZHRMVFlkS0oyaWphZFlnSk1fNC1SSXdnWm9JdDd5NjRlS21qZXVuc0UyUnBWZUdWVkFPNTFmMUM5Y1BQcnBUNXh2SV9peC1Vd3VCTW5LTXRHRHBIdlEwMXEyc0JKbUxkSHJoUXdzXzIwZktkQzRhQlg4UlVmRVlxWWsxN0U2TmxXUUEtSE5Rb0YyMHZ2UTdtTDUyQUVSdmVzTWZLZEJraE1fN2hzTGFjQ0JmSWF3Vmx3MkFrS1ZZUm9qUGtGb2V2RmJpWlE4Ujk1VjlGRFg4X05RVFI5ZEVWcUZKTlU2X0RaY1JZUGw3aENyY3ZBbXltek1WVGVKQ0lGYmt4RUZEQ2VfdWJKWk0xSUdreFR3aUhlUndXR0NpZXlnUENRRGUtdHJJbUozemJVMDBabVdXVkJGRUpvM0VyX0ZDZW93QS1veXRLRVQxOERLTklTRUhqQVhLYnVFRUNJaWJWaldyYzJINDZFVzRRemhVRTl0QVNzTWYxYmxHX2x3ZWdaYUcwXzNiMnZhem4yQjk5ZjBzemtXRTRtamMxSmx1SVh3SWdwVkVTcVZndE1na3hYam9lUUVjd9IBggZBVV95cUxPLW4wYUhWS0lRY1BqcUsyeFJHdWhzdnBtTThrOHZ3UkpmQUhmT2Z4b1lueGZBckFGbDNBN1c4YlpuMkpKYWZUUlFQR1BPdWYtcG92dXNGeDk4TGExWDRIeE9Tb01HNzE3eDNaUDIzdkMydjZyWkMtU0xLWnY1d0VNOTNBR2t2OFhWMUliSmpJZVRlbUpCM1lfVjA4eGxibGM4LTF2TTVYMlREWmNxTW4zY1NsZDlSOXlIeUJwLWZ2TXNJODNRR1ZwZGg5Rl95cllhTFNKZFRvMkZQbkFnU0lqa3ZuOS1Gc3paaDQtQlgxcUVLVXdYblVnZmNMWVF6Q1V3RUNSRzF4Z1hkWWZiN3REZ2xWeV8wbnhmaEE2alhrNnFpMXRmSHZsMkNCU1BpVzF3V01IU1JETm0wUURieHNLZmtUQWxwczZCNUF5N0FMZHRMVFlkS0oyaWphZFlnSk1fNC1SSXdnWm9JdDd5NjRlS21qZXVuc0UyUnBWZUdWVkFPNTFmMUM5Y1BQcnBUNXh2SV9peC1Vd3VCTW5LTXRHRHBIdlEwMXEyc0JKbUxkSHJoUXdzXzIwZktkQzRhQlg4UlVmRVlxWWsxN0U2TmxXUUEtSE5Rb0YyMHZ2UTdtTDUyQUVSdmVzTWZLZEJraE1fN2hzTGFjQ0JmSWF3Vmx3MkFrS1ZZUm9qUGtGb2V2RmJpWlE4Ujk1VjlGRFg4X05RVFI5ZEVWcUZKTlU2X0RaY1JZUGw3aENyY3ZBbXltek1WVGVKQ0lGYmt4RUZEQ2VfdWJKWk0xSUdreFR3aUhlUndXR0NpZXlnUENRRGUtdHJJbUozemJVMDBabVdXVkJGRUpvM0VyX0ZDZW93QS1veXRLRVQxOERLTklTRUhqQVhLYnVFRUNJaWJWaldyYzJINDZFVzRRemhVRTl0QVNzTWYxYmxHX2x3ZWdaYUcwXzNiMnZhem4yQjk5ZjBzemtXRTRtamMxSmx1SVh3SWdwVkVTcVZndE1na3hYam9lUUVjdw?oc=5"
           },
           {
-            "title": "கொடைக்கானலில் சுற்றுலாப் பயணிகள் வருகை அதிகரிப்பு - Dinamani",
-            "link": "https://news.google.com/rss/articles/CBMiswVBVV95cUxNMmtUSGIyNDgteXltR2Y3S1JtczE0N2xRdGh5SXlnR09VaDJldV9Hb2hSeU9zMklaMjJQSDNFRC1HTmZwYTl2dzlSM0tDOEhmUVZhX2o0OTQ2aE1hSWVWZmRHNm0xczlpUF9XVnJqNHdPRUVhWUVSVHBTRXNpZExST2twcVJ5aWEtMlhpMVA4QXRzU0E3QVpVNHA0N2phakhJWTBSWWR1RGVDNE10a1J6RDNtVWVBMDBjNXBkdzJxSVJRRlNUZUxYbFZxZ0drSlVTeXYwUWZGY25KU29raXNEdmRBUWdGOWh6blpwT0JLc2NuVjRMN3NTYjU4VVNJdUtPem9IX241dEtfMklyMXIzb0pFOVhSZFZzRTFVcE10TWVMNGZKQ2hLb2xOSjRTWVVIOFIwc2sxdFVqS0xwTklEZ0VlYVpGVWwwNUFneW40bFpUTUJURnBnalZYUnZSWjN5TVY0bmdiLW0tV0Vfc3hnem8wWXk3N256d3RZM09ERlR1QmRwM2dxenZsQmNCVVdVbTFJOE9ubjI5bGtUeGFBYmJSTnllTzQwZDBldFlHaHpkM25tTzhKQzNWcTVlSDJhZ25BTHBKM3pCejktczVDR1ZIWkk1NlNRVjZBbDdsVWpqWkVyWWZGa3AySldOWTlUMmgyVkd1a0FsM0Y1OUZXQTRKcW9ZeG4yYnh5d1Z2cnFhV0YtMnpFOWphUXljbkZkdUV5ODEzdUxfVG5XNkhsNE9WNERmb0xpM0FOM2llYWp5NTZqS0FfYWV1RG5Oc1A0eHdjWThZLU5mSm1qbVBBR0h1WFYtTzNzOWFuR3lLNlMxYXozQUxnWnNlWWlkN09qWDZKdm9FNER5bTg1NGNWYUpoOVQtLS1YcmVyTF9mcmJsODYyMnN4S094aURpUjBUczRv0gGzBUFVX3lxTE0ya1RIYjI0OC15eW1HZjdLUm1zMTQ3bFF0aHlJeWdHT1VoMmV1X0dvaFJ5T3MySVoyMlBIM0VELUdOZnBhOXZ3OVIzS0M4SGZRVmFfajQ5NDZoTWFJZVZmZEc2bTFzOWlQX1dWcmo0d09FRWFZRVJUcFNFc2lkTFJPa3BxUnlpYS0yWGkxUDhBdHNTQTdBWlU0cDQ3amFqSElZMFJZZHVEZUM0TXRrUnpEM21VZUEwMGM1cGR3MnFJUlFGU1RlTFhsVnFnR2tKVVN5djBRZkZjbkpTb2tpc0R2ZEFRZ0Y5aHpuWnBPQktzY25WNEw3c1NiNThVU0l1S096b0hfbjV0S18ySXIxcjNvSkU5WFJkVnNFMVVwTXRNZUw0ZkpDaEtvbE5KNFNZVUg4UjBzazF0VWpLTHBOSURnRWVhWkZVbDA1QWd5bjRsWlRNQlRGcGdqVlhSdlJaM3lNVjRuZ2ItbS1XRV9zeGd6bzBZeTc3bnp3dFkzT0RGVHVCZHAzZ3F6dmxCY0JVV1VtMUk4T25uMjlsa1R4YUFiYlJOeWVPNDBkMGV0WUdoemQzbm1POEpDM1ZxNWVIMmFnbkFMcEozekJ6OS1zNUNHVkhaSTU2U1FWNkFsN2xVampaRXJZZkZrcDJKV05ZOVQyaDJWR3VrQWwzRjU5RldBNEpxb1l4bjJieHl3VnZycWFXRi0yekU5amFReWNuRmR1RXk4MTN1TF9Ublc2SGw0T1Y0RGZvTGkzQU4zaWVhank1NmpLQV9hZXVEbk5zUDR4d2NZOFktTmZKbWptUEFHSHVYVi1PM3M5YW5HeUs2UzFhejNBTGdac2VZaWQ3T2pYNkp2b0U0RHltODU0Y1ZhSmg5VC0tLVhyZXJMX2ZyYmw4NjIyc3hLT3hpRGlSMFRzNG8?oc=5"
+            "title": "தடுப்புக்கட்டையில் பைக் மோதி விபத்து: இளைஞா் உயிரிழப்பு - Dinamani",
+            "link": "https://news.google.com/rss/articles/CBMi5wVBVV95cUxOcXRiOWFnNzZVd0FoTmJvRTF4OHBZelo0UlhCTjM3V0dlRmVQbUpDdEJuWEFHdHJnbEhJWFhMc0ZQYTEtTUcwcUNISFNQWGh1V0ozb19pbXRWQTB4cEhSRW5VeWJXLWJXakQ2cGUxQ3ZVSnp6djh2ZEp2cWRxbnUxYWYzazBWekViWXF0enhxZ1o3SDlDMi02aWxwRGk4X2N0V0dWS1puY3ppa1UyZFFVVVVCRWN4UWs0V0pKa1FmWVp3ZjR2YjlqVjFSYnBBOUR5cS1Zc0hlcnNkZmgtSFVobzRKVTBaSW42S0dGbHZ0Zkg3WkdKUVlUcXpmUGE4V2syYnBENTNXdVBlcWljTTFTWWVqVFZaOVZuckFsZDl2SlgwRk03VC1HZ2RkaF9IRGZGZkREQjFyZEQtOXo5dkNTV1djZ1hjRk5Vc1g5VWZUZTF6bExXMnpXYnNwUy1QMURzVWRiMFVacXhHcjVna201OVF6dGZSNk45alJWcUxxWWlHRVp1QWVFcXNJZjNBcFZjX0ZBMHI2cUNTc29yRlk0X2xzdmpoYUpEMXFPdF92Mmd2VFJ0dGs1Z3VhZ1N5NmxqN0NHQUNjdENGTTFyZUZSUnM4aGhiQ1dfaW0xZ1ZhQmxnUEZvNHRTQkxnbW5GUk1idXJKeUxNZEsxTkFNajZCYTBiSXVsMTNKNnZNQ1BGMzEtcFp4czBVN1Zzc3V0aDRZaUktTFZ3UllHMElNZ203M1ZFdFRseF9CZDNyVi1LYUs0RF8tclpxczBCbEZQTk9seW5lRkxCd2JxWjRyYV8xeFFtRzBER1BLVWZrV0JTUXJYZ3I4Z09NTkdEOTBtQVlsNVdESjI0bGdmcUFkQjVwXy00MVZZcjJQdEhvQ2p4WGFMb0ZkOHhueEJpTXhSeFpBLWJ2NFBBazhMbXpJT2hnOHR1VmpwcGU1XzBDNEJTYVExTGlOY21kb05zUDNoZWtEMFFFX29VY9IB5wVBVV95cUxOcXRiOWFnNzZVd0FoTmJvRTF4OHBZelo0UlhCTjM3V0dlRmVQbUpDdEJuWEFHdHJnbEhJWFhMc0ZQYTEtTUcwcUNISFNQWGh1V0ozb19pbXRWQTB4cEhSRW5VeWJXLWJXakQ2cGUxQ3ZVSnp6djh2ZEp2cWRxbnUxYWYzazBWekViWXF0enhxZ1o3SDlDMi02aWxwRGk4X2N0V0dWS1puY3ppa1UyZFFVVVVCRWN4UWs0V0pKa1FmWVp3ZjR2YjlqVjFSYnBBOUR5cS1Zc0hlcnNkZmgtSFVobzRKVTBaSW42S0dGbHZ0Zkg3WkdKUVlUcXpmUGE4V2syYnBENTNXdVBlcWljTTFTWWVqVFZaOVZuckFsZDl2SlgwRk03VC1HZ2RkaF9IRGZGZkREQjFyZEQtOXo5dkNTV1djZ1hjRk5Vc1g5VWZUZTF6bExXMnpXYnNwUy1QMURzVWRiMFVacXhHcjVna201OVF6dGZSNk45alJWcUxxWWlHRVp1QWVFcXNJZjNBcFZjX0ZBMHI2cUNTc29yRlk0X2xzdmpoYUpEMXFPdF92Mmd2VFJ0dGs1Z3VhZ1N5NmxqN0NHQUNjdENGTTFyZUZSUnM4aGhiQ1dfaW0xZ1ZhQmxnUEZvNHRTQkxnbW5GUk1idXJKeUxNZEsxTkFNajZCYTBiSXVsMTNKNnZNQ1BGMzEtcFp4czBVN1Zzc3V0aDRZaUktTFZ3UllHMElNZ203M1ZFdFRseF9CZDNyVi1LYUs0RF8tclpxczBCbEZQTk9seW5lRkxCd2JxWjRyYV8xeFFtRzBER1BLVWZrV0JTUXJYZ3I4Z09NTkdEOTBtQVlsNVdESjI0bGdmcUFkQjVwXy00MVZZcjJQdEhvQ2p4WGFMb0ZkOHhueEJpTXhSeFpBLWJ2NFBBazhMbXpJT2hnOHR1VmpwcGU1XzBDNEJTYVExTGlOY21kb05zUDNoZWtEMFFFX29VYw?oc=5"
           },
           {
-            "title": "டிஎன்பிஎஸ்சி தோ்வு எழுதி முடித்த பிறகு ரத்து அறிவிப்பு தகவல் வெளியானதால் திருப்பூரில் தோ்வா்கள் கடும் அதிருப்தி - Dinamani",
-            "link": "https://news.google.com/rss/articles/CBMi3gpBVV95cUxPcDdsNXdIUHJTSE1Eb180QVNBdFBsdTEyUURabDJvSGo4NU0tNjJqb3k1MlpXQ2xCb21CekdkZXYzVmpSaE5VX1otdlp3VEtrcEZua0tLZUV6aEloeThQaVpKZVBsckhPRmY2YWdBNVhEbTljV2RET0Fla1NNWDJDUkZVYlFaeEdhb0FHMHByNnEwd3BZanR0bXZNTVVMS1F1NEV3WHRlSVlBdGFuUC1fcmN6U3ZmcWJPeWJETkdMVWZRSXA1dnJ2ZWR5ai1Jb1RBcldCQjdST1JVVXI5ZlpQb2FmWkZYeVZQNlJoOTlndWdJOTRTX3EtN0xzSVFUa2FpTVM4aGVhUnJvRHBWVUFVZUZCcXhlZDZMYnR1R3NkVFNkUnNjalJyZkFqYUVROFF6Rjk4cGxfS0ZkUVNGYmE0WERxbEo0aUYtVXpmdjVsU1dEWWY1a1oxSGM1MkxTallubU1qaDBidE5ONnBuMVhCYkRTcVhZanBoemFtNFpBSDRrZ01KaDdMU0lYV1J0MTFWZ1U5QTA1aDcyVlhnaElCanBaUVpQazRpSzVfckNWWFNOeXRERC1qNGtDVlNrU1drZmYxVzd0YTE0VGJpTGdpSWljTzV3N2lLVTNOeDNYY2wwX2pDdGVtTWtLV01RN2R5NTBKY3FTSU1XTWFQeHlTMEdPUEhNU2VmRjBvcllDZEduWXBTbnhwQVN5blh4cVZRRm9WbVRNUnRKdF9yQVNwbnZIejdzTUNVaHhMNmdUTkcwTVJfLW4zeFpWYXM0RXdaUFFYNmZzNk1QXzFmLXhLZE80RnVKX0JadnMwbE5RWVZaeVd4MTJQTjBlVnpFdy1WUWRMVWxwZlRNWFFhMkdEdnoyWnFlWXZ0WTBtUERwSDQwVUtyLTc1X3laNE9vVjFIUnZsVDJlZDdZSXh3bkFFS19vQmxTUnBZTTNCZTVpdnd4aWh2d0NYMEQzNzVPY3ZiTTFCTkhMUXh0VW0yVHE3WG5ZTzBZdWsxaEZiejZZdXpucjZhVm5sT3FTbG9TWi1SVG50MjNkZXBMVWg2RmZRdG5HdUhCUFBxWlNMS0d4eHVjWEJLcS1JaEhCZzVwQXZPT0VWemtjRTNyNHlJR0lTeXI5RVBVZnhRUng4ZFdPU3VmSUJ6cG9sSHE2WmMxaXAxUlBCRTN3NWdsek1zTkFnZ2VtaVRKYUQ3WXk2enhrU0RVTXFYeU1lcFcxdXo2cm9EZUNXUVZjcHo0WDBMeDNsdlRkQTNqeVpHM0FGYURfdVY3M2ZtR2JqbzhrM1NWYmRUTXhybzhTZkktbHpuc0k2VlRqVzNaVVl3VFB6Q090MzJzSE10YWNtd1VvSm5wQnhTWTdpSkZfT0pvSEhTSjFwY1B1S3dIYmNtMnE3UjhjT2hkV3owaHl3Sml0VmpmUlVEa1d1SFdRSVROX0lKNldOMURMRXVuRjFkVnJXTFBQNzg1YnJsR3BwdUo4RnNyVTRSTlB3RlhZWkpMTXhQUGpYSm9fbE4zY2dIRy1WaU9GZld5VzlJWm9QS1hva0hBekx4YTZ0YWlNTlRKd3BRZ1hmVTEyU3VWbk9yYjUxNGdnRkhzRDc5MkNvVHk1ZDRlUHkxbGVlT0tJWnI5d0tiQUVUakVzZ19HU3pwSDNpTGx4Tnpwd1RkOXdFbHJTTFdKenFudVdYOF9VdkFhV21kVElQdW5wUmJidGZ6N1F0X1o5Um1hQmZqRkZuZnRXdjgwYWZHaGtCeFpWbDBCbWM4OGpHeEtKTFlNMDhnOXowUWg2SElmZVhjM3dTUTEwWkh1NjkwdEJOSXZWMDRqdHAxeUHSAd4KQVVfeXFMT3A3bDV3SFByU0hNRG9fNEFTQXRQbHUxMlFEWmwyb0hqODVNLTYyam95NTJaV0NsQm9tQnpHZGV2M1ZqUmhOVV9aLXZad1RLa3BGbmtLS2VFemhJaHk4UGlaSmVQbHJIT0ZmNmFnQTVYRG05Y1dkRE9BZWtTTVgyQ1JGVWJRWnhHYW9BRzBwcjZxMHdwWWp0dG12TU1VTEtRdTRFd1h0ZUlZQXRhblAtX3JjelN2ZnFiT3liRE5HTFVmUUlwNXZydmVkeWotSW9UQXJXQkI3Uk9SVVVyOWZaUG9hZlpGWHlWUDZSaDk5Z3VnSTk0U19xLTdMc0lRVGthaU1TOGhlYVJyb0RwVlVBVWVGQnF4ZWQ2TGJ0dUdzZFRTZFJzY2pScmZBamFFUThRekY5OHBsX0tGZFFTRmJhNFhEcWxKNGlGLVV6ZnY1bFNXRFlmNWtaMUhjNTJMU2pZbm1NamgwYnROTjZwbjFYQmJEU3FYWWpwaHphbTRaQUg0a2dNSmg3TFNJWFdSdDExVmdVOUEwNWg3MlZYZ2hJQmpwWlFaUGs0aUs1X3JDVlhTTnl0REQtajRrQ1ZTa1NXa2ZmMVc3dGExNFRiaUxnaUlpY081dzdpS1UzTngzWGNsMF9qQ3RlbU1rS1dNUTdkeTUwSmNxU0lNV01hUHh5UzBHT1BITVNlZkYwb3JZQ2RHbllwU254cEFTeW5YeHFWUUZvVm1UTVJ0SnRfckFTcG52SHo3c01DVWh4TDZnVE5HME1SXy1uM3haVmFzNEV3WlBRWDZmczZNUF8xZi14S2RPNEZ1Sl9CWnZzMGxOUVlWWnlXeDEyUE4wZVZ6RXctVlFkTFVscGZUTVhRYTJHRHZ6MlpxZVl2dFkwbVBEcEg0MFVLci03NV95WjRPb1YxSFJ2bFQyZWQ3WUl4d25BRUtfb0JsU1JwWU0zQmU1aXZ3eGlodndDWDBEMzc1T2N2Yk0xQk5ITFF4dFVtMlRxN1huWU8wWXVrMWhGYno2WXV6bnI2YVZubE9xU2xvU1otUlRudDIzZGVwTFVoNkZmUXRuR3VIQlBQcVpTTEtHeHh1Y1hCS3EtSWhIQmc1cEF2T09FVnprY0UzcjR5SUdJU3lyOUVQVWZ4UVJ4OGRXT1N1ZklCenBvbEhxNlpjMWlwMVJQQkUzdzVnbHpNc05BZ2dlbWlUSmFEN1l5Nnp4a1NEVU1xWHlNZXBXMXV6NnJvRGVDV1FWY3B6NFgwTHgzbHZUZEEzanlaRzNBRmFEX3VWNzNmbUdiam84azNTVmJkVE14cm84U2ZJLWx6bnNJNlZUalczWlVZd1RQekNPdDMyc0hNdGFjbXdVb0pucEJ4U1k3aUpGX09Kb0hIU0oxcGNQdUt3SGJjbTJxN1I4Y09oZFd6MGh5d0ppdFZqZlJVRGtXdUhXUUlUTl9JSjZXTjFETEV1bkYxZFZyV0xQUDc4NWJybEdwcHVKOEZzclU0Uk5Qd0ZYWVpKTE14UFBqWEpvX2xOM2NnSEctVmlPRmZXeVc5SVpvUEtYb2tIQXpMeGE2dGFpTU5USndwUWdYZlUxMlN1Vm5PcmI1MTRnZ0ZIc0Q3OTJDb1R5NWQ0ZVB5MWxlZU9LSVpyOXdLYkFFVGpFc2dfR1N6cEgzaUxseE56cHdUZDl3RWxyU0xXSnpxbnVXWDhfVXZBYVdtZFRJUHVucFJiYnRmejdRdF9aOVJtYUJmakZGbmZ0V3Y4MGFmR2hrQnhaVmwwQm1jODhqR3hLSkxZTTA4Zzl6MFFoNkhJZmVYYzN3U1ExMFpIdTY5MHRCTkl2VjA0anRwMXlB?oc=5"
-          },
-          {
-            "title": "வள்ளியூா், விஜயாபதி பகுதிகளில்\nநாளை மின் நிறுத்தம் - Dinamani",
-            "link": "https://news.google.com/rss/articles/CBMinwVBVV95cUxOY1hNT3pYUUM2eUVrbjhmWjJBZE95N3lpczNtYXVoMGo5M2NCLUtkS3kzejh6SEI5bmJsRUpqNFlaNGhPMnJ4U3ZYVXFXaFpRRVVNbUJTTzNUOVRJNVBPeERfM0FJSHV4dW5rbnZYdDZOM2dWMjAtdGhaN1NZZlBhVDkyY25rRGVpMFRlUmZ3dTNxRmR2Ukk5aUdOQ05QM0UyQ3FLTU1hYmMwMGRtNXBkWURERlRSODhLbDVUTzV5RnJiang5RTVPa1VTQzBDWVZNQlZiQ3BfLXkyU25QZ2l6WW15NUdwblBYc0I1cnlkazdHWndKM2x2MVkxQURsN05vNXRrNEdQcVdiNTFkU3UwS0JsUE9rUTFEbDNlTXRMZkNPZ0pSU0xoMThIZHZjTnZoWnViS2tiRnc0SDlTZ2x5aElac1ptcXIyZXduRXViMTVGWlc5MVJqd0JZUmFta3lDeFFuMmtRRWFBN1dhaHM4RmdQVnh1SGltQUw5enNKZ184SzVvVGFOdzBDcDdMck12aXFnVkVPT1FXTlFkaTlwREpZbGVCWmlEcEZWT3JJV0RCS3lxVHdSdHBXTkN6c2hEY2I4Uk9pOEgyczhzVXhxRzVjSmdQQlFOWXBnb2JPRUxkRVh1RnVNMnFNR3pYTFd2cFBLYV9yd3JTTjJvNVNGU2Jhemw0Q3FzNjg3bVRUeVlYQ3BfMkREdFhCN2l1aVo5ZGpPRlhjNVRUNTVfMXJRTGdpUmlBdHI3OTJicGs5TmRlSVNLcXpHVkZZUU9kVG1qU1JnODJTdy1zNnNWUWxnQThEMVVnbGI4MTgxMXVSVWdWUmtLY1g2ckJaQ2U0RzNlTzVSaEFidnRiM2JULUpWVTk2emxLaUNyOWd4WFFuONIBnwVBVV95cUxOY1hNT3pYUUM2eUVrbjhmWjJBZE95N3lpczNtYXVoMGo5M2NCLUtkS3kzejh6SEI5bmJsRUpqNFlaNGhPMnJ4U3ZYVXFXaFpRRVVNbUJTTzNUOVRJNVBPeERfM0FJSHV4dW5rbnZYdDZOM2dWMjAtdGhaN1NZZlBhVDkyY25rRGVpMFRlUmZ3dTNxRmR2Ukk5aUdOQ05QM0UyQ3FLTU1hYmMwMGRtNXBkWURERlRSODhLbDVUTzV5RnJiang5RTVPa1VTQzBDWVZNQlZiQ3BfLXkyU25QZ2l6WW15NUdwblBYc0I1cnlkazdHWndKM2x2MVkxQURsN05vNXRrNEdQcVdiNTFkU3UwS0JsUE9rUTFEbDNlTXRMZkNPZ0pSU0xoMThIZHZjTnZoWnViS2tiRnc0SDlTZ2x5aElac1ptcXIyZXduRXViMTVGWlc5MVJqd0JZUmFta3lDeFFuMmtRRWFBN1dhaHM4RmdQVnh1SGltQUw5enNKZ184SzVvVGFOdzBDcDdMck12aXFnVkVPT1FXTlFkaTlwREpZbGVCWmlEcEZWT3JJV0RCS3lxVHdSdHBXTkN6c2hEY2I4Uk9pOEgyczhzVXhxRzVjSmdQQlFOWXBnb2JPRUxkRVh1RnVNMnFNR3pYTFd2cFBLYV9yd3JTTjJvNVNGU2Jhemw0Q3FzNjg3bVRUeVlYQ3BfMkREdFhCN2l1aVo5ZGpPRlhjNVRUNTVfMXJRTGdpUmlBdHI3OTJicGs5TmRlSVNLcXpHVkZZUU9kVG1qU1JnODJTdy1zNnNWUWxnQThEMVVnbGI4MTgxMXVSVWdWUmtLY1g2ckJaQ2U0RzNlTzVSaEFidnRiM2JULUpWVTk2emxLaUNyOWd4WFFuOA?oc=5"
-          },
-          {
-            "title": "முன்னீா்பள்ளத்தில் 115 மாணவா்களுக்கு இலவச சைக்கிள் - Dinamani",
-            "link": "https://news.google.com/rss/articles/CBMilgVBVV95cUxPZW9EMXpXUlNnaW1Ya0c1TDR5eV9WaG02b2d5emRKT2VfQlNEbENpRzFzTWQwOW9XYlYyLWNIMjk0c0RKRF9LYXlnbFI1ak43alYxTk12NEJHNnN1YXV5X1lnZXRDUldpRlBQSF85NUhtbTR3bFMySVhJVEcyYUdYSDBnSk5ZaUQ0anJnbTUzajR6bGtoM1J6Q0dCTVdNY2pMUFFuU1VFRHNkNmVLU2NVY1V5aU5wc3YtdW50clBreEZpMWkwYjFPUXRrNjhtMjlMS05Za0ZrcFlWNXlkNlNneVo1elgzU0s5bmgwTlh0X3dOX3U4czl3dWwyeFkxSDVLT05nUlNYZG9WRkwyRTRqZEFGQTVtNkVlbUVqNzZNUXZtUzhBRmcwZFNnQzQzVmFmV2tIWG54RV9VR1lQQW5BT3Q5eF9ycUFWaTA4SENRNXZBc2FQRUxtYk03UWtxUWR6S2tBdGNPWVdOTnVZT2dRemRHRlZtVkVoSFA5c18xSk42V1pkdmlmWnpaTFZKV0xqSTZXUjdROUFPNzJJeW5FMXZaTkZtV0plNUQ5VEpoT2x4WlZ5bUxENnUwX21CNVdTTVFIdlowS3dVN0s0MmNuRkgwSHNxbUNhSlV1cUJsNGtkWC1LcVdWS1A4eUh1dmlSbUcxbWF0ZXEtVHBHSksxaEpLVHVPa21GRDB5UXAwM0hWUlI5V094MVh4OFNScF9SM1ppeEpodm1pTTRxZ052aTRNVW85bTZpbVA2WEpWUjVCWWdOU3hSa25yTHZBMF9PTGt6VUlVY0MwZW5Mc3Q1Zk4zeHlOYUxfWXc4R1Z0Skp3ZFo2NjZPazJpanhtQWE3c3F1SGVpaHFZMFA5QWFteHF1RDc5UdIBlgVBVV95cUxPZW9EMXpXUlNnaW1Ya0c1TDR5eV9WaG02b2d5emRKT2VfQlNEbENpRzFzTWQwOW9XYlYyLWNIMjk0c0RKRF9LYXlnbFI1ak43alYxTk12NEJHNnN1YXV5X1lnZXRDUldpRlBQSF85NUhtbTR3bFMySVhJVEcyYUdYSDBnSk5ZaUQ0anJnbTUzajR6bGtoM1J6Q0dCTVdNY2pMUFFuU1VFRHNkNmVLU2NVY1V5aU5wc3YtdW50clBreEZpMWkwYjFPUXRrNjhtMjlMS05Za0ZrcFlWNXlkNlNneVo1elgzU0s5bmgwTlh0X3dOX3U4czl3dWwyeFkxSDVLT05nUlNYZG9WRkwyRTRqZEFGQTVtNkVlbUVqNzZNUXZtUzhBRmcwZFNnQzQzVmFmV2tIWG54RV9VR1lQQW5BT3Q5eF9ycUFWaTA4SENRNXZBc2FQRUxtYk03UWtxUWR6S2tBdGNPWVdOTnVZT2dRemRHRlZtVkVoSFA5c18xSk42V1pkdmlmWnpaTFZKV0xqSTZXUjdROUFPNzJJeW5FMXZaTkZtV0plNUQ5VEpoT2x4WlZ5bUxENnUwX21CNVdTTVFIdlowS3dVN0s0MmNuRkgwSHNxbUNhSlV1cUJsNGtkWC1LcVdWS1A4eUh1dmlSbUcxbWF0ZXEtVHBHSksxaEpLVHVPa21GRDB5UXAwM0hWUlI5V094MVh4OFNScF9SM1ppeEpodm1pTTRxZ052aTRNVW85bTZpbVA2WEpWUjVCWWdOU3hSa25yTHZBMF9PTGt6VUlVY0MwZW5Mc3Q1Zk4zeHlOYUxfWXc4R1Z0Skp3ZFo2NjZPazJpanhtQWE3c3F1SGVpaHFZMFA5QWFteHF1RDc5UQ?oc=5"
-          },
-          {
-            "title": "அனல்மின் நிலையத்தில் கட்டுமானப் பணியின்போது தொழிலாளி தவறி விழுந்து உயிரிழப்பு - Dinamani",
-            "link": "https://news.google.com/rss/articles/CBMi5wdBVV95cUxQbG9MTWdxQ0RQX041VTM2MnJWMjNzRWxTVEZvek5hR2lhVkNUWlNIRjBHcGl5T2h5X0xyWk1PRXBIeXFKNS1JNGp2dUptWENwY1BuelFCZDJDMGhvVGJSVFBQOFNXRmpNZnZuS3ZBXzA4WkxnZlVEWm1jdV9neEVSV3cyWGdSYzFxQ2JFeC1yc2swVVJPSnEwcnFvUnhHc3A4SFhRZUJ6TDNXN3ZWVWI3X2MybnowcnkybUd3bHlKVWdmcVBMVVhqNzRMeFJOQTNVeW9WLVEtZ044RlFXRE56Q3JrQzc2Y0ZZSllJZ05NNG1VNW1YdzhEWl9OYUxqcFlYbUhKRjhnWHRHNDNvNmFvcFdfRDQ3QU1pZUZkcGpKT0JKT3JqZVp0eEFfYTdRd2x6elFRMzFzTENZLWI3bzNvS0RCV1ZPTXA1X3dwdjFKZzk4RHEtSjN1dktSTnNUaktsSmFycjFJZWlwRlV2OU5hSlkxeks5VC10WXdTblpycndRbTkwa2E3U0RaM3lHZlN5YTExYjNpMlBSb0ZOZVk4WWpDOXBGV3lzMHlyN21BdHBGNUo4QmVhQXVNSjgwZGxDNlNYNDlvWldKRDVJZFQxWU9BWHZtY2FYU1BkamtycHRRdkN1dnpTV1pQQlZoVFlIX2lxRnFseEd1b042ZkRRS2xhVDlYSjRJc1ZfM25nV2ZPM1Q5T1lTSUg5cGlrSnBoV1d3VTNxWEJKS3JwMEl4aFBNYUJmd0h0MmF1RFpPNlhWV2NzaVFSMGJzSW9maFRiTFhoTFE0RmlZQkQyaEV5UnRIME5EYjVWUWxiOVc0UVNaY0tDSUpYQjVEN19DWUt5SDQwSThiQ1pFdk95c21tMFJWbkdHQWIzUEhhcTh5cU9vdjZBWlEtb1NGSk1UVlpybk5meDhYRkVaSVJhVkZhblBHamkyYTN6NTJwdEloUWNjeThxeXVFUUc3MHNxV3I0U2pnNFFFd2szSHZDekJpMC1feWdkdHJhVmtPdXBNVnBtSDBuR2lmTXpZT0ZxQlhKLU9hZFlNdEhtNFVNMzVwQ1hXN0xXVFJKd2puMFJOZE5vd1JkNGtpLWxHZjJ1UVNURlpUYlF2YU5NMW1hRk9xS0VjcWs2bE4zSGxsRXYtQ3NYaGY3dElrbFpSNXhLSUhwRWtib0t4aW9BeDh2WWdlV0FYWFVlZ3ZJbXVjTnNmNlBjTGVDaTVqY054VFMzdUQxTnhqUG9IekIzWVpEUEducXNJUmdxYjNvQkJjY3JnY2V6aXBTMFNpb0J0ZkNIX183YldSTWhrTXd3SV9sNGJ5SFpQWDRGbWvSAecHQVVfeXFMUGxvTE1ncUNEUF9ONVUzNjJyVjIzc0VsU1RGb3pOYUdpYVZDVFpTSEYwR3BpeU9oeV9MclpNT0VwSHlxSjUtSTRqdnVKbVhDcGNQbnpRQmQyQzBob1RiUlRQUDhTV0ZqTWZ2bkt2QV8wOFpMZ2ZVRFptY3VfZ3hFUld3MlhnUmMxcUNiRXgtcnNrMFVST0pxMHJxb1J4R3NwOEhYUWVCekwzVzd2VlViN19jMm56MHJ5Mm1Hd2x5SlVnZnFQTFVYajc0THhSTkEzVXlvVi1RLWdOOEZRV0ROekNya0M3NmNGWUpZSWdOTTRtVTVtWHc4RFpfTmFManBZWG1ISkY4Z1h0RzQzbzZhb3BXX0Q0N0FNaWVGZHBqSk9CSk9yamVadHhBX2E3UXdsenpRUTMxc0xDWS1iN28zb0tEQldWT01wNV93cHYxSmc5OERxLUozdXZLUk5zVGpLbEphcnIxSWVpcEZVdjlOYUpZMXpLOVQtdFl3U25acnJ3UW05MGthN1NEWjN5R2ZTeWExMWIzaTJQUm9GTmVZOFlqQzlwRld5czB5cjdtQXRwRjVKOEJlYUF1TUo4MGRsQzZTWDQ5b1pXSkQ1SWRUMVlPQVh2bWNhWFNQZGprcnB0UXZDdXZ6U1daUEJWaFRZSF9pcUZxbHhHdW9ONmZEUUtsYVQ5WEo0SXNWXzNuZ1dmTzNUOU9ZU0lIOXBpa0pwaFdXd1UzcVhCSktycDBJeGhQTWFCZndIdDJhdURaTzZYVldjc2lRUjBic0lvZmhUYkxYaExRNEZpWUJEMmhFeVJ0SDBORGI1VlFsYjlXNFFTWmNLQ0lKWEI1RDdfQ1lLeUg0MEk4YkNaRXZPeXNtbTBSVm5HR0FiM1BIYXE4eXFPb3Y2QVpRLW9TRkpNVFZacm5OZng4WEZFWklSYVZGYW5QR2ppMmEzejUycHRJaFFjY3k4cXl1RVFHNzBzcVdyNFNqZzRRRXdrM0h2Q3pCaTAtX3lnZHRyYVZrT3VwTVZwbUgwbkdpZk16WU9GcUJYSi1PYWRZTXRIbTRVTTM1cENYVzdMV1RSSndqbjBSTmROb3dSZDRraS1sR2YydVFTVEZaVGJRdmFOTTFtYUZPcUtFY3FrNmxOM0hsbEV2LUNzWGhmN3RJa2xaUjV4S0lIcEVrYm9LeGlvQXg4dllnZVdBWFhVZWd2SW11Y05zZjZQY0xlQ2k1amNOeFRTM3VEMU54alBvSHpCM1laRFBHbnFzSVJncWIzb0JCY2NyZ2NlemlwUzBTaW9CdGZDSF9fN2JXUk1oa013d0lfbDRieUhaUFg0Rm1r?oc=5"
-          },
-          {
-            "title": "வீரவநல்லூரில் ரயிலில் அடிபட்டு\nமுதியவா் உயிரிழப்பு - Dinamani",
-            "link": "https://news.google.com/rss/articles/CBMitgVBVV95cUxQd1FhVWRZWEhtVkNBU3g3NlVOR3F0RHV2Yk9qQWM2cWE1QjVFRHVEVUluWTFwb0tsQmUzejBodGllSDRFNXJPS0p4ZUNOX1FTQnlUSkZFelRjQ2gzcjNsZ1p1ekNmQnluQUQ1NlRPTDBiUUxXQnhZRjg0X1JFOXZIZUZmaXhBakR0ampTSlVFckhpa3pWZEFXbDhNT0VFZmFlU1JVbGxHdllJaTNwWkU5R2hwREU4NmU0dTZzLVlYTy0zN012cWsxR1lxVi1uR0N1VVRzQlQ5bGEwN3dRMm9CMXRxS2N3Wmo1b1gxMWJZNjFraklSa3ZnSEdCRnV6bXhyVlpEOGhxQk5fNVM1cDBfWGtidFU5RlBQWGlNdWt6Z1FaU1FJX3RXWkRnVURKVTBSZXAxcmhCUzFQMkdDZWFMaF9UTGhSaF9HNWg4QUFRNGRFeGV2Nl9YT2VkX3ZBcHBoS0gxZmowUzNGaEZQZmNCSEhka1k3b2ZjRmtWRlNmN0paMVllampnMTJ6M2JaeDdzaEpkS243ZXhfNHdPY09YM0FUSW11dzJfYUl5WFVZd2RaZ2JWREktclVDLUs3ZEd3MVF6WjRGQXFWa1NaaTlabWs1R2NneVhyRkx2UUZtbmdGX2RJOEhwbHE2RWZzTU84X3BLbjVYMVBSZ1IwbjduM3dkTHNTam81MXRsejlaVUZvakh5UC14TjlvUlBoT0ZHX004bWtTckNrRjNEVmZral9PWC1RMlQ1TXNacF9CUG5LY1h1YkNPa2p1Y1NNM3Nnc2tSM2E2Yzg1ZXlRWjNKek1kUkZ6OHU3a1lNZUdoTFNjajdVaHlySEVHcHh4NTEtNVF3NkktN0R4X1BJY2gyVzhYQ1V5UThDT0lEMlZOMkdTMzFuNk1ucWdkcDlLcEJQYXpfZjl30gG2BUFVX3lxTFB3UWFVZFlYSG1WQ0FTeDc2VU5HcXREdXZiT2pBYzZxYTVCNUVEdURVSW5ZMXBvS2xCZTN6MGh0aWVINEU1ck9LSnhlQ05fUVNCeVRKRkV6VGNDaDNyM2xnWnV6Q2ZCeW5BRDU2VE9MMGJRTFdCeFlGODRfUkU5dkhlRmZpeEFqRHRqalNKVUVySGlrelZkQVdsOE1PRUVmYWVTUlVsbEd2WUlpM3BaRTlHaHBERTg2ZTR1NnMtWVhPLTM3TXZxazFHWXFWLW5HQ3VVVHNCVDlsYTA3d1Eyb0IxdHFLY3daajVvWDExYlk2MWtqSVJrdmdIR0JGdXpteHJWWkQ4aHFCTl81UzVwMF9Ya2J0VTlGUFBYaU11a3pnUVpTUUlfdFdaRGdVREpVMFJlcDFyaEJTMVAyR0NlYUxoX1RMaFJoX0c1aDhBQVE0ZEV4ZXY2X1hPZWRfdkFwcGhLSDFmajBTM0ZoRlBmY0JISGRrWTdvZmNGa1ZGU2Y3SloxWWVqamcxMnozYlp4N3NoSmRLbjdleF80d09jT1gzQVRJbXV3Ml9hSXlYVVl3ZFpnYlZESS1yVUMtSzdkR3cxUXpaNEZBcVZrU1ppOVptazVHY2d5WHJGTHZRRm1uZ0ZfZEk4SHBscTZFZnNNTzhfcEtuNVgxUFJnUjBuN24zd2RMc1NqbzUxdGx6OVpVRm9qSHlQLXhOOW9SUGhPRkdfTThta1NyQ2tGM0RWZmtqX09YLVEyVDVNc1pwX0JQbktjWHViQ09ranVjU00zc2dza1IzYTZjODVleVFaM0p6TWRSRno4dTdrWU1lR2hMU2NqN1VoeXJIRUdweHg1MS01UXc2SS03RHhfUEljaDJXOFhDVXlROENPSUQyVk4yR1MzMW42TW5xZ2RwOUtwQlBhel9mOXc?oc=5"
+            "title": "அவிநாசியில் நாளை\nமின்நுகா்வோா் குறைதீா் கூட்டம் - Dinamani",
+            "link": "https://news.google.com/rss/articles/CBMimwVBVV95cUxQUmFzVFA1cExUZGhWXzZrOW81WVhGQmZoWUJuYl9tLU1heEJTb1g2eFRjS3ltUWNYNTB1V2VPMUU5dUlpT0xVSndxZWs3Z2ZSZDFpN3dEcGpRN19DTS1fUXkwR3FUa0RCVnZQc3dYODV1QVFhdGdHWGlaR0FMX3RPTHB3am1zLXktN2pLTGhHNWpoSmdlb09sSXdHY2pKLVBVM2hnNUk2TmtqOG5xSlFtbUhLZnI5dkdPVVVVZGsycWx5aHZhcFh6QjFBX25EMVJ2cGxReWNiNDc1MHNzbEZhQUhuQ2M0eTFKSWxMNVdMNkdua0IxanFDUUZwZ3I4RDNGaW51dG10VlRxN2oxaXJObUZYUGFnd1pnMjBnMWJPaElKNjdsdVR0SUJGTjNfLXdkdElnQ0tVNk9oLWx3V1FGVXMyS0N6dV92RS1oZlB2U2JmUkhuNUxEeGxRakhLNWRUdktGUURkR05LMkZlNDJHdnd3WDZhVk13N256eXRzYklYYWFmbl9TRUNYU0lJY193ZXRTTGd6YndnOHlzNTF0OWlDbjBjRXk1QzJJdHRuaFQ5bzlJQURLUURHQUNRSEo2SDc2UERUMXFNcDRkZndndUxZUkpYTTZBMHJwemRGaHdncmx6OUUzN2pfeklmeEEta0lXcTUyZHAzQWxkOG1LRmRVdmlfZWd4QldZQWVqZjFjMW9qVlpQWWFTT2NKUmNnMjdmbEl3dnc1SU14VER4c3VHM0c1cTljc0Jpc00yd2hfTFl1SXJuY3RLTEU3enJVYWJsYWRIQndnMVdoTUxTZ09IZlhBWmVyTzdjSEtieHZadFF3b2I2dlAtMGNFTl9sNEYyVkNQbG9XR0oyVTA4SEl1MDJPSUhBcVJj0gGbBUFVX3lxTFBSYXNUUDVwTFRkaFZfNms5bzVZWEZCZmhZQm5iX20tTWF4QlNvWDZ4VGNLeW1RY1g1MHVXZU8xRTl1SWlPTFVKd3FlazdnZlJkMWk3d0RwalE3X0NNLV9ReTBHcVRrREJWdlBzd1g4NXVBUWF0Z0dYaVpHQUxfdE9McHdqbXMteS03aktMaEc1amhKZ2VvT2xJd0djakotUFUzaGc1STZOa2o4bnFKUW1tSEtmcjl2R09VVVVkazJxbHlodmFwWHpCMUFfbkQxUnZwbFF5Y2I0NzUwc3NsRmFBSG5DYzR5MUpJbEw1V0w2R25rQjFqcUNRRnBncjhEM0ZpbnV0bXRWVHE3ajFpck5tRlhQYWd3WmcyMGcxYk9oSUo2N2x1VHRJQkZOM18td2R0SWdDS1U2T2gtbHdXUUZVczJLQ3p1X3ZFLWhmUHZTYmZSSG41TER4bFFqSEs1ZFR2S0ZRRGRHTksyRmU0Mkd2d3dYNmFWTXc3bnp5dHNiSVhhYWZuX1NFQ1hTSUljX3dldFNMZ3pid2c4eXM1MXQ5aUNuMGNFeTVDMkl0dG5oVDlvOUlBREtRREdBQ1FISjZINzZQRFQxcU1wNGRmd2d1TFlSSlhNNkEwcnB6ZEZod2dybHo5RTM3al96SWZ4QS1rSVdxNTJkcDNBbGQ4bUtGZFV2aV9lZ3hCV1lBZWpmMWMxb2pWWlBZYVNPY0pSY2cyN2ZsSXd2dzVJTXhURHhzdUczRzVxOWNzQmlzTTJ3aF9MWXVJcm5jdEtMRTd6clVhYmxhZEhCd2cxV2hNTFNnT0hmWEFaZXJPN2NIS2J4dlp0UXdvYjZ2UC0wY0VOX2w0RjJWQ1Bsb1dHSjJVMDhISXUwMk9JSEFxUmM?oc=5"
           }
         ],
-        "summary": "• மேஷம் - மீனம்: தினப்பலன்கள்! - Dinamani\n• திமுக அரசின் குளறுபடியால் டிஎன்பிஎஸ்சி குரூப் 2, 2 ஏ தேர்வுகள் ரத்து: அண்ணாமலை கண்டனம் - Dinamani\n• Tamil Breaking News | Tamil Nadu Local News | Latest News in Tamil | தமிழ் நியூஸ் | தமிழ் செய்திகள் | Politics | Videos | Astrology | Business | Sports | Movie | Lifestyle | Health | Election 2026 Updates - Dinamani\n• டிஎன்பிஎஸ்சி தேர்வைக்கூட நடத்த கையாலாகாத அரசு: எடப்பாடி பழனிசாமி கடும் கண்டனம்! - Dinamani\n• சீனாவுக்கு காத்திருக்கும் சவால்! - Dinamani\n• கோயில் விழாவில் மூதாட்டியிடம் 4 பவுன் நகை பறிப்பு - Dinamani\n• மேலப்பாளையத்தில் 42 ஆண்டுகளுக்குப் பின் சந்தித்துக் கொண்ட பள்ளித் தோழா்கள் - Dinamani\n• பறவைகள் கணக்கெடுப்பு\nபணியில் கல்லூரி மாணவா்கள் - Dinamani\n• தெக்கலூா் ரோட்டரி சங்கக் கட்டடம் கட்ட தானமாக நிலம் வழங்கியவருக்கு பாராட்டு - Dinamani\n• கொடைக்கானலில் சுற்றுலாப் பயணிகள் வருகை அதிகரிப்பு - Dinamani",
+        "summary": "• வருமான வரித்துறை கண்காணிக்கும் 10 பணப்பரிமாற்றங்கள்! - Dinamani\n• டாடா மோட்டாா்ஸ் காா் தயாரிப்பு தொழிற்சாலை! - Dinamani\n• மிதுன ராசிக்கு மகிழ்ச்சி: தினப்பலன்கள்! - Dinamani\n• முடி கருமையாக நீண்டு வளர.. - Dinamani\n• சமையல் மணக்க.. ருசிக்க.. - Dinamani\n• சவரனுக்கு ரூ. 1,840 உயர்ந்த தங்கம் விலை! - Dinamani\n• Tamil Breaking News | Tamil Nadu Local News | Latest News in Tamil | தமிழ் நியூஸ் | தமிழ் செய்திகள் | Politics | Videos | Astrology | Business | Sports | Movie | Lifestyle | Health | Election 2026 Updates - Dinamani\n• ஆசிரியர்களும் தகுதித் தேர்வுகளும்... - Dinamani\n• இந்திய ரஷிய உறவில் சிக்கல்? ஐநா முன்னாள் அதிகாரி ஆர்.கண்ணன் நேர்காணல் - Dinamani\n• பெரம்பலூரில் பொதுமக்கள் குறைதீா் கூட்டம் - Dinamani",
         "summary_method": "headlines"
       },
       {
         "page": "Tamil Nadu",
         "articles": [
           {
-            "title": "திமுக அரசின் குளறுபடியால் டிஎன்பிஎஸ்சி குரூப் 2, 2 ஏ தேர்வுகள் ரத்து: அண்ணாமலை கண்டனம் - Dinamani",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWFVTLVVSazBxSkNuRC1iVW1JeGw4aGJpTGluQjRFaFlhLTcyVU45SGV1WU8zTnlOZEFOMEM1TGFzRFlQdVpyZ1lmR0RHQTVES1hZaWh4VWZZRUVSZzE3RDFvNU5wZmVLUzViZnZrYWt3ejZCVElvV3VDT2t6SVJ4NnNPSzlINWJDQWtKYmRzbkRtUXdYTmhudjl4eU5pajg5d1NqX0dB?oc=5"
-          },
-          {
-            "title": "குரூப்-2, 2ஏ தேர்வில் குளறுபடி! தமிழ்நாடு முழுவதும் முதன்மைத் தேர்வுகள் தள்ளிவைப்பு!! - Dinamani",
-            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeUFPTU1VYUxiMFJVX1dZQS12bWV6V3FGakNwcFpoMl9QMk5OOUdTLTFoMmRBcnBlRmN1SzA5X294enpzclJmZFhqbHQ3SVZSNXBJcWJxbWZYX1hXcnk1Qzk4dnYyWkl1UUtNNl9wZ0x2bFFIN1JwNE1TbmtpWkhFMTRjQkRXeGZvLS1PcFN2MFFpUEZ5X3NvOHNaY2tWWnBxdEpqZDdqeG4zNDRXY0QzS0Q5RFJTSG5Z0gHGAUFVX3lxTE1DZUtMTHV1OXJLTGJua0dBRmJGZGxHNFVpWlI0dWJJMVZvODdCcW9Fb1h0MjlEWWFBV20weEdTcjBYc2JHSTA0TmNEN2JoZXZSVHo4WVdmRVJCaTMtRExvUF9DMnQ5dDZUbWE2M2E4QldKLTlRYjVCME16WUlmelRfWTc5TkRlN3BuMXM2R2RTNDgxWWhkZ05PRlROSmVKWmJlSDRqR2lyeHdjcFh1N212Ui1aQi1RdnZGUzlPSmV2bTlfenE0QQ?oc=5"
-          },
-          {
-            "title": "குரூப்-2, 2ஏ தேர்வுகள் ரத்து.. தேர்வர்கள் மறியல் - போராட்டம்! - Dinamani",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNkYyd290R1VQcDR6UDlCeko2NFdRMzVIaFhmM3YyTHVYT2pjZ0V4UjdhMWdNb193SHZfQmR2eDlIZGVRa2lZZmlOOTE5WmdYX1EzVG1zRzhUSG5ueEJiaEFjaXJFVm9zM0lsT1JINjhGTFZDYVFkdXJTaWktRmZTLV90NGdPdW1tTzlXamFHTEVUYW9CR1dfTWJQXzFvaG5rZ28xcWJHaFpmSWJmamtydmxZRUhvVEpibVRDONIBygFBVV95cUxPMDNDSjFBOFlESktFODRmMmpXbHVCa2JKOTBqUE1icTRKV1BNcDVrZEpFTF96bTlhX19qcmJ1cVRFTFNHYmRpZ0tza0d3TUl5dFhlS2pHNXNyQUdnelBrQThCNEdKdFQ4OWJUTDZxSTJkb3JEVk54Tm9XRzdJTjFtUkxQMldRSTA5VHdWSExDQjhITDZjcDJGVDVaMHBqckRCR0hlY0FvY1doM1EtRE51aGwySmFLMXZhY04ydmt1VjZjNFFtSmpleVZn?oc=5"
+            "title": "டி20 உலகக் கோப்பைப் போட்டியில் அதிக ரன்கள் குவித்து ஸ்காட்லாந்து சாதனை! - Dinamani",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaS0xRnlVLVlYOFFNRFRSSEZzTktuaHJGaWJvd2xVMVpNaGJObFdOSFZfQnR2cHEtbWhUc0xhQlM1eXRtWl9ZYW5iWEZrQkNfOFRLRTFVaFlySEozZU1ibTFlVWlHbnhkejJvajlDNFNGZDVzN0lCang5LWZpZk1rMndjNWZwM0Q4UjdtczdHMUQ4ZjdoZXFxSnpJN1RmZDhPVllSdjVn?oc=5"
           },
           {
             "title": "Tamil Breaking News | Tamil Nadu Local News | Latest News in Tamil | தமிழ் நியூஸ் | தமிழ் செய்திகள் | Politics | Videos | Astrology | Business | Sports | Movie | Lifestyle | Health | Election 2026 Updates - Dinamani",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMmNUTFQxcFRDU0ZPRDN2YjRhSzM5eENhNmNBNVgzbjE4dHpjZDg0d3JYWWFzRkFyb0I3UXJpdTZGb0ZxQ1FFU3pUd2hobDFyaDZEbm1uZGxSdUNVTUFtVjVVOG5mdk9vS1lOOGYxakI3amNxQW9faVNfN25pNFFLR0xISWlGSm9RcU1fRmMyQlNSU2EyeGVVRUhwdm5udk14bGViZW5R?oc=5"
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUTdLRHpZRVEwN2QzeDZLemhDTWlqSk9GdTFnMUZ3UFZLZURIaTcxNHFWaVhXVFM3SjBmRGpVTVpobVFQLTVpS3k4V000MzZJNzNLWEYzU3NTNFdHRHp5Z01ROXpiWVdkLTVMeTM3ZWpPTnJGTS1lWVlUcWc3b3ZVY2QxWnNESDdWWDljX0RpTmwtTE14alRFTzdZcDJvM0QtV0FnaWlB?oc=5"
           },
           {
-            "title": "டிஎன்பிஎஸ்சி தேர்வைக்கூட நடத்த கையாலாகாத அரசு: எடப்பாடி பழனிசாமி கடும் கண்டனம்! - Dinamani",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT0J2NktRR2xmRUNPY2Y4VW1BY3l2MTZnd2c4akVJczFaZExRQ2hvSXNERzJJTW1BMUhIdTAzXzJQUnMySnVwcVFDTHc4eHI5RU9RWHowWlFya2otTFhlTC1nYUxTQkVKVjBGeGVJdWl1SkJLaGtLMXo2R1o2VEl0UVFMRUU3SmkzczZHUFljTXNCeC1OMXNXODI3TnRWUnZObV9KTE13?oc=5"
+            "title": "எஸ்ஐஆர்: வாக்காளர் பட்டியலில் பெயரைச் சேர்க்க இன்றே கடைசி! - Dinamani",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNHYtZUlReURmejhteGljdExMeGxPeVEtY1VXZml6YVhaeFg4VmIzckpRa1NsdENsME5FSWUwNHNrRmI4MG02aEllRUNKRldQMmo1LTRVQ2MzUnhuNHI3d0I2Nld6MWJwZmdNVzE2WFZuOUhhT21wZ2diNFhRbFliS1c3c2pYRXlYN1lXc21NbGR4ei1WWGhScmdXV2s0aU9aQVM4WjQ4aWNhVFnSAbgBQVVfeXFMTklIdWNhMF9WTjJGVmhJa3hSTWZFRFVmSTRmcG5hMTM1QXowblpyQ3dka2ZJQ0l3dERRZmxhM2RsUnc4bEdIclNNN1dYYk11elhzSEVVMHZDQ1pkd3ZTT2VhQlNmV2hqRkRTc1diajl4RUhpYnlNc25jVFctUUVEeDlPS2t1NU8xd25fd0RVOVhxRndCYmg4RFlqYzdnT1hNXzlkSjYwdTM4d2hMVUNPTDktLXowSVlOTA?oc=5"
           },
           {
-            "title": "டிஎன்பிஎஸ்சி தேர்வர்களின் கனவு நசுக்கப்பட்டு கொண்டிருக்கிறது: தமிழிசை - Dinamani",
-            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNElLblRUU0hwNjZZdFFuYS1GeU83WXZoVVJpRU4zWHRYUWREaWpqdHNYRjJHcmxZLTllM0d0NEd1RU5zcHVlMjI4Z182QjViaWdDT1FNb1kwd05sbkk1Ym12bklZZDJHNkdXMXlPQm96NGtxSnFBbEJWYkwtMURnbm5XbnZLVGNBcDdvTFJIaHJLVV9sYUk0em81Uzl4em5iZExhYXNoSdIBtAFBVV95cUxQYlQzSW5TSTg4MEZ1QmYxeWhUNUZWcFNBZkNRbEJWZjVwMXdWazNDRXltaG9TY0drelAzbXVuNlpBTjlMVW4xX1NjWUppWk01NHpySHh6Q093M09Mc1A5d3Y5SkNpdUlMLVBYajdTb0JUbW4ybmVzR3hwSlRxdFlaYWVaeThVdXhKSUJ2UlY1VnRvZUpoTHdVRUZGZmxqbkQ4bm5SdUdGZkdlOTRtcXJWdi16dHA?oc=5"
+            "title": "தமிழகத்தில் ஏப்ரல் இரண்டாம் வாரத்தில் தேர்தலா? பாஜக நிர்வாகி சூசகம்! - Dinamani",
+            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcmdPY2Y4Q3JnZG1OVFF6cEdENEpYM0JsRFBmMmRPckUtOF93LVhwdzdlbHVZVDIxVDIxeTB0ODlVajg4Wk5XdzZ2R2RUMFVFS1UycVRuN1Y1dE44V0Y2cFdfNnJNWEJzZVR1WkQ3eHZVV0ZEcjl1WXBoYUdQX2xiZU0yaUdlSGkzV1VBNTk1eklHd0dOcHA1bjZfYlVacnJ3YWU0RGF0c2Z0bXBKb3hRYnotbWNpY2FGQWfSAccBQVVfeXFMUE90YW9UVUlVMHhrUW8zV0FlN1VNcmZ6Ymx2R0V6dWljLVNQLVBaOGFjdGpVVC16WGttU3dldzh4WGdodjNoZDR0bXMtQnRmNFc5a0RVVlM5bG5LNHNpZk9JR1Ztd2hrdDd1bTJYYkVvQ1ZoZUE2RXBmdmhPWkw3a1M4RFFOLW1IUmlYcmFJcEMyQllWMGpXdUZ3NXFMckpPN190UFMwREdOQ2VWZnlwNzhkSWVnWkk3ZlhFY09PSC1LTXFpeWVKZw?oc=5"
           },
           {
-            "title": "செஸ் ஜாம்பவான் விஸ்வநாதன் ஆனந்தைச் சந்தித்த இன்ஸ்டா பிரபலம்..! யார் இந்த கூபிஜென்? - Dinamani",
-            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYmJUcURnTlMxMERvZWloN1F6WHVvZUo1VVM5LUZObUF4OGptQWFqNncwNFlMc0E5ZzNicnVWbzFXNXQwVjJ4QnlUOU5PVDE5Z0s4MDdhTG41VU9vLWp6RjBIWXZNSlVRU21vcHN4TEl6YjR6RFQxOVpVYzQ2aUxTVkZ6Y2htcnBPOUdCVDBfWnUteVhEbUlMeEtJVFhpdnBpTnFybEFIdV9GUWR2bVQ0eFhDd0VnTzI5Q1ZhSndKUWxUbU5aQ2p5Qk5oRWVZWTMxWDZUV9IB4gFBVV95cUxQSGVyWEhqSmhaSUNiTWVCYXFkWjlNU1g0TWdSTm5VR2RKR1FDNTd6cnhGd3ZDSEx5TGcxU0xuQjVHWDlma3IyNGYzX3I5aG5HcFBpcHJldWdPNllJb29PNUlPejVvOWJuc2d2WjZRcW9PSU12eHFzR2p5UGVTWXJzMmRqVl9KZlQ0MjFYZnQwUGVSWlFHSHFIS2lwRHJqSHhXWlJhcm56UVpvTUtlVkFnRncyRG1CMXY0bUNLSGVaT0c1eFpfVXItTXM3ZHJjZEdONGRIWXhaQy1oaTNFZE5Ob3lR?oc=5"
+            "title": "தமிழகத்துக்கு காங்கிரஸ் ஆட்சியைவிட பாஜக ஆட்சியில் 300 மடங்கு கூடுதல் நிதி: மத்திய அமைச்சா் அா்ஜுன்ராம் மேக்வால் - Dinamani",
+            "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSlhtYTQwMVlWTkJHa2JmMVJ2T2gxTnh6V3lPdnN3eG56bUVuVkZ3TVUwdGptSG9KV2REcEJ6TXN3V0RyTUJCVUNmZXg4X1FpT3BoYnAxRk51VTNRa0tlTi1penkxWGZXazNYckVLTWFDWV9Ec2E1VXRhUExNVTNySU90djVxU2U0LWlrWlhrLVY1NU50SjMybVc4RW4xVlQzRnN6azBoeTFCWUFIR3NMVVl4MVN5WlN0aTBMNXhmTEVpSWV1RGNWdzI1MTYtR0cwakFvRlAydFVmRnFNVG5OZTB6QTZfYjNBNk1Od2Z1YW41QdIB_wFBVV95cUxPYktKVHQtUGtOempWajRvbUJWeHV4XzBTV09RRnZDU2pWUHV1RzdQUVNoU0JyRVYzMnN3enI4aTM3RWUyM2xuVlo4OUNTc185aXJQV05zVXVaRW9Qa0FKU290ZXlzenBBOWFXdi1IakVUaXFqU0Rua2hTRmZ2TGctYkxIdm1JZWRhcElMUk5GSlNvNkFNa0lMMXVPZmZ1d2NpTERYWGJSNGJaa29OWGtMVjA1SGp0QU1JcHliX3g3V2ViYVRPYWxRdTFxdHdXX2pGcUtXN2FYX2NLVS1ybVpaczYzOVpvcmNLcENaUmJYa2ticEpKU0ZOYXVEN2RvZUE?oc=5"
           },
           {
-            "title": "தமிழகத்தில் காணொலி மூலம் சாட்சி விசாரணைக்கு வரவேற்பு! - Dinamani",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUWJ3eENybEp1TTkyWGlKZGRVWlJ6OU5wWGQwdUo0NTRRZ3hnSXZDZ0doYnpJR3BJV3prQU03U0tDdFFjVHc3cUdReEdFOVZrZ3RobWtPeGpDVnV5VkswWmJLWUVkY1R6Nm1tZW5UaWtfMjI3dVdfS0kyaEsxWXd4WS1Zb0pHX3oyT1NTT0FmWHZFWlQ5RXFYZUFwUHpsZVZXYjJOQWtaeTc0QnNNVkpqamxkdm1Zd9IBwwFBVV95cUxNZ1J1eUJHRVNjSWVqdEhfZ05QNm5UaFJtX3NKdnBxdl9IQjRVQ0lXUGw1eFptajBNY2dLYllkMFkwc2kyWjhIaU91WEgxYTBzWHJSQkRTd3JyaXJyVy1yZUdCZVpaNU5sdzVpQ1o1aS1KSGtwSHlmOG5QSFppaC1qYWdSR0R0eFE2bGhQN0xaeWNIUlVRT3RKdTNRZWZTNkJocElOcHRfcmJ3WmVSWXJ6ZUk2dTJGWGhrUlhqbW5IX21aaHc?oc=5"
+            "title": "உலக நாடுகளுடன்தான் தமிழ்நாடு போட்டி: முதல்வா் ஸ்டாலின் பெருமிதம் - Dinamani",
+            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZE1obVJBTlAxdzVTOVdXRE96ckl5Vy1sbWhqRHhESG1ILW8zVV9xLTN6a0RYS2NqR1hpaDlHOUh0UmhhU0dmQ25DNDltQVplejd3dGtlak1IQTF0akNnNUlWSFNueUVRMUVnNXJfUDB5eUdZU29iaUx1aWctTmI2WTR3dGFsZmd5YnlQaWRiRUhWbDR0NkZjeTZiTDBaa1FYUEhhdFFDc3JxbGNuV3l6UkpxUnYxY3BoT1ZURU1JcWtRWW9MMERrQzhPa3RrUl94VmZvMV9R0gHjAUFVX3lxTFBjMlJJMV9HZ0hicFRjOVZZcDIzQTlYaUR6YnBUeXZjNUVheVROTk9BX09xa2F5ZC1aY18zaDVfSU1SLW9xZ01rT01DVk1TVmpoNUVqbjB4aEl3RVMzZGtUNjgwLTBZT3Jhb3ZFMjNNZWJmd0VmMkdick9XelVLYnp1S1dBczVxRUpDSV9ZZ01PSjF5RTNhTGducm4wM1JuRHNfSDl6cFZQOG1WX0pOZ0dJbDZiTG1wWVFHV2ZOU0VRYTU2aXZFQXI4S2RLVUdoNEZVc2djRFg3TEdrcm82cUNpWTVF?oc=5"
           },
           {
-            "title": "தமிழ், சிங்கள மொழியில் வெளியான டி20 உலகக் கோப்பைக்கான பாடல்! - Dinamani",
-            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdEJQdVVqN0RhTTBSUW1Tc2Rsd0djM2QxUGswRjJZYkNWNHRTN1p2bjFsdTB5emwzODdsMUN6eHZZMElzSDNLdFY2cDlpMDFIQW1TTkZYdmd1S1RLVVBFR0NLUHdQdV9xczF3X3hrdVFLV0tiRWdPQktSeTRBX214LTVINl9IRUZRb3RqMm5yYTZOREtGVG1fd0NGZk0tSW9qMTg3VlpOeV9uVFZidmdPcGo5Q0lsOUZ2TkMw0gHIAUFVX3lxTFBlRmFtS2F0VzI5bTA5d0JKeVFYOFBSbEhtbGIzOHFSRWFFX1A2Qk9jaVV6RVZGazU2YmVhMExaR040VllCVGxxWHNmWEc1QWVUSDE0cTg5UldRbTBPRjh5MUo0Q2dLRVBjY2F4NDRqVnRIemw3Z1ZaMXVhQzllaGFnSWlrSVNURUo3WGxVNHVYRWptdm9xRFQ5UFZMTGRjbElteUJka1RFenpHaGFmMmNvekNyVzhLQWpXYXVpODNUcm8wd3YzbHF6?oc=5"
+            "title": "தமிழகத்தில் 6 புதிய அரசு செவிலியா் கல்லூரிகள் அமைக்கப்படும்: அமைச்சா் மா.சுப்பிரமணியன் - Dinamani",
+            "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVXJtZEJaTlJTeVFzaGUyX0RrNE43Zk9Qc21wYVZOOTZvMUdlT1gyczBEdDhqUEpSR2ZZUUZqWlNXRVZyVjVoR0gtQVVXU0FhbW4yZ1VxZkZ1S1Ffd1J4NVYtZDFOSlBqWm1Wa0swTDR3QW5zZ0g4RnpaUThjWXhDRTR6eVpLNUljTUFpTndxcUdWbUR3TDlVMGhkczFFOHY3SExVc3UzdUJhX3JWVzhUdEFBQ0toY2tMUTZYZHlXZ0N6Sms2SHdYd1BubW9zZkRnNDJMUG5DZHpFWF96RGfSAesBQVVfeXFMTU1CY2JRLXRnRDM2MkJUdmY3akdGUzJDSXhDZmowYlRZbG1DRUZibEJMbFN3UklKMjhGaWlRb1dzWXZfZVJqZzJsT2xEV05NOGV3cDNnQzZ2TG1zN1EtbDNFZ0RvdnFwM3NULW5ZemlISXpjYTVwSk02VklSN1prMTBrWG9wck4zR3VTUUNiWk9YM1hHUnA2TkI5ZUp5cHNTeFBvZjRCM0JRUTdoZzRkUHkwQXZNMmlwWHVrYUJ4cHY0M3FXdFlwSURTV3lSUmVNeEltX1BwbkFwdWpGZmdTNmhLZFlvYUVkSURncw?oc=5"
           },
           {
-            "title": "மார்ச் 1-ல் தமிழகம் வரும் பிரதமர்! நயினார் நாகேந்திரன் பேட்டி - Dinamani",
-            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN1FJRnB4TVBYOGZnU1o0UldKQUdiT3ZzQkJFcnh4MUI4TVBDX0wteE5ndkRIbFNMVTM1dHdyMExQUzF1dkpfeXJjYjNDcFhKYm5zS1ctSXpmOWwyWlhyWkFOMVM1eTBNRTR2aUt6Y3NQWWZ2Qk5iMTU1Z2N4ME5MYWNsOVFUMmNOeUxVQjRrSks3eXM4Z3drck52SDNnX3R1SnNXTmNxM0hCS010a1BJTmZ1blcwVnFKenVWYzRFcVVEMVpVVVRv0gHUAUFVX3lxTE9NLUtxQXNMU3ZSZWhjYkQ3QU9ad0FwYVd6QlFoVjY3UFJiNWxtT3BZSWdxMFExSXBocTkxZTVUZVZNbFlhNS00QWsyMnQzOTJyR1BjSXJwbHhhQ3dlUmstbTJZMWNVWlh3cTZEOWJuWFUycUJBbVZmQkZiWWxpdEJvX1JiNlpiN2lWUTYzLU1rNXhNU0RzQWJKdThLRVdfMDI4YVV6TkxwT1k3X2FMZ0JmNmg3clNCbXNFM0lHeE8wcndycWMzanM4cy0tT1hsbDNwd2Vt?oc=5"
+            "title": "கொத்தடிமைத் தொழிலாளா்கள் இல்லாத மாநிலமாக தமிழகம் உருவாக்கப்படும்: அமைச்சா் சி.வி.கணேசன் - Dinamani",
+            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYk54bGpueU9WU2dYMmFLOWhXb0VYTmNFbFlaZ1dobUtONENIYnJrYUJnY3BiYWZXTkdwZmR0a0tUOXA0VWx6ZFotdWJBTnRObnpGRWdYaFVTSDN1UDE3eEhxM1RkdFdWeGF1SHRNVU1TU3kxWURBQ192T3JrUzJ5ajFZMXp3Ri1Pejd0cld2LXVucl9kNzhXaGFFOExvVWJ0a2huckUxNGJTV2NfZWo4YnJzWUo3engyMDJiaHBqenBfdExUNnNuZW5PaGc4M1XSAdwBQVVfeXFMTXJVakZ4eXgyaEh2d042ZDNObEV6eC1wTG9nMzJuTXMwMFhKajVweFhlWVpfRGN3SlZ6OGFxbm9RcVFlZHpTdTJ5SGx3MWo4ZjZvek5jN28wUVNZcUphTzBUeVZCWVROTUxqSTZLWmhXb21nRmtNSGFRSUdMTXNXT3BfdVRvMzVfNURVQlBKcEgyWVpyemVYVzVNTDZlMnZod29oeWpkSDZmWkI4MFFqeDdqQWNNbklaVWRNYWJ6S1QwTERlalAzZndPd1VNNHhXQk8xalhtQkJmX2NMRw?oc=5"
           },
           {
-            "title": "நீட் தேர்வு தேதி அறிவிப்பு! இன்று முதல் விண்ணப்பிக்கலாம்! முழு விவரம்! - Dinamani",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeEh6ZG51OXNRS3prN0FDbEhMQ3JIRUtyUFpKTXluYmUwSlh6bVhEMVU3anZEcjJkRDR1cFZuUGp0X3NQLUlhb1NlNkRkZnFXSHFQQ2Vxc25PNTAtNC1BU3RQWjNnREFJZ1RLY05OYi1MVmdWYUlpVG1FNDBCVzZKX0Y2ZG1rVUHSAZQBQVVfeXFMTlBxWVM1eXczQVlHLTM0VURqOXZIbzRvdzdHYVNxeXBoaVJ4ZENSaXhFSHVwVDduTUZ3TDEzZGNFb3lfLWRQVDZaTllUelpVcFJMbUJSR1M5ZFpLUzh1bzU3dzFBcVA3RFoyeW1JbkhJQjBCblIyc1U0RDBzbmhOUmRVS1oyYXNMNXZ6YjZQOXRwZjQwUw?oc=5"
+            "title": "மத வேறுபாடுகளுக்கு தமிழகத்தில் இடமில்லை: முகமது அபூபக்கா் - Dinamani",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVm1KMjc4VFl2ZF9HdDNmcUxjaFhlaGNNTmtJV3dHTUNod3hxRGZ1cFlLTXlDQm9PVzlfdHJxMGhFMk1Ndng4bVJZTXdnT3NXMGVUU21LZzFueHgxeF9ZaHBmZUtpOGdQQ1o3RzlVUkZIT2xHRmJwWGZ0aktkdVRHX1N0cTBNWW9tX3czbTVkTjJJLXlUR3doUtIBpgFBVV95cUxNbmM3Q2NHVDhEWDRPb2ZVVXk3a29LUHBmQ0NRSGNSUi1Fa1pVS1dBUHVkdUJkMDBvTGJnVDQ4RGRsTHBHWXhCUWpNalhvc3FvOUozbm44NXpXNGhmMVZneHhzRmpVbndnZEF1LTE2Y3Bka1pfeDhjZzBRUnl4U3pnZnpaMVM0UmR0QTF0Wkh6dkY4bW9sb0EyUVdDNHMyMVBHb19KQzJn?oc=5"
           },
           {
-            "title": "2026 தேர்தல் திமுகவிற்கு மிகப்பெரிய இழப்பாக அமையும்: நயினார் நாகேந்திரன் - Dinamani",
-            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMl8ta1dRUFRnUDdCZTNfdGtPejZJVXI4UG9sb3Y3NXl6eUQxZWhqQWtZUHZ4cEhVYUNUV0x2ejluTmZPajJvWmxndWNGOHYydzZIc0lpcElmNHotLW5VU2FuNzdheEFCdU1jTmQtYTZwVTZ6UnlWdXUxN09SX1RmUkdrckt1aFZPc0xNbGlpaDBvWTlMeEwwN0wyYksyaUQ1VVVwS1VUMXRnN2g5TXFCb1NXenlnczdlNGVpY0F6SdIBzAFBVV95cUxORDU4eC1Gc0lCU1o4bnpuMkVJMnZ0eTdfajM5UGZoMHlLdWdqbU1Pc3Z2R1MwUzM1d2pBQklOQjVNN2pWZWlENTljalVZY2wtclM0QnN2Q1FEOHFUN2twdl91MjRLUGpYblY0U3ZvWF9BNHh6MUw3YWRscjRfeVZLZWNUdkdQaHFOa2ZMVDQ4UEJBcXpnN2lDNFRlNGEyNWlaT3dOME1YQ0VkekxkREM4MTNQbXNadU1YWGNFSFc0eDN0dzdNdXhiZEtGM3o?oc=5"
+            "title": "பிரதமா் மோடி எத்தனை முறை தமிழகத்துக்கு வந்தாலும்\nமக்கள் ஆதரிக்கமாட்டாா்கள்:\nமு.வீரபாண்டியன் - Dinamani",
+            "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQUkxlbkNTRy03N1dPRldrNHFfY1ZaQlF2WWstUmg5akVxd0FRVzBwVGc4UDJDQlFvVGNCTUtYZkxqamllcWV4S0RDUHNJSE9vRXZrUm1pTm8zcF9PbENtYzBoaHQ0V0NJYWpJYmZ4eElaVVhCa0RQT3V6OFIzbll5eUdhUnVqWk5RcUxNWm1TU3ZSRXFmcUpmSGpNSlZNZ3RiYXB4VzBoYlBGWjB4cjl0cUcybzF4SmxZMldQTEtWcXdKTXhIakltbFRfcjFmcUxsdVJlWTJRSEFadXBWcENCYkRmbG9JYjlXRWRBUEVmbEdYQTgyZFJDYm5hNWdDbmpLS3djYmE3a1hZRVR2OVIxSksxbm5JeXJRTGc40gGoAkFVX3lxTE5sYXJEb0M4dlZWUFVOMFRPV2tIS2RnN0hkcjU4WkJibjlTNFhSOURjeHlIV2dmbTN2UEZFaHQwMWxoSGZlcFU5emJxYzBFeGN2VWFHUGJFWVRzdkhuSTVNV09QWnkyc3RkU0hCd1ZMeC1IQV96UXE0M3ZnR0FNemdDVklneFRKUldwdzFXanVhMENXVVdXREx6S0V6bXF4Z1Nfci1vNmZScWNUUHEyUDI3UG9tTEFyaVhzQTR6LVlkX3NLUjRiYzNzbU5ia2dUUk1WMUM4Wk1abXg0LVVWNFVQd0ZDV1JMRHdPZzZYeTdYMk53Z2xSeVI2akRmRUJVMUExTmlmRDZZNTFjQjVXSUJXQjlndlJ4V3k2RDMxU0NacE52WklqWGpZ?oc=5"
           },
           {
-            "title": "ரயில்வே திட்டங்களுக்கு நிதி: பிரதமருக்கு முதல்வர் ஸ்டாலின் கடிதம்! - Dinamani",
-            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbmwwRktZUnhlVmJ2cWJFYlI4U0RRNkRGS2VGdHQzVUd1dmVVMEZWM0NVVENDelQxLWtiYW5jQ1FRV3Q3QTF3LWhGTmJIWVQyUlRsLXpmTENVaW1mVXBKcHhXRUlwdEQ2bHZ4QXFXcElLYks0YmNOVFV4M1BwRS1YdXZ2UTlSazRRMXlUanhRLVFIUm5BZmNwYzNHWnJMVEFWZXE2aFJTQXNncHYwQXpZTTAxcDVpUTVuTE1xcW5WUVlydTRI0gHSAUFVX3lxTE5XNGgyUGlzUm1hZFB4UjYtQnlRUVYtd3FuNFlZZ2VIdHRTa2VGUzhZei00bXdIa3NsVjMyWmFUb0ZVamEzVzJuOXFEMHNzQ2k0TnJMUDB2bE93ckFTYjdrdWJPY2EwMkZjRTdLYmFTWkJxb3ZRR0hfUzdiaXFaWnpfcTVOd3ROY1g5VG01c0g1RVF5TjBoOXY1UjhEV1BhLU1YZXRsWGFYQTFUZkc4WGkzbHlNT0RUN3FDdmdRODV3T2FRd3czeFdDQ3ctQUFoUklBQQ?oc=5"
+            "title": "கொலை, கொள்ளை, கஞ்சா புழக்கத்தால் தமிழகம் சீா்கெட்டு இருக்கிறது: வேலூா் இப்ராஹிம் - Dinamani",
+            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZjRZZEdtM1RlQ0JPOFFpZGxMOThFcW0xeU9HNm4tNHp0V3U3ZGdmeDcwOHFjamVoNzZlTWRIOW5NRzEwOURaWEZDTlh0OE4zNGNuS0NTS2Uwdm1hVGpCWEQtdVRza3pTekNnTkRwRjd5WkNnaU1zbGpCUFBSVXEwNUduV0ZjSnkxQmdUeXU2OHFWNnNicGczQU5ILVVKcjQxdkVTM3dlallJNUhzN1pYdEV6LUluS3pWRjVKTWIwLWxaXzdEVlpITzc1blFXUVQ0Y2l6U3J5MGgwS0loWlM00gHsAUFVX3lxTFBrdDNmQjctX0MxQzNBTE1uRmFUeWd3TU9lN19fSm5nbUYyT3ZsRmVmeWt2VUJsOUJfTDlRLVhWcWFuWXR4R1JkakNkQWFVYmw3TDBzTWFiQzZJeUxhUENwellMMGlaa2ZnWjVNWUlfVGVjY1dkemJUSzktR01EMEktYUtoOHpSRjVkX2pkQ3dtbndVVlZZR3pqQkh1SmdodnRfdU9VUnVUblJ1VF96Zld6UHpULVg5UTNpQlMzRTAwTHNQVWxTUk5OYU95YjlVclk2OUppdFdqblhDdFRaNnRSem5tUXc4cThuOG5U?oc=5"
           },
           {
-            "title": "உறவுகள் தொடர்கதை! - Dinamani",
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRzM1TjRXMGZHNGUxd0F4MDBmUjNWSXB6TTBvR0ViQmlCeXpYRzBLT2IzOFFXa0g5UjhFcER2MUp1djVYbDExLXdHWEpybjdZdjVEZE1zaDAwek9tV2ZTYi1Ncll0bE41d3R6S1I0Nk5NTktVb3NGXzNyc2FfQ0Jld3l2OXRIRi04aHJvT0R0YTgxWk5Ec0Q2WldxTGRfUdIBqwFBVV95cUxOOUNiN3VhbzI4NGdCSDZqWjJybk82dlFKTkhoUF9PNUY3NF9DanU4Y1ZtcFNmaDNqRUI3XzRVb2tSTktlcXZuc2h4N3lIMmcwZ2o2QmRwYzdLNmpSLXNnSkZVUUtRYnJTVW56RGU1WkZWeURtNVFMWG5xS1lRY0JfSFBENFpoSXVLd1YtWkcyMlJXTU8tWjlCaTJNY1FvZnUzRWtpbndmUXBkZkk?oc=5"
+            "title": "தமிழகத்தில் ஆட்சி மாற்றம் தேவை: புதிய தமிழகம் கட்சி - Dinamani",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcVYyYUUxSTA5U0lZREZ5OGNONTJLRjFsYXI3ZWJSeWlDSVY1NjQ3LVN2ZURkNnJSZG93dV81WE5RQ1Y2b2E2bEp3LVV4enVpc1V0WGtEWFhscnJaRk5UdTJ0dHhqYm5iSmxQc3dFVjF2aC1DZWZLa2I5TDVOdzVudGpsdVJiV20tVWtIM1Itck83S2lLWEJmd0NSM0JzbExjZ1N5Ni1mRFk4ZDZVYkJOeEFn0gG_AUFVX3lxTE5QR1BlakNwWDNpNFVhQl9PQmh6bDlaVFBjaWRHOE0zOW1mWVYxNkhuY2RfZVNfY3lWNTVKZ2o4aVpZajktdjNKdk9TUW5FUFBkT01IY05QNlNFX3YzWWNQYld2RlEtc2VRWmc2Mlhyc0RRekVhaDRnNllIRGp2NUhybTlBcmFHNFdLTHU1Ymk1dmF4ZGtpdERZb1ZoOFhNNy03YWhOQS1DdURoOFBBU19jSEZPVnd3OU1SRkF3STcw?oc=5"
           },
           {
-            "title": "ரூ. 5 லட்சம் கோடி கடன் வாங்கி ஸ்டாலின் சாதனை: இபிஎஸ் - Dinamani",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdS0zaFFDV1ZCVUlIMG11VGVDUmstMjBaNm1Hb3YzcXhiTlgzUF9SS0JYZ3FXbnRRcDNKcnE1cW5VX1ROdXk3OWk4ZFZsQjZEel9vVHZHTFRkd0pYZUFhNlZwV1lERWxTZ3lPeDloeVU0ZVg0eGtpa1dnZUV4SWtUQ2REZURQeE9DME9vNm1remNXclJ4bWdhekpuR3ZPSDRwUHfSAa8BQVVfeXFMT0N2cWhveGpSV0h1d2VEUUhqeHQwcU1lY2VmR1g0dUtnZ3daYzNnNnlNZDhGUXZQTXJIcFZCSDZFNUw3ZnV0SWxKZWdtTmFxS2JfeDVfbDdHVDVTMFVjRzdmNHVjM0VRYkNsOGtVN3M4LVcxZ3dlUXR3RGdENGtQZHE4TlF4dFdpZHduWWJIMERFVFZaWDNNSlE1c0dyeVZ1WWd3dWxJREtfUnFOamljbw?oc=5"
+            "title": "தமிழகத்தில் என்டிஏ வலிமையாக உள்ளது: எஸ். விஜயதாரணி - Dinamani",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQemlQYkpwVHdBQUtudzBYU24tSnpkZUQzdk85b3J4R3R0VE5xTHJ2OHBQQUs2anR5Qkw0TlFqTjRzT1VBaUQxTGZZOXpGU2Z2YVNmUnBBRTQ3WFJsdlR0R0V4bWtNdzR1VVNoVmU3NUxaWlpkU3JXWUxhd0dzb1NaNXlYM1JqR3hEdXRZVENVZUtpTFFydjJjRlFhajNGby1RWHpIYWthVWZOZENyWnV2b0d2MzNLQmZhcmtva3hsM3VGV2tX0gHSAUFVX3lxTFBmbnFLaUxaZ2FBcC1kMHQxQUtVU1dJdFJwNWM3R2RFTElmTFBJY25Sa0JZcVNyYS1wYldQWk1kRFpuRWRHUndJZUJ0bFpqWGVsNnhUOVV6bm1LaEp6b2lvenJBc2ZtMHFXNUFjN2dvRWVpNWduMHZVTFBFUlJYdXhyTFo0OERxUG9kSVNhaGxRcTNIa255SF9yUkNxcUFuTXVMTTNUQTR2RmFxLUtyR2taaGlHTmlQQUp6bTFQUVdlUWsxcVZCZUhzT2E3a0VmUDJDUQ?oc=5"
+          },
+          {
+            "title": "சென்னையில் தங்கம், வெள்ளி விலை அதிரடி உயர்வு - Dinamani",
+            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTGxXckZZNl9QWU40U2M0S0gzRVd0UWZXMVlyZ204cTdJWUhXMFc2bFNpRHNwSFgzT3hINFNLZzlZUFpJSGw5dDZBSWZrUlhRVGJXLTcwMlktbF9UajhEVGdXbkxqeFZENkpPcWE0cW40ZTZ4Y2ZGV1dyVm9DMEhINHpyMFE4dVJfMWhhUGZXTdIBnAFBVV95cUxNUEhPSVFfWGFTNWhEVElaQTFvMFZFbGtUd1ExYUdmYWZVMktSbnRZMTRLa29Jc3RzaV9Fb3VPMzFOSGJqZVZhZFJLZnBKMmlIRmh0LWdTTHdIbDFCYVIyX1NGenJiZ3R1Ty1IaEZsVlFKZXFWRGVhaWpRZTVKYW55bEVKRE9hcU4ydmpxSENyQlRVaWNQTmRrT2JKOF8?oc=5"
+          },
+          {
+            "title": "விஜய்யை ஏதாவது கல்லூரிக்கு வேண்டுமானால் முதல்வர் ஆக்கலாம்: செல்லூர் ராஜு - Dinamani",
+            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNEhRUUI5X0Z6bk1XTndvcDA1a2s5eF9YRC1TQVBtY19Hc2w2SkgzQjFaYlhlX0tXdmxySVJtQTR1bFpwVEY1Y3ZBVHRkVkVUZy1mb3RackxyRXRqYVM3ZkRuczZ4V04ybjJRMV9JbW5FRmtyUURsN04tQXM4RkJYeFVFaGE3QjZ2cm9sd2RqRXRMRlRwZnRwNjU0LWpTd1A2VjI5SERwWTdkSWdhbjA3VWpsUTgzcTTSAcQBQVVfeXFMTUo3dG82RlFHQkMtRXB0Z2ZncTdVSlFvZDcxX1p5alRTc1djTF9fcmdGajVoRHJyR0xCNXVCWUpHaUpQd0trd0dsTzlERjdVWG11SVkzcWYtaHBybXNkVFNsaXdkTEhhR2pob3dmTjBZNmltMG5IdjRVSHJFTmRKSDBSU3VMQWhiQzdlWDJkRExWTWhUUFNBZUtyNThJNG9rZXV5QmhxS243R0pGVXY0eG9TWWtEc2Y5ZUcycFBCdEpxcV9POQ?oc=5"
           }
         ],
-        "summary": "• திமுக அரசின் குளறுபடியால் டிஎன்பிஎஸ்சி குரூப் 2, 2 ஏ தேர்வுகள் ரத்து: அண்ணாமலை கண்டனம் - Dinamani\n• குரூப்-2, 2ஏ தேர்வில் குளறுபடி! தமிழ்நாடு முழுவதும் முதன்மைத் தேர்வுகள் தள்ளிவைப்பு!! - Dinamani\n• குரூப்-2, 2ஏ தேர்வுகள் ரத்து.. தேர்வர்கள் மறியல் - போராட்டம்! - Dinamani\n• Tamil Breaking News | Tamil Nadu Local News | Latest News in Tamil | தமிழ் நியூஸ் | தமிழ் செய்திகள் | Politics | Videos | Astrology | Business | Sports | Movie | Lifestyle | Health | Election 2026 Updates - Dinamani\n• டிஎன்பிஎஸ்சி தேர்வைக்கூட நடத்த கையாலாகாத அரசு: எடப்பாடி பழனிசாமி கடும் கண்டனம்! - Dinamani\n• டிஎன்பிஎஸ்சி தேர்வர்களின் கனவு நசுக்கப்பட்டு கொண்டிருக்கிறது: தமிழிசை - Dinamani\n• செஸ் ஜாம்பவான் விஸ்வநாதன் ஆனந்தைச் சந்தித்த இன்ஸ்டா பிரபலம்..! யார் இந்த கூபிஜென்? - Dinamani\n• தமிழகத்தில் காணொலி மூலம் சாட்சி விசாரணைக்கு வரவேற்பு! - Dinamani\n• தமிழ், சிங்கள மொழியில் வெளியான டி20 உலகக் கோப்பைக்கான பாடல்! - Dinamani\n• மார்ச் 1-ல் தமிழகம் வரும் பிரதமர்! நயினார் நாகேந்திரன் பேட்டி - Dinamani",
+        "summary": "• டி20 உலகக் கோப்பைப் போட்டியில் அதிக ரன்கள் குவித்து ஸ்காட்லாந்து சாதனை! - Dinamani\n• Tamil Breaking News | Tamil Nadu Local News | Latest News in Tamil | தமிழ் நியூஸ் | தமிழ் செய்திகள் | Politics | Videos | Astrology | Business | Sports | Movie | Lifestyle | Health | Election 2026 Updates - Dinamani\n• எஸ்ஐஆர்: வாக்காளர் பட்டியலில் பெயரைச் சேர்க்க இன்றே கடைசி! - Dinamani\n• தமிழகத்தில் ஏப்ரல் இரண்டாம் வாரத்தில் தேர்தலா? பாஜக நிர்வாகி சூசகம்! - Dinamani\n• தமிழகத்துக்கு காங்கிரஸ் ஆட்சியைவிட பாஜக ஆட்சியில் 300 மடங்கு கூடுதல் நிதி: மத்திய அமைச்சா் அா்ஜுன்ராம் மேக்வால் - Dinamani\n• உலக நாடுகளுடன்தான் தமிழ்நாடு போட்டி: முதல்வா் ஸ்டாலின் பெருமிதம் - Dinamani\n• தமிழகத்தில் 6 புதிய அரசு செவிலியா் கல்லூரிகள் அமைக்கப்படும்: அமைச்சா் மா.சுப்பிரமணியன் - Dinamani\n• கொத்தடிமைத் தொழிலாளா்கள் இல்லாத மாநிலமாக தமிழகம் உருவாக்கப்படும்: அமைச்சா் சி.வி.கணேசன் - Dinamani\n• மத வேறுபாடுகளுக்கு தமிழகத்தில் இடமில்லை: முகமது அபூபக்கா் - Dinamani\n• பிரதமா் மோடி எத்தனை முறை தமிழகத்துக்கு வந்தாலும்\nமக்கள் ஆதரிக்கமாட்டாா்கள்:\nமு.வீரபாண்டியன் - Dinamani",
         "summary_method": "headlines"
       }
     ],
@@ -702,134 +786,134 @@
         "page": "Latest News",
         "articles": [
           {
-            "title": "எதிர்கால திட்டங்கள் தெளிவாகும்... இன்றைய ராசிபலன் - 09.02.2026 - Dailythanthi",
-            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeElGZFNhRTI4MDV3RDlzWjNfbEJ4NFpIbmdaQVVaNHVLYnN0UElLcFFHcjVaVnNsYkU0Rm5JeHd6MEJ6bXI4bkRoaXRyN3d5YTIwSGlZeWlmdHJScVpxMUdPVmVUaE1WMXRqOUhvRnVlYVNVazFHMEZmeFhIeTFBTnFMODJfQ3h6UEJmQmFIUWZHVlhlVFF5SktnSENaSzR2X1VQNk5Eb1hWaHNoQl85WDlR0gG_AUFVX3lxTE4tN3FWRXdSMllSTExDNDZsUUxwWHZHZkdkOVdkVXFwbG5FQThaUW91b2pmeHJqNEZxN3lYTV81QndWb29RNGJOSTJPQkFvNEhpUXUzWWMzYjRTMG9INFJ2YXFlMW9hOGU1ZDlRdTJBS3Rwb0ZyZDlCZG5OQ28wbnFvbWJ2akRhcS1fdjNvZ3QyNXNnNXFoRTBqWVZUbUpRQzlxajZmVVZiNF9WaFhyeWR5MGJwX2ZoOFFKdllOVzFj?oc=5"
+            "title": "தங்கம் விலை அதிரடி உயர்வு.! - இன்றைய நிலவரம் என்ன.? - Dailythanthi",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQajFHN01uM044OWNEQnVTdXR4UXVIUWVVYTVDNWJDT0pPaGQtZ1lldW11RThwXzUydFZSQ3JCNnVfUHNMU0E0TUdhNTdyRksxbFNNWlkyR0wxdXlnRjNLR01XM1NUSXRiZ3I4TzdKaDlNWGd3aWVOTmhqV19lZTBDUktKbnFib0xPcy1wZmdWWEFNcDE5OUdZUERkQlp2U2owc2R5VVotZk5PTkl50gG6AUFVX3lxTE9DZnhYcGJNcTJzRkRVT1ZhYkV2RE1rVmhTbkxrV3FPcDFvU0Z6R2M2OXZfT3o5X2tHRGJDUExBRFNpYVFZMXJWejFfakxpT2hZc0ZFVWVyaDk4YUk4OWRXdHZubGpTblUyTTFZanlhSHhnUXJvM2xnMk5Pbkh2aURtTlUyTEswSlB2MXpHdDJnVHVtckVNRjlVeTd5bGs5M3lQd184N2Y2aEw5OUxSNlFwQ2kzNzkyN1JOZw?oc=5"
           },
           {
-            "title": "“யோகிடா” - சினிமா விமர்சனம் - Dailythanthi",
-            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wMEdXckpUQjFla3FFWGVnU3NDbzJZT0FCQlpIWlMxYTdkT3Y4R3MwblR3V1UwSVVWRTdTMGVBM3d2eFJQdFo1NG5KaGlEWF9aeUZ6N3h5bGFlWTdvbmd4R1NBSHVzejNsN25zYlJPZ1E2eVBaZU1wQdIBhgFBVV95cUxQb1BEcmo2S0lxQ09iSGRCY2FzcFF2N0dqVUEweFdxWEdKc2F5bjRISGJGenFsRFg3cUx2VGVhVHBoY1FobjRNaGJnSjlqSzMtS19laHg5YktyLUpCNkJMb21iUXljVXhfSmRLbG1QNkpKejJwV0E5WGZ4UVJNLTZTU2x1SEE3QQ?oc=5"
+            "title": "திறமை வெளிப்படும் நாள்... இன்றைய ராசிபலன் - 10.02.2026 - Dailythanthi",
+            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ25BTnF2Y0U4Q1JuRDQ4YzRYYk8tYnFnekdlTFlSMzNiODRYTHBmbVRRYWh4bnFhYzN3eHlTc0diTDN0QWoxblVpWlUzSmdqVFFDSWJ2MHVTWDBQeFVseVZ0VmVvb0lYbl82Y2ExckJZX0UxZ0VLMzZBQUFDR0dDUVdWYkZzVFVTa0E0QUl4TDdNS1J50gGiAUFVX3lxTE5qY2EzZTVZSFhHdnpQN0JOMmJsMWJreEw0WlY4LU9DdW9aN25yMXdLcC0zSXNWc2cweW90WHUzQ3AyVVR6VlNDcG11d2NWd0FyNUNDTXlSSWRPS3VLMlpldDNqSkhZWnppbW5zT0dDX3pCRktSX0dlcS1rbnBYOHZYbVE4OFdOaXZ0bFZDZ1JmYVAtakY2OVVSakZlZjJzdEptdw?oc=5"
           },
           {
-            "title": "ஹோலி பண்டிகை: நாடு முழுவதும் 1,410 சிறப்பு ரெயில் சேவைகள் - Dailythanthi",
-            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYTBnWnY2MlZtU2hvcFY3S0l2N0lGa2NGUTc5c3pKS0FUZHE1UkV6R3hBNmF5eTFyZlYtcUVtTEtyWGRhQTRQb0dvakNKdTdES1NKMHJiVG5tZXFPY1VMNU5ZRDFWUWMtczRwamtKOUd6YmQxcWZfdm9IaEdiU0tkREJLVGtUMURTNEJ4emxsRWpSeUF3bzRDOUpfOVBQWlNad0h30gGwAUFVX3lxTFAycFl0QzV1VjVEYVZoWmc3U09DN1VqUU9yZFpuOFkzcDFqeTdLOTVQQVBTdjhIcnhJcV9RSGREZk9Za05kV2VPNGpSczRSLUtLZzRheDBUYVZkUzY5ZmNydWNQQnpfU0RXUktjSnYwQUNzamlyWkJvWGdiUmx0dTZUVmxJTEZkMngyZnNmbkxIWUxEUXR6akxsUElLY3BRQnRxcUdJa1d5ZEY4Zkp6Wk1k?oc=5"
+            "title": "7 புதிய அதியேக ரெயில் வழித்தடங்கள் அமைக்கும் பணிகள் விரைவுப்படுத்தப்படும்: ரெயில்வே அமைச்சகம் தகவல் - Dailythanthi",
+            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbWtwWHNMem11SVBVU29OTHJfZXVCeUNaemtzVUlzUEVVa1lqT3ZLemYzM2dJcVZxeUt6OFlaMUVYZDl1aVJ4Rm1pZ3YzY2VnVWV0UnctbXFRSWJoSlFGazQ3UzR4YkJTdktqTWJtZnhkdE14bW9Rd2RFQUljVVZGenQwUFNvWTA4WWxIMEdUblFWR3ZtamkxajBsSVk1XzR3V1RoTGoxREg3NFFKOVJQc19iUTNQSExBRU9iZ2ZmSmhPbnBsZC13c2hxS0drZWU5YnBqX05R0gHjAUFVX3lxTE9MT1gyZEl6RHRSUnljXzdKdXYyYWNPdWpYOGpIM0Z5MUlKX21KV0M0RVpFWUJNd3BsMEk2anA2YjM2eDNIZm80N3RKQ08ycWVqNmNGT3pnamtjblNUYk1pWkdfdHotU1VZaWdZdENCTXVXelhpZHFEb1ZaYXBnVTJmXzdmYjhYUENENm9QRlVTNnVUM0hlbmpnaFN1cDdxVDFwbnZnTFU0ZE5fRmZrT21oMGFEeHBJcVRabWx2YXEtT3dZU1dmQ2xBT1hDOHJnM3l1Zllhckdjd2gwcGF5aXRmNUow?oc=5"
           },
           {
-            "title": "கஞ்சா, கொலை முயற்சி வழக்கில் 2 பேர் தடுப்பு காவல் சட்டத்தில் கைது - Dailythanthi",
-            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNkJzdnBOS0N1RFJhU3RGcDdjOXVXLW5NVWh3TXNQQjlXdHBLN1hUTGI1X1plcTNSUHJPVUZsblFMYWdOQkQteVdyWXVQY3NUNlZDT25KQk5FeF9TNS1KVUNaWDZ2RFhwcEZ6dnZrMzN0MVpPT080U0k4UnFQSFZhS01vVkRnaEJZc3h0bU1mV0I3b1hLcHRJNDhVY0pCRGJGb3U4RzhjNzRXNVNMaHNWWl930gG_AUFVX3lxTE5mTFhEVFRUX01GMm81UlJHVjc4cEZkZGlqUU9mQTVkNUdBRDB0VTlqaF9uSXUtLUxHdDVYWnJCUkRobkxvUXdBLUY1MGxFdlJQM3AtVG82UFVvdW1YWXppb2JRbnBONko4WXRoUkR4a1p1aFhCd2l6cXEtUjZGLTZZT1A1SlhUZzM2TC1RM1pNUUZZNjZibElKQzJRYzBWM3lsZ2RwMFl4cWstMkpiLXlPSkxyU2MyZDB4RzQ4LUQ0?oc=5"
+            "title": "எஸ்.ஐ.ஆர் பணிகள்; மாநில அரசுகளுக்கு சுப்ரீம் கோர்ட்டு எச்சரிக்கை - Dailythanthi",
+            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQenVwTUVHM0VwUWpiMDVqbEl4UWh4dEZsUVZzXzBSWFN1QjlaNkxzRXU1TzMybG5BbEVZandJRUtKSEpsTVhlanNQS2NUbHFCOHowQ0QwWnJmSzZsSTAwVzV2a2hpSloxYTRtM1BXWXRXLUN4X3RpSnpzOTBMMENSRHBjdFVfLTdhRFRjUFhYZDY4T2Qw0gGiAUFVX3lxTE1Gbm9DX0V2VXpwSVNKb2pwSHVwX1ljMmFrR0JjMDRfM1NzQzlCc3BEdlloYlRITm45bnl2Z1VqaWJUVmxVWU5nSUI4UzdyUEdfdW1qNGNjUzZwdWJ5WC04LTlKeGZTUGg2X0dzRUJaWXcwUUFEM0tJZEp2aWtfbG9FR0tjOWtXckxDNmlGY2xocTJxY0gtWF9yZkp1d1F1QW5JUQ?oc=5"
           },
           {
-            "title": "நாடாளுமன்ற தேர்தல் வெற்றி; ஜப்பான் பிரதமர் சனே தகாய்ச்சிக்கு டிரம்ப் வாழ்த்து - Dailythanthi",
-            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbUlhb3RLSElZWVV4SmFTOVBiX0NmdW9RUnpwRkpNNGw1UEVPcnc0RlRTVGt4WGlxZTRNWVhLb0paSWZ3MVdrRFRBRm92cXlHWGhhaFBzVFZlUm9tSFlLZHVuNDlUa21lck5vUUhVakFUSHkxeXluc0pZUHdVaEdrRnVTTDlsaXVER01wbWtydmprc2JtSEc1VXp1dkQtTmVKNWJXQ0dDaFp2S05rN2IyVzlKX1ViYTVU0gHGAUFVX3lxTE1FT3lHNy04VXpkN0FsMUJrUTlURDlRbTdYa1hFVExjbDB5R1NnWXlWdGFUZjNveDNKZnR4TVZHM2E5WDlYWkZoNUNVdVVJdk1UN3hMZUVUbV8wUkdGdTZVenptd2ozRnI0ZUtzMlpmalMxV3BpSkl5UmVVWldxdkF1VHVTbDR2MkdWb2JMWVU4dkZZRnpjNksyRzczS29fQ1hmbVozMmNNM0E2T3UzRk84SGlsbzduOFBJM2dMM1hlSFFhem8xUQ?oc=5"
+            "title": "சென்னை மெரினாவில் 2-ம் கட்ட நீலக்கொடி கடற்கரை திட்டப் பணிகள் விறுவிறுப்பு - Dailythanthi",
+            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVTc4S012SnVpaDE5ejhTaFFuWXFyWllGZFRaRWR0M0hSM24yVjBtY3pNX0x4S3MwRjcyLWRTRWdfZUJ0NE45SjRiWEYzU0EwaUdOeXd3Q2xkd0o1UmRZOW43LUx4Q283aE1VaVdwVFNvTTRwVnRraVdSLTlGVzhTUWFBSVdoTUhtV2Fvd19IY0ZDSU45dU5aNjA1TFVGNTVMaWRnX0VqbFd1Wk9vSFVtTmRId2x5dlFGYmFqWHp0cEFrX09DUXBCbVJoTURJTUZUczJJ0gHgAUFVX3lxTE9yVjhGRWpfZWVIaHRrdUFvVUVPYzlVZjlpeUxsTFB3Y2xBaVFmTTNqOVR1MllYcWVuMlZUWWQ4cjhOdjQ0TlRpUlkxbWdkcFlRR0doMHNNSG12WXFBVHZ1a0tUU1R3WVUxb0FUaTFreFVaVjN4M1BKakRUclRhYnhKVUJsQWZDYmljbFBoaGU4M1RfZEJUWXJuTndiemxtYUZjdG9mRG1naS1HajNhZkMxSkFoNDVEYzVDLXR5QVhLLTJfVkJMQm1oNnZ1emJVdFBmM2xWbTMtRjJaQ1pWTlph?oc=5"
           },
           {
-            "title": "ஜப்பான் பிரதமர் தேர்தலில் வெற்றி; சனே தகாய்ச்சிக்கு பிரதமர் மோடி வாழ்த்து - Dailythanthi",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQTNnWjJib0RXd0gtS1ZEX3JzV0VLNU1wbDhubUlMTUZULXBodklaSmV0N3FhN0xlNS1GUjQtU256N3pTeHZkc2RBbENIajZ3Z1Z1bVRWMVlDdTlSRkZHbzJzM0VrRmJCWFFhbWlkUXRPZjBOVGxEYWkxdG9sLVI2MFZKSWR1X25sZnhYUVczTU9OcGtWUG9hTXJvZm9yMFpEdFJFeEQyNTZiVTNiUmphemczcGpFUdIBwwFBVV95cUxOdldBUlZmYnZabW9uSE1RYjhIMndqTXU0U2txZzFjN09BVHNzRmNFcGpCa3psUGlrXzBNV1hoUFBOcC11TW84c1NfbXhmQlUyc3p1dm9maWVjaGViWFR4THpVSnZCeElNcnd5Mm56NVBDTE5iT1VkQ2I4VzFxS0Vkd2RJczRUUkNaRU11ZjE4TUpkYW5LLWtXVU9paWluTHA5anpZdXlIT2N5dWhLeFJLR0JaTGFwRmNSeTdLYzBZNzV5a0E?oc=5"
+            "title": "“நாளை நாளை” பாடல் ட்ரோலுக்கு நடிகை மமிதா பைஜுயின் பதில் - Dailythanthi",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU09paGxjaGtocU1DWUZON1hXS3h1cnNfRTEwS2xmTGdZV1JtWTZMWjFjYzFmcDJOSE9oWDNCNmFOMlpXX1NYNTFmMDFQS05mblkzMkxvQkpmSHBCc2c3c1ByZF85cVo1Q1Q5NVd4SURJc0lWOTl5U05vUGxKZUZTMzBqVVBMVjlQVGRFdU5LdzVMaGt4TVlmWXdtX0Z6N3JQa3R4VTBzZFRoUE92RHg5RjZoNU8zRjJpcEJGU25LUmQ0dXoybUpV0gHUAUFVX3lxTE5nYlpsNDBheUlvTWZUM2oydUJhRDBUV3dfM3JqejA0UzBpdHJua2tXdzBSM2U4UjJNTHZ6MUpUdjRISGd2NzlubjkxQlp2cENkS3E5d3pyS2JVbmpnQXQxcEtNS0pzMUFrQ3JoOGhYVTQ5cC1kVE03dVVIWDRlRDYxQ3RxclZDTkJoR1MxZGNSWFZ6a0pKYkVIY0dQWlNvWDM1bTJ0U014UFR1U0RWdF9vaDk4XzJISFQ0eDlsLUNYY0tTYVRweUFCeFJxam5TRXBubk5V?oc=5"
           },
           {
-            "title": "பெண்கள் பெட்டியில் பர்தா அணிந்து சில்மிஷத்தில் ஈடுபட்ட ஆண் பயணி - Dailythanthi",
-            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMGJ5ZUk5NmttcXl2eDFwQ2RBY2Q5R0hQNGF2WDU3M3J4QnNvcmNTdzg0Ylc4dlBCdkxSTnpTMFJGUVpZbHExOFBlTnRwUGY3NnBxLTFpclNWRi1TQ0dmTUw4MW1iMmpNUlNoYUt2dzkxdVBRWS1SUDMzX3Z3Wld1Q2Z5bmxnZE5CNzBmcmduZ1BGWlJTS3VXU0IyNkNoM1JBaWktS0g1dmZUdXpqVkl2VdIBvgFBVV95cUxNby1RN0xwWmJEcEN5OEJpZWhyQU1OclFzU3ByYmFmV19xUVdldHBKT3BnRHhuNFpZZXNMUGtPMGhOa0VwSjI2LUx3c2RZWGJoME5weXAtUFdaR1htMnhLV085UEc3RXNvRzBVeTJTNkR3OGZ6UmtGaUZRNGxTYlpwT0VHaFExQ3JmOV95cUo5QURteGNzRkRkNk1WWG1UcnF2X2xfdXEtWDNTWnVpNlk3YkIyY05kYndhOHNjNzJB?oc=5"
+            "title": "கரகாட்டக்காரன் 2 படம் வருமா? - இயக்குநர் கங்கை அமரன் பதில் - Dailythanthi",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOekEwOUtjR2szZGFHSFZHZWxLWUFvNzk2Tzh3bDRSQm5EUndUU2RPVDJEaXVFcWIwVTY0Ym5HVzhBQnNOenphOGx0TWllYThZaEFmbFV1aG1iNlR5TVQ1bTlBUlM1WFVNd3VZRm9uMC1Xd2I1S3VkcW5hUGNSalhJYllIdGZwSzd1clJEMjdTSVp3NU5GZHd2UHRXSXoxdkc5R2JHZGtacGxkVFFUYXZjSFFTTdIBwAFBVV95cUxPdW1WampVM0NaN19MQlhPdHV1WElLR0U2SEdONlVYSks1ZUtIR0h5dy1CSFZqUjlqcWNVZlhBVzIwWHdEdzRfTjVWb2FmclB6bzNkcFlXeWlVcFplTFp6aWxhamtfMFA2bnozTWJHaVZJbEVteC1pWkhZeW9wVTB4NEF5eGMxeDU3N2lhS0FpczNuOFpRUko0TWNfVkNtZXJzWE5UeGxDRmthZkQ3NmdtbnI1T2FCSEZHZW9nQWxmanU?oc=5"
           },
           {
-            "title": "மோனிகா பாடலுக்கு நடனம்.... பூஜா ஹெக்டேவை ஓவர்டேக் செய்த சிறுவன் - Dailythanthi",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeklLT0JZSHEtVnA1T05aYmxiZVM5TGxiTFVvRDN4LTVYTFpuejRtTkhxa2VXTGJ0MHF6N3ktSGxEVDRYRUlaRWVLbFQ5ZUNjRFQwRHFUR3NvYXJVLVd6UTZLWllFMXB4dDh5bXA0V2tfdGxlai13S0FjSXZOMmF3OXcyMHQ0NllqY0RlaWVSdEtrQUlMZHRxb1RPXzFiRmR0aDlDSVV6RHNHRV9zZ1JfSnZ2QTg2ZVNzYmNvb9IBygFBVV95cUxNd3RmYzY1MG5oUVNzeXdlSGpzSGdxYXBia3FXdV9URWQ5OGxVMlVnZ2pMb29Qa3p2ZVd2Mi00cFFmZUZsUkFieGgtZldnRjAzSE1lVFNsSjJPMzdfcTA0a1dkQmNTXzE4Z0pSeXpIcUNkQ0U1Y1V5cVlPaXFXVmRsQ1JaaERtN3JaTUZ1dnhEVlJOTjlmZi01d0RLSUItMnJNVVhiX2lmamVlU0NBOEQ3REFLdmYzRjYzSXRFdmhFYTlYY0JxbFJwdjB3?oc=5"
+            "title": "மறு தணிக்கைக்கு அனுப்பப்பட்டது விஜய்யின் 'ஜனநாயகன்' படம் - Dailythanthi",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaUttUkxuYVYzeUw5ZHZoeFhZTDN2MUFhYS1UWU9ndFl5QXpQSmhkV3pYY0lObkZlcEJSclN5NFpBX0RWMHpyUk8yNThmbUg1Z1JPdE9VTG8xbXhtUkc3Z0hlRV9MMFJhUjFOVi1zb2JKUURvcGNXVm5lTmVyOUtmRjdFM0NlY3BLeUlBMmdEdWFwTFBDOWNsVnRYMkwtMWhwNDBBRHNB0gGzAUFVX3lxTE9NNjZaT2dwckl6R3BIbHBUWnkyak1qSTZZMVdMalp3dDdLWEU5OTBaQk5jZ2FMZUVoelo0Z1l6MlI5RURJaWs2a0JjUG9mVDJ6QUR1NUZGdzdvUWVpcVU3MDZfbUw4MVpoUDlxTmNlOFM5ZTdXM21IcTJzS0Y0d2xyUHR2R1ZqM0Y1X1dMZ1ZFZGxkU1VYUzhqT0dNTFI5WnZRT0V3ZzktbFk0aUVCQTc0ZTNj?oc=5"
           },
           {
-            "title": "‘அமெரிக்க கிரிக்கெட் அணி வலுவாக உள்ளது’ - டொனால்டு டிரம்ப் - Dailythanthi",
-            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPalVHbzlmdWVwUEJ5emwwWXZocXBrN0s4RG8wYWVHTFZFSnlqMTZGa09oM29HWWNwT2lKTEw0ZHFVSVh2SExydFpUWmhOMThzMGd0ekF0SjNKMnZHalhNa1dqVGkxWEcycml2TEpvbXVSWk5IREk5MGJnSTdmRkxZVHNUVllxTG5Ed2fSAZcBQVVfeXFMT0JGN2tCNktlbTVrR2NCX2xIZGdrVlFRdEhTNDhZYzFoRWhrLTV5WFlrTGVvanVmNUVneDQ0RVpNMHR3U2ZCclEyeFp2NjVFcV9HMmlMeXpKbGE5ZnFmUWsyM05zMWhNZkstNmotS093V0xnMmhjaTM3UnYycHVGS2R3WHZ0UThERE1aTktGYWV2d2sxdlhRMA?oc=5"
+            "title": "டி20 உலகக்கோப்பை: ஸ்காட்லாந்து சிறப்பான பேட்டிங்: இத்தாலிக்கு 208 ரன்கள் இலக்கு - Dailythanthi",
+            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNam5qM0VWMUJlcFl6b01yMm5BZDlSQXhSVGJqZC0zV24wT09BdFF0N0ZabG8tR1dITU1LVERiUlhZWmkzMFlKZ2VuZnFibk12LWVuVnJhdU5hcVMtczRmTnV5b29JRVlfVHRKSEEzaVFQYTlmQWpTb3cyenZEYUpNaG1XUTduNVRPYkpMbzVvUnYybVhsX3Vza18tUWJkT1dkRFZQRVV3akJwRzlNdVRSYTdJODd6S1nSAcQBQVVfeXFMTkFZOV9TV3RQLUZ6blA2WUFFV053SEpPWGNMREJBNXF6cGRPRlpfcGF3UlUtTlp6WVh3SW9XdkYzdGRRRV80Ykg4MHdTaGNHNEJ4SjlCeVZIOTlvWFNGS0tFMm9aZjVNSFRLdHlRTTVRd1ZFNDNoSHk1X0VrcTN5ZlY5X2pmd2V1bUJrWVY0bHE2MTVHdFQ3M0szSEhJcXlHQ3Z3ZkZIODNfUjRfLTcyV3dUX2FDcDVtMmxKdUR2UUxiVGRnQQ?oc=5"
           },
           {
-            "title": "\"சாவர்கருக்கு பாரத் ரத்னா விருது கிடைத்தால்...\"- ஆர்.எஸ்.எஸ். தலைவர் மோகன் பகவத் - Dailythanthi",
-            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbkY1OTUtb2pzNWZmV21HY2hxYnRyUXFkTmI1b01LMmlKZUdnbmRGVlQ1czV5aUFnVkVHVjZ4QUZ4V1k4RmRQZGhIWkZhcExxZjlsVVNEMG1EX0tRckFpSFJWOGhQN3ZCa2dIZ3ppY3Y1bXU2ZHdoTDNDZDBYR0dlTkRnU3hxdVdTVjFFcmVaMk43OWZwZ2V3YVY0dXZzMXk30gGuAUFVX3lxTE5YcXNYNFdpTXNvT1p4c2otT0lpS3E4VmY5Q3JtTG1MR2dFUjQtMlRnZUpSSUJZR05oaE5ISHYtaXl4aG9zTF80M1NSU3NhcXlPRFAxUldUSkE2YVhCMnVtY1lPeWpHTWpELXoxamxuWTVSellXU0o2Y3dFWWROa2hidE1Lb0UtOGFLYVBXa0JrTUkxUm52QWJWX1ktcWtLSE9jVXRaU0lsbk5QTmlFUQ?oc=5"
+            "title": "சென்னையில் சர்வதேச டேபிள் டென்னிஸ் போட்டி இன்று தொடக்கம் - Dailythanthi",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZU5pc3ZvaFBIZ0lJNS1IWTNSM1dISzgxWS0yRjRlY0pqUlZYTHpTdUdjUzlpbHNPVjlwU3MzeEFNTC04azd6aFJUX1d1cV9VRzFKbXl5TURfVXhHWE1LWXAtdXZLMTMxYVpWUkVzZFdVbzZqWFNnc01STm83UkNNTUV6U2NNS2JCb0JlSG04YzBKMXZjeEo2SjByaTFJd9IBqwFBVV95cUxQSXRtRWRYSWtlTHhLc2R4TnRBT2tjR0hXaUtCNVAyMC1ZNWJCOWN1b0tJdy1IenhMUlZFWGtkRVc3dHpzUU1hZUxtX3NPM3ZGT3QxOThxVXZNYVNjUzg5bHdmWm03MlNNbFgtdXFjQVdodlN4anRkMF8waGJTU0puNWtTY1pOYnFmMmVheTQyOC1aOC03dEE5TGdhRFRVclJpdUZrRXQzeUp1eVk?oc=5"
           },
           {
-            "title": "டெல்லியில் அரசு பஸ்கள் 100 சதவீதம் மின்சார பஸ்களாக மாற்றப்படும்: முதல்-மந்திரி அறிவிப்பு - Dailythanthi",
-            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOREpLUmxrN2dya0o0OE0wYjVhZ1pXN25rbWg1TldKekxpV2FGUU9rMkJnMC0wRWNEUlhGNVJicm0tS3dudVRKbm90SmtoUm9VamR5dk93VDBWU01YTnBPS2pmMGV0bEFNbUxmblpsc2pVNUZzaldBSldPSm5LTkN1eG9GYWNSVlJmelQxZzBTQktGSnVWXzZlX1BXeGZWaHFxVVpZ0gGwAUFVX3lxTE14LW1XcDU1R09ERlZIY1hidG9fZDRMc0oyelZvUEdnUmo0WURJNGt0aXFlWjF5a0l2ZzFxS3g4SVNaU0ZMNHk5RUY5Wmk1blNtdUpNbmtKR2Y5YlpkZGFQOGpJNjl4N0NOdWpvV0dhWTVfN1JjbU1STTNyY0lNZWVUbmY4c2RiYk9MVmhTTzhzSWJodEU0RmVLOWFvM0hzZ2JFV0MwWXJMMzg2bVBnWlRU?oc=5"
+            "title": "\"ஜனநாயகன்\" ரிலீஸ் எப்போது? விஜய் ரசிகர்களுக்கு விரைவில் குட் நியூஸ் - Dailythanthi",
+            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRF81Ym5OSXAyaGpIRl9ORjlKVTZKTjZTcFpINlBqc3VkTWZxZ2tFTUtfRzlKcmxENEQybU1yWks0c3NXT2lfdVN3OU1tcERQV2g2VDdLMm9nUFIxQ01PTk1iVnI3d3FacTcycTdQc3g3U0x4U1JERUZMOS15ZEpVaHY1V3BYVk5MM2tkT2lldGZIeEhtT0lFTjE5TU1CQmsxZHJPSTVCU3lEUEtZaGtfMGtzb3JxSnZoZWfSAccBQVVfeXFMUGVEZ0RmNlFkTVdVWnpyR1dBT3NZQ3FlM0FURFNwOXQzUWRPQ3dzV2t1ZGFTdWxHcW9MZFd5OGhhX21JRWVPeF90WXRMdksyN2hSN1EtQkxNV1BDQUgxTzFyN3dlZHpkYmRZUE91MmRiWnRMSWFnTFRMM1NzTzZoZVRoM1BqQVIwM3lrc0piVXZaQWpUb3lpWXhEWUZRdmtXbGRiOW5qZVpLMXFDMjdrMlVvWGl4UTB0NW1VMjVzSzZaeGE4S2hvMA?oc=5"
           },
           {
-            "title": "திருநெல்வேலியில் 1.8 கிலோ கஞ்சா பறிமுதல்: 3 பேர் கைது - Dailythanthi",
-            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRVZQb2R1MTk2eW9oUkZybThuRG9JbGwwRURybk1tUC1lWUJSenBnWm02WFVSR3V2eC1JeUlsdVREZFhCWVZsNWc4aTl0NU51eEpIUV94T3BhNVNmSVRDSDBXUVI1NnZkekZnSkJGdV9WRFY2alNQLXhnUUFabGVMLW5aVHdlZkVJQUpaTjlLaFdQTms2dzZN0gGkAUFVX3lxTE9XenF0TVc5WnVzd0lLV01aMWNITUFVNHNPT0o0SFAtVGFNQWpuTU50ZDhub2FhMWdUb3RpdlBEWjU5RnNmZmtVWGJnQnZ1TGY1V2hrbXdvQk9ZemNsMzJsZ3pZRHBELUV2dnljcEx0Rl82ejZWOXVCSXBLWDlmOHJ4RlNjYUpfZFl1YTl3bEg4Z3JhOVNyeWU3WUxoMHR4XzlwRWNi?oc=5"
+            "title": "\"ஆவேசம்\" படத்தின் 2ம் பாகம் உருவாகும் நடிகர் பஹத் பாசில் உறுதி - Dailythanthi",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT05OcHVJUzg3SFVzM1hRTHhzUTV1TDNuTHN2YnFkMzNmTnpuNHBSa0hIbks5TFFocEE0VGdueWJjNVJBU29vZHpLeExmb3pqWVZWWU13N1Fta2JzTEJxVjBOLWFBN2hGd3NpWGJuUW1MQnhHOVRzRm0tdGp0R2NfTFkzS3RxLUZYUkkxN2NwelRJOUMzVVJnVUV2cDlQTmo3Y3ZzcGhXX0hqRDlRMUsyd3NyZ3dBV3NnZF95Y3VwR0HSAc4BQVVfeXFMT05NaTEtSW9OYXM3aEtoeHdQZFI5LTdETDNSZzV4bi1NTF9jYThRNEJiaHY2cXg5ZWNlSVk4blBtT0lyNkc1T01DaHF4Rk9ha01HNGI2SXlmQjZadWRFdEdBN1cwaDdMUTRmalJzY0ZfdUxIMmpEMHdkZVBoQkNlV19uT2hQS0JtcXNaMHUyYVNkR2U2dmZGLURqLVdHbEF5eXZxRWwtSDNXR0s4Yll6eEw3MWROeC1NSlpVMFRtWVVBWXNTUXd0dXNGWDlIRlE?oc=5"
           },
           {
-            "title": "ரஞ்சி கிரிக்கெட் காலிறுதி: கர்நாடகாவுக்கு 325 ரன்கள் இலக்கு நிர்ணயித்த மும்பை - Dailythanthi",
-            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaF8tOWFsUFVyZTVJWXF4VEtzb0xwWUstS0NvQnczYTM4TkZPRDNiSlZmTGx4Z0lNSzV2XzJSVThmNFRKZklzWEtZRFNGYjREdkhtbWJxZFZ5Z0NfSWdHTk1TdzNKWkJGR0FiU3I1VUZVTG9UM3N1ZmQ1emdacUhBRDBUMktWVWlKSm11VS12MTNsZjVXSnZIaXdwSFBhajlTY1pUajhSZnRWV3RWQzJHRFlld3ppRTB20gHGAUFVX3lxTFBaMG02dHVIazJBSFhLanpOQ1k3dElCRF9VN1Z0OG5lUHRWcUN6Mnl2ZkpkUUN5ZDl2akhUVjYxQzRiS1ZnTS1vVWFZU0hUcVpIUGNXbTlWTFpKZktlcWx4QjBzQ2dFbkNtMzN3M1o2Wk4zTDBnZm5ycS1wd0ItVTRQV3JtTnBHSWdNN0ROc1BoR1Z5Mi1nTVpmcmhtanhBSGgxaG1EaldCUFRXby1ycTdTeTBEdDU5b05jZkpYTG5TUlJEX19kdw?oc=5"
+            "title": "சென்னை காமராஜர் அரங்கில் கூட்டம் நடத்த அனுமதி மறுப்பு: காங்கிரஸ் மீது பா.ம.க. அதிருப்தி - Dailythanthi",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdG1ncGNFOHpaVktFOEgyaGRlTEdfQ2h6NDRLZTBiRFh4bzkyQjNyY3Rnb19uVDZZYk01d29valpRSHNkbkthZzBSRHUxeXpaNDN1TGh1YVI3Vm54YTc0czB5MTlFQ204SW9zcV9LQVpfSGF1eGhIcmthUmtmeTNSa05ka1hrMDJJY3F6dUZFWUdxUm9nVVQtMHhwdmtuSi1FRUlPUmN0dWRQOU0yeGFRUzNFZ9IBwAFBVV95cUxPX0NFdkFQQnRqTDFwbWNZUE81SG1Wc1lpTWFvdkszRUZTY2VYVUo0SFZ6YllPenY2Q0VqUXFzRllNRk5iZzhVNEIxQ3JlM0Z1NVA0bGV6Tmd4QlRGVnpEY0wySXg3ZjUzaGhmb0lfVWtiWUNNWGRZd1J1cDVKYS1JYzJCMzZjSVlDcm1KY2NYYTVsOU9OeXVGRmRDVEpDTC1VTXhPV0tqUFRkMEdRWk1zdDVBYlBGWDVmNzJsVGFLNDM?oc=5"
           },
           {
-            "title": "ஜெகன் மோகன் ரெட்டி உறவினர் திருமண நிகழ்ச்சியில் விஜய் - Dailythanthi",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNHVobFVDcmxnUWZBa2xmbFJYd2RXQ0tvTWZZVFVEdWJadWdjMmx3OXVnamZrdFpPTm1oSXRMTVFTdWx0R1Z3ejJGazVILVF6S09EQmlQcjdrYW8zZUw0XzRBM1ZQT0hoSUIteThsODIzQjJ3UFNlVFFURXk2QUxVRFlCck5CQTd0bUZmYVdZQXZqTVFK0gGiAUFVX3lxTFBlLXFrNllENVI3RjVIWEd4SFVQTVpjSjRCYzd0bDMxbElJSk1RZ0hRQ2NRX1Y3dmc3MjYxMHlfUDFrYW1LbFJQMU1NZXhMYTdtdW1oWjR0dmVRZzhIaW5KcENrenlGYlpua0pZS1RQTEhGRHdudE85Uks0dWt5bTlUUXpBaE9wSERSRlNtY1BmYjZWR0ViSXRyRlRwdmlIZnlKdw?oc=5"
+            "title": "பாகிஸ்தான், சீனாவை முந்தும் இந்திய ஜவுளி துறை… அமெரிக்கா திறந்த பெரிய வாய்ப்பு - Dailythanthi",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRmxSSTZ1NUE0dTVhVmZBaW1OR0l5X1Z2cFRNME1HSW5iQXFLWWVyQ3Q1Y05rTUtEZXFKcmJnNTNkX1dsQW9wMnhLa1FGOEVNa01SWnM2NkZiUFRyVU9wT0phalVYYjFWbnpEeHYtMGF0bFhIcGVrZnhWNVhTQWpWdmtfei1OX2hxS2tMWmI0MHEzWVU0cm9RSmFzN1BlaDhZQjFDdmlBc3BJb1pVZVRNVy0xcmgtLVdJU19qZlFzSXI3UWdUOHlfUldrQdIB2AFBVV95cUxPMUtHZElnMy1ESkxVN0NtWVNJSHYzbmFIRjZ1VE9JcDEyWktQZGVDYk1UeTFBNWJqRVBCQXJhTHM4V2pzb19RaUlVeDljbmlhQUtkVWpxNUZJTzNUbnBZdk8zQWZtUmxmSzE4OWdJMjBJQ2prNUdaMGJxU2NaalNzOWlPVzR2V0tReExhNTBOdDNEQ3dPNHNfNWNmZ21GMjRNSi1ROXB4OWhRcjRteTVsVDdGbjcwNW10LUpVQ2dWM1phYWJYU29TbHhsM3Q1eUowN3ozSGs5ZEs?oc=5"
           },
           {
-            "title": "இங்கிலாந்துக்கு எதிராக 4 ரன்களில் நழுவிய வெற்றி - மனம் திறந்த நேபாள கேப்டன் - Dailythanthi",
-            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaWFCYWE3MzRYMGl6b3BXMjVEalg3WDFER2paRUlPVU5lY3VQS1FrSnJURWJYVmNBUXpZR0lDY3pnS0Rlb3pERXNlb2k2dFh1Z05FSWRUT0R5ZnREU3QxT0ZvbjJEcG9wYVdNN1NHR3p2Tmd4UkU5UnBNMWY3ZmJhbXh1Ykpjb1RKaEl1WlEzTzBXaHZzZmFvMUEyZGFmZTRYS0g5RE9QbWVqcThiSXo00gG8AUFVX3lxTFBrX1dhSnYzYTRRbERFczZTeS1vcHVxQWVPLU9NVV9YTm9CMkd2QW42YnRFZUdHcjcyamllZ3dfUFZBNFN3RnJJcy1wa0JranVTUUY1aW1ENGg3R2gyeE9XWUNIOVNsS1o3UGRoTGNmanYxVDhwb1drTnFnZ1JTNDJnOG1pSVMxVWs0Yk5kdjFuQldQWmQ4YVZzcS1XUE1NempLSUNjYXBoNFlmN05WX19zRGJvVWU0aUQ1QUx6?oc=5"
+            "title": "விஜய், சிவகார்த்திகேயன் மாதிரி எனக்கும்.. பிக்பாஸ் பிரபலம் திவாகர் - Dailythanthi",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZWVhUkNnUzlGTl9aUEllQUV0OG9zYkE3aTRVcWN6SXJTOW9qRURiZF9GWjExazVIcnpYTnUwQTY3ZFZpMW01dlhWWmRQYWNfMVNWWHRlandNNGY2ZldFN2lBVTlWVGFXREM2bnQ0aVJpTVc0d2NPTUdSN1R4aVNoZ0RoTFphZ19sZmFZa19Uc0JTbHFURng3ZTdaNWRxS0EtcXpoUlMzbS11SU1JMzUxYtIBvgFBVV95cUxQamphdjhoTm5NdEgzOXpvMUpVZ3BpU2FlUXdUTzRHTEdkd0VFcTlPRjdZRXFzUG1NWmFvckh1eTJCUEpGWGxfTEVTdnZMY094c1RyVFpmME9QdTc1RS16OWNrS29LanRpUWVyNWkzTXg3RE43alY4NXFaRk1hV09qNk02S19VLTVYU2lEVldaT3dwa0xZWkQzT3lqODdPSGVHcG9iWjJqVnNRYUIzZ2dxa0xMU08xT2JFc1phbU5n?oc=5"
           }
         ],
-        "summary": "• எதிர்கால திட்டங்கள் தெளிவாகும்... இன்றைய ராசிபலன் - 09.02.2026 - Dailythanthi\n• “யோகிடா” - சினிமா விமர்சனம் - Dailythanthi\n• ஹோலி பண்டிகை: நாடு முழுவதும் 1,410 சிறப்பு ரெயில் சேவைகள் - Dailythanthi\n• கஞ்சா, கொலை முயற்சி வழக்கில் 2 பேர் தடுப்பு காவல் சட்டத்தில் கைது - Dailythanthi\n• நாடாளுமன்ற தேர்தல் வெற்றி; ஜப்பான் பிரதமர் சனே தகாய்ச்சிக்கு டிரம்ப் வாழ்த்து - Dailythanthi\n• ஜப்பான் பிரதமர் தேர்தலில் வெற்றி; சனே தகாய்ச்சிக்கு பிரதமர் மோடி வாழ்த்து - Dailythanthi\n• பெண்கள் பெட்டியில் பர்தா அணிந்து சில்மிஷத்தில் ஈடுபட்ட ஆண் பயணி - Dailythanthi\n• மோனிகா பாடலுக்கு நடனம்.... பூஜா ஹெக்டேவை ஓவர்டேக் செய்த சிறுவன் - Dailythanthi\n• ‘அமெரிக்க கிரிக்கெட் அணி வலுவாக உள்ளது’ - டொனால்டு டிரம்ப் - Dailythanthi\n• \"சாவர்கருக்கு பாரத் ரத்னா விருது கிடைத்தால்...\"- ஆர்.எஸ்.எஸ். தலைவர் மோகன் பகவத் - Dailythanthi",
+        "summary": "• தங்கம் விலை அதிரடி உயர்வு.! - இன்றைய நிலவரம் என்ன.? - Dailythanthi\n• திறமை வெளிப்படும் நாள்... இன்றைய ராசிபலன் - 10.02.2026 - Dailythanthi\n• 7 புதிய அதியேக ரெயில் வழித்தடங்கள் அமைக்கும் பணிகள் விரைவுப்படுத்தப்படும்: ரெயில்வே அமைச்சகம் தகவல் - Dailythanthi\n• எஸ்.ஐ.ஆர் பணிகள்; மாநில அரசுகளுக்கு சுப்ரீம் கோர்ட்டு எச்சரிக்கை - Dailythanthi\n• சென்னை மெரினாவில் 2-ம் கட்ட நீலக்கொடி கடற்கரை திட்டப் பணிகள் விறுவிறுப்பு - Dailythanthi\n• “நாளை நாளை” பாடல் ட்ரோலுக்கு நடிகை மமிதா பைஜுயின் பதில் - Dailythanthi\n• கரகாட்டக்காரன் 2 படம் வருமா? - இயக்குநர் கங்கை அமரன் பதில் - Dailythanthi\n• மறு தணிக்கைக்கு அனுப்பப்பட்டது விஜய்யின் 'ஜனநாயகன்' படம் - Dailythanthi\n• டி20 உலகக்கோப்பை: ஸ்காட்லாந்து சிறப்பான பேட்டிங்: இத்தாலிக்கு 208 ரன்கள் இலக்கு - Dailythanthi\n• சென்னையில் சர்வதேச டேபிள் டென்னிஸ் போட்டி இன்று தொடக்கம் - Dailythanthi",
         "summary_method": "headlines"
       },
       {
         "page": "Cinema",
         "articles": [
           {
-            "title": "“யோகிடா” - சினிமா விமர்சனம் - Dailythanthi",
-            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wMEdXckpUQjFla3FFWGVnU3NDbzJZT0FCQlpIWlMxYTdkT3Y4R3MwblR3V1UwSVVWRTdTMGVBM3d2eFJQdFo1NG5KaGlEWF9aeUZ6N3h5bGFlWTdvbmd4R1NBSHVzejNsN25zYlJPZ1E2eVBaZU1wQdIBhgFBVV95cUxQb1BEcmo2S0lxQ09iSGRCY2FzcFF2N0dqVUEweFdxWEdKc2F5bjRISGJGenFsRFg3cUx2VGVhVHBoY1FobjRNaGJnSjlqSzMtS19laHg5YktyLUpCNkJMb21iUXljVXhfSmRLbG1QNkpKejJwV0E5WGZ4UVJNLTZTU2x1SEE3QQ?oc=5"
+            "title": "மறு தணிக்கைக்கு அனுப்பப்பட்டது விஜய்யின் 'ஜனநாயகன்' படம் - Dailythanthi",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaUttUkxuYVYzeUw5ZHZoeFhZTDN2MUFhYS1UWU9ndFl5QXpQSmhkV3pYY0lObkZlcEJSclN5NFpBX0RWMHpyUk8yNThmbUg1Z1JPdE9VTG8xbXhtUkc3Z0hlRV9MMFJhUjFOVi1zb2JKUURvcGNXVm5lTmVyOUtmRjdFM0NlY3BLeUlBMmdEdWFwTFBDOWNsVnRYMkwtMWhwNDBBRHNB0gGzAUFVX3lxTE9NNjZaT2dwckl6R3BIbHBUWnkyak1qSTZZMVdMalp3dDdLWEU5OTBaQk5jZ2FMZUVoelo0Z1l6MlI5RURJaWs2a0JjUG9mVDJ6QUR1NUZGdzdvUWVpcVU3MDZfbUw4MVpoUDlxTmNlOFM5ZTdXM21IcTJzS0Y0d2xyUHR2R1ZqM0Y1X1dMZ1ZFZGxkU1VYUzhqT0dNTFI5WnZRT0V3ZzktbFk0aUVCQTc0ZTNj?oc=5"
           },
           {
-            "title": "தமிழ் சினிமாவில் எழுத்தாளர்களுக்கு முக்கியத்துவம் வேண்டும் - விஜய் ஆண்டனி - Dailythanthi",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUDU5VmNyb1oxenVLV0Utak80TTBMVDMxWmc1VUM4a3N4MFN2aUlCSUNhVFpyaXZuOHZwODl1bExYSWJrSGJRVnBXeUlPUi1pWHctcGo0b2dvRUFqelR3X1hhTDdfY2lPSy1vVjVCbEZNSDVWSDJSQ2xpUDczZ0NJamNNMVhHTFBWZ21haEExTm9pRG51U2RJX09ZN1lzVzNuaFR4ai1iLXhyT3J3Ti02b1ZnMHAtQjdJbVFnV9IBvAFBVV95cUxOUDU5VmNyb1oxenVLV0Utak80TTBMVDMxWmc1VUM4a3N4MFN2aUlCSUNhVFpyaXZuOHZwODl1bExYSWJrSGJRVnBXeUlPUi1pWHctcGo0b2dvRUFqelR3X1hhTDdfY2lPSy1vVjVCbEZNSDVWSDJSQ2xpUDczZ0NJamNNMVhHTFBWZ21haEExTm9pRG51U2RJX09ZN1lzVzNuaFR4ai1iLXhyT3J3Ti02b1ZnMHAtQjdJbVFnVw?oc=5"
+            "title": "“பூக்கி” படத்தின் சாட்டிலைட் மற்றும் டிஜிட்டல் உரிமத்தை கைப்பற்றிய பிரபல நிறுவனம் - Dailythanthi",
+            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZERSM2JhbFNmZjdTWmxuVlRaNHU2U0JRRGxNaU9UME1uUHVWbUY1dnRRRDhCVG50bFA4NHpZelhHZk90dmVuYlpVdVNmQ3lHWU1nN1BBNk54eGxsS1JQUEZjNDlCWS1MRjhMX1hWM3gySDl4NVNnM0E4dGJVdjI0alotTkdvVzB3Nng4YjVidmQ5MXNGcVd0YXpYVkhQbXBodGw5blhjWVlTSm55MzVHVENlazI2ZTVPMEpHUGt2X1RPSkVacVNHZnE1dXEwYzNDQ05pVmxYMNIB1wFBVV95cUxQZERSM2JhbFNmZjdTWmxuVlRaNHU2U0JRRGxNaU9UME1uUHVWbUY1dnRRRDhCVG50bFA4NHpZelhHZk90dmVuYlpVdVNmQ3lHWU1nN1BBNk54eGxsS1JQUEZjNDlCWS1MRjhMX1hWM3gySDl4NVNnM0E4dGJVdjI0alotTkdvVzB3Nng4YjVidmQ5MXNGcVd0YXpYVkhQbXBodGw5blhjWVlTSm55MzVHVENlazI2ZTVPMEpHUGt2X1RPSkVacVNHZnE1dXEwYzNDQ05pVmxYMA?oc=5"
           },
           {
-            "title": "சரத்குமாரின் “ஆழி” படத்தின் டிரெய்லர் நாளை வெளியீடு - Dailythanthi",
-            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRE9ZUndUeEZEUElJSEtHUFNsc1lwWm44NUJkbzgzSFJuU3dBYkFMcWppQl8zWVhQNG04aEhMWF9FanFCSjQ5cFBCa05Ray1WTFE0SkM5Wmh3aUIwWkRuQ2JrTVJ4eHJoVmQ1a1gxaUg4M1FENm02NHhnVk1PQ0hfUzZtaDlhcmhfWHFjTnRRd3diRGRGSVlhQnZfV0huTDJMNmNvNEtvaFhHd1ljSUMw0gGvAUFVX3lxTE9ET1lSd1R4RkRQSUlIS0dQU2xzWXBabjg1QmRvODNIUm5Td0FiQUxxamlCXzNZWFA0bThoSExYX0VqcUJKNDlwUEJrTlFrLVZMUTRKQzlaaHdpQjBaRG5DYmtNUnh4cmhWZDVrWDFpSDgzUUQ2bTY0eGdWTU9DSF9TNm1oOWFyaF9YcWNOdFF3d2JEZEZJWWFCdl9XSG5MMkw2Y280S29oWEd3WWNJQzA?oc=5"
+            "title": "ஸ்ரீராம் கார்த்திக்கின் “மைலாஞ்சி” பட டிரெய்லர் வெளியானது - Dailythanthi",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUkpJV3hFaWFoTFdpNy1MOEhrU2FsNDlvNnp4RE5hQWtqT2pYUWVXd0xleXNkQ1hIMGdsSTZzZjZNd0E4bkhTSWxkU1BEelVYVXBYSkdMdkpDUGRKeUdDRU1CbVp5UjJOSjktbVBhU2NQVkZtNzFoOWZ6MGJZTU1YVlM4MF9PYjR2a3BLMGFOcXdBM3dqTTcw0gGXAUFVX3lxTE9SSklXeEVpYWhMV2k3LUw4SGtTYWw0OW82enhETmFBa2pPalhRZVd3TGV5c2RDWEgwZ2xJNnNmNk13QThuSFNJbGRTUER6VVhVcFhKR0x2SkNQZEp5R0NFTUJtWnlSMk5KOS1tUGFTY1BWRm03MWg5ZnowYllNTVhWUzgwX09iNHZrcEswYU5xd0Ezd2pNNzA?oc=5"
           },
           {
-            "title": "நடிகர் ரெடின் கிங்ஸ்லி குழந்தையை கொஞ்சிய திருமாவளவன் - Dailythanthi",
-            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdUJ0QzdYaFJxRFVYNVk1RjJlS2RhMmQ4dFh3YWdrSWwyWnFKTHRYNTc4REFIa0VmSnJhS0MwSDZwcmpJeUVSMFpkNGJBam5nUGt6LXZJM043SW95RGpicmJiWFVVa0VKODg5NFFXRWhoRmNRWm04QWo0OFF5bXpPUEQ3LWxyZER4QWxYUERtdUlJd0Q2VVZ2RFlJVWnSAaoBQVVfeXFMUGJ2VHgtd1dwS1ctV1duQWJpWjFiRHBEMURsTkpPelNoV2ExOFlqRDNHdnBRdzA5azFhcC1UUFNDWlo1R28xNi1SdDZKNUJzWTljbThfcTIxN0poY1pPbXVNS3hOUm9KdHpkQUZFeDc3YXBIb2h0cldScmdCY0E1SlgzYlBPdVFKVnNCVFdiRm5VZWQyam5ITWdfYktjNzRRRDhXal96OGxFM2c?oc=5"
+            "title": "சரத்குமாரின் “ஆழி” படத்தின் டிரெய்லர் வெளியானது - Dailythanthi",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNTRxTENicF9tdUZDQ3ZRcWtMWTZmVUZCb0RCa2xzN213LVNtSGtQRFRTS1h0V24yb0JjQ3Etc1VlMVlsWDFZd3kzV1hrZFhVVXZ1cWhsM3VaZEFHZllMV0ZXa1VMNU9hbnRCZGhfV2JtRnZlejJ2enUtNk0xeVBUMlpodEtVazRlWWtzaDV2YXFlNF9wZ0k40gGXAUFVX3lxTE81NHFMQ2JwX211RkNDdlFxa0xZNmZVRkJvREJrbHM3bXctU21Ia1BEVFNLWHRXbjJvQmNDcS1zVWUxWWxYMVl3eTNXWGtkWFVVdnVxaGwzdVpkQUdmWUxXRldrVUw1T2FudEJkaF9XYm1GdmV6MnZ6dS02TTF5UFQyWmh0S1VrNGVZa3NoNXZhcWU0X3BnSTg?oc=5"
           },
           {
-            "title": "‘மலேசியாவில் பிரதமர் மோடி தமிழின் பெருமை பற்றி பேசியுள்ளார்’ - நயினார் நாகேந்திரன் - Dailythanthi",
-            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY2l3ajQyMVhhdEttVVRmcU55VTQydGswMG5OekFDZ0ZqVWhjZzVhc2FyQVFSaGE3a2lYRXNVTjl0S2ZodU1XUjZjRWFXNlJWa0NEQUtzQlJfdjMxWTdHcTliZW85S0lmaWxOZC1ONzF2TUJ3Vlo1c1dqaWVtWWY2dkFxYXJ4bWVIV0t0QW1jNDdsZ2duVUVobHZPcEtlR2IyODh3LU9DV2w2eG1heUpqcHA0eXUwVjhYNmpVTVpTUlPSAc4BQVVfeXFMTlV0dmpmQjZwajQ4VVlRR1lrNXVJZkdDX0NpU2w0dUc2T0VIUnhhVGNfZXlldUQyVERaRTVnT0cxTXY4bzktUU5YZ1RLcmFnXzVBdzNoLVdMbkItRlFWaXJoTWFEb0tQdFV2c1BHMUJWcHN1SDl1bXhOMjc4X3h4X24zZEg3c2pkMEt2cTlwbVFhZnZadGRISnpYQkhHRFFPejVnTVR1VE5KWHFiM2tRQjdaTk1Bb1dyczFrSFJJZmVMbzRCbmNraDJ6UlJhWnc?oc=5"
+            "title": "ஓடிடியில் குறைந்த நேரத்தில் 100 மில்லியன் நிமிடங்களை எட்டி சாதனை படைத்த \"பராசக்தி\" - Dailythanthi",
+            "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOR2VqS1FZNU1SZ1cxczUwemowR1V6LUFvN3JoMzJlbzY2TlZ6bjc4S1pNbFBTOC1ycDJ4YXVZOFoybWdNNTFyaV9hbmNDLXNhNTlLYWxyclNHb1JIeHFVemlMSTNCSzlDTU5jTTIwSFdfM0JzSGs1Q1RsR3FxeEtValEtVGVSejVKX2VZektGdmJEcWEzeFh2UktzRklYOTROZkpJREVsaGtsQ1hPY1ptLV9ldks1cHI0RUVPM1NidkRCaHVJMndzLUtpd2p0WFNw0gHQAUFVX3lxTE5HZWpLUVk1TVJnVzFzNTB6ajBHVXotQW83cmgzMmVvNjZOVnpuNzhLWk1sUFM4LXJwMnhhdVk4WjJtZ001MXJpX2FuY0Mtc2E1OUthbHJyU0dvUkh4cVV6aUxJM0JLOUNNTmNNMjBIV18zQnNIazVDVGxHcXF4S1VqUS1UZVJ6NUpfZVl6S0Z2YkRxYTN4WHZSS3NGSVg5NE5mSklERWxoa2xDWE9jWm0tX2V2SzVwcjRFRU8zU2J2REJodUkyd3MtS2l3anRYU3A?oc=5"
           },
           {
-            "title": "“மை லார்ட்” படம் என்னை நிறைய யோசிக்க வைத்தது - இயக்குனர் மாரி செல்வராஜ் - Dailythanthi",
-            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMFNpWWJTM2dJZHJKcl9wUldoTnhLS21ITGdrel84a0Rzbmh3c3FKV295YS1DUnVZY1AwX0dNTzcxMGRNM2dyTHg2OWk4UTc3OVptdHVvdExOQ1VfZUpTN24wbmlGdkpWWER3d2w1eGVjaHhqcGNVSnlBNndqeDdNanZxeUhjNEhwY054bktIZmthdW1sVWk0OU1oa2VkLXZuZFhuZdIBsgFBVV95cUxQd2VUUGUzWUo1dGphOFFSblJCWWpKc084SHdjZzdrOUZuWWFDTDZNWE9MMk4wcDBJY3BJV3lLT0g5ZWVoeC0wU2QwZ3p1T25CZGpDTEZ5d294SmZiM3hsYTN1STNiaFFkTnF5clhlMS1RT2V4T3IzMUFLSVp3WGltUEJpWHRHY0VZZl84TjFlR3dqcHhHZWZZczY0TWdNWFRCVVRtU0ZLSjVwN0pNdTQ0VGV3?oc=5"
+            "title": "தொழிலதிபரான நடிகை முமைத்கான் - Dailythanthi",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNXZIMjcweGpNXzZTU1EwR1RLSjdldm5ZZVBpb1JFRG5vWUNveDBIVmZYQWFSdUNGQjlqUm51ME9PQWdkN0o5YWkwekJzQm5SUk9hU1lLaURrWlZ0Qnl2SWJnNGZJV3R6UUxscW9vanFZNkNCR1BBVGtoMmcyajRXYUxpOWN3ZEJFVDI40gGYAUFVX3lxTE5jWlRWSlUxRlhlMllxSEgyaV9VemdRY1NnTXBuNDhtNWJDVVRaMnBnRDJtR0FKSDRfWVlpUmZfVFptd1hyZkgzd3FBSk5kdkY5djNmYU9hWUs1NXEzanVGM094X2pTNmJ1eFVQRVJQblpwMG8tdTN6OVBxUE0wZkktdDlHd21weE1taVBSc1cxNUtXU1hmdHdt?oc=5"
           },
           {
-            "title": "Tamil News Online | தமிழ் செய்திகள் | Latest Tamil News, Today Breaking News & Headlines in Tamil, Tamil News Paper - Dailythanthi",
-            "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1BYVBhbmh3eTQ3Z3oyeldJMHR1RDVPYXV6dWlWcmlHOWthRE5QWE90TzI1ajlkWEFPNWdJZ01RQWtVeGc?oc=5"
+            "title": "“நாளை நாளை” பாடல் ட்ரோலுக்கு நடிகை மமிதா பைஜுயின் பதில் - Dailythanthi",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU09paGxjaGtocU1DWUZON1hXS3h1cnNfRTEwS2xmTGdZV1JtWTZMWjFjYzFmcDJOSE9oWDNCNmFOMlpXX1NYNTFmMDFQS05mblkzMkxvQkpmSHBCc2c3c1ByZF85cVo1Q1Q5NVd4SURJc0lWOTl5U05vUGxKZUZTMzBqVVBMVjlQVGRFdU5LdzVMaGt4TVlmWXdtX0Z6N3JQa3R4VTBzZFRoUE92RHg5RjZoNU8zRjJpcEJGU25LUmQ0dXoybUpV0gHUAUFVX3lxTE5nYlpsNDBheUlvTWZUM2oydUJhRDBUV3dfM3JqejA0UzBpdHJua2tXdzBSM2U4UjJNTHZ6MUpUdjRISGd2NzlubjkxQlp2cENkS3E5d3pyS2JVbmpnQXQxcEtNS0pzMUFrQ3JoOGhYVTQ5cC1kVE03dVVIWDRlRDYxQ3RxclZDTkJoR1MxZGNSWFZ6a0pKYkVIY0dQWlNvWDM1bTJ0U014UFR1U0RWdF9vaDk4XzJISFQ0eDlsLUNYY0tTYVRweUFCeFJxam5TRXBubk5V?oc=5"
           },
           {
-            "title": "“பரியேறும் பெருமாள்” படத்தை பார்த்துட்டு நானும் வினோத்தும் வெட்கப்பட்டோம் - இயக்குனர் ராஜு முருகன் - Dailythanthi",
-            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYTAxSF9rc21pUDNlRklrQXA3UkIzV1BfR1hGRENXQURGUmQ3RUZfeXVHVnZBdzVnbHNHZjdjcC1waDMyLTRCa1ZHcHRoZjcxMEg1dzBfRWZTT0pzcldCSDNfZ2Z0WmNPTmlYTWVONU83cEdjZEtTRWxxdi10YW40czh4X2JIMmE4SW5XVVpWd19mVXZzUkFBNDBzek02SnZsTy01YjZvNXpRTS1Qa0tLZmRabjJQWDU5M2tpSlRwSlRXelljdUdJUjFnU21WeWdHZ05TVnJRNNIB5AFBVV95cUxONl9ydWVmOWZIMFhkSHFVX1pmVzBoQUFNUktxcV9YZkl4VE0wdUdwLTh6SWFyZE9RMEc2OTBsS0xEc2p3WUhtaGxIUDl5Skl6UTVyYzctLVMyU2ZCdG11M1ZrOWduU3JheWJ6aFc4d0RtUFIwYkk2cWpZWDhqUldOV2c5WXhCMzBjcWtreE1sTkVQSUZDdXNYTzlrNWdfZy1MODhfbUtuNVRQNEwzZU4yUGowNW1ORE9ETDdIMFVJWFZMdjRzbEg4NWVuV3VHV1c0RnNOVWVuRnczeGhQa09sVHhOZHk?oc=5"
+            "title": "உங்களை சிரிக்க, சிந்திக்க வைக்கிற படமாக “மை லார்ட்” இருக்கும் - நடிகர் சசிகுமார் - Dailythanthi",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNclp2UmE1ZWhCRU83cDZfTUdkQU9CNUJ5RUZnX3psLWZva2hGaHV0QkFBT2tvVkFwcFJNU1ZPMHJ1SUdwQVo5UVpxT1lKOVF6REtDOF9Sd3FJYk9Rb0lZUHF6QlptSGpXMF82ZnZHNUhsUjNmZm1aN1I4aXBlN3VFak5QUjZoejRJdDhrZWFYVjhNOXREeDViNkJhZDdPbXd5ZjNIVzZlaXFyYWY0X2JSMkdma1NlQVF5SUZmNdIBygFBVV95cUxOZEdtWkhZYTVRNmJJeThVWlQ4RE13U1NmNFhIb21xWHNaQzZyOUpkdzFNS0Q2NnNoak45SkRqRzE1S3RZdzk2VjZiVFY1cGJwWW9fWndHRzRaRXh0TWRWVEk4UXI2Z19SUmFzTExqbTM4SFRNZ254dWxiblNYakpjUDFiNGxWSk1ISTJmWWxhazR0S0dMYXBraGJ3aXh4ZS1IMHJadjYxWGJfZS1rTWgwUFJ5MkFxcjhaQnN2SloxRW5FYXhQQWZpR1hR?oc=5"
           },
           {
-            "title": "மோனிகா பாடலுக்கு நடனம்.... பூஜா ஹெக்டேவை ஓவர்டேக் செய்த சிறுவன் - Dailythanthi",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeklLT0JZSHEtVnA1T05aYmxiZVM5TGxiTFVvRDN4LTVYTFpuejRtTkhxa2VXTGJ0MHF6N3ktSGxEVDRYRUlaRWVLbFQ5ZUNjRFQwRHFUR3NvYXJVLVd6UTZLWllFMXB4dDh5bXA0V2tfdGxlai13S0FjSXZOMmF3OXcyMHQ0NllqY0RlaWVSdEtrQUlMZHRxb1RPXzFiRmR0aDlDSVV6RHNHRV9zZ1JfSnZ2QTg2ZVNzYmNvb9IBygFBVV95cUxNd3RmYzY1MG5oUVNzeXdlSGpzSGdxYXBia3FXdV9URWQ5OGxVMlVnZ2pMb29Qa3p2ZVd2Mi00cFFmZUZsUkFieGgtZldnRjAzSE1lVFNsSjJPMzdfcTA0a1dkQmNTXzE4Z0pSeXpIcUNkQ0U1Y1V5cVlPaXFXVmRsQ1JaaERtN3JaTUZ1dnhEVlJOTjlmZi01d0RLSUItMnJNVVhiX2lmamVlU0NBOEQ3REFLdmYzRjYzSXRFdmhFYTlYY0JxbFJwdjB3?oc=5"
+            "title": "வேம்பயர் ஜானரில் உருவாகும் அமலாபால் படத்தின் அப்டேட் - Dailythanthi",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWi1XWjFldVFMVkNGYk9pX0RpM0hwNmJRM0FnRGY2bm95WmVERkdIVWpJRk1iOHF4VkRRTE41b3VNSEt2SzJKZC0tb0d0R1I1c3hCSjlrRVZZOEI0MHQ3RzMwc3Q5UERGeElIYXpaS3JuY3cwSWVWa05MYzFvU1Ffdlo0UnZvZ094YWNZRFk5RnLSAZ4BQVVfeXFMTzZTdXZqQ2FqdGxCeDhSNFhGQjhrS2V1eUVZclJWYi1RdDlrRER6dGhValkycTh5eGVhaGxsUjltVzBfQ3ZuMGFpMERHN2FXQ3JzaTE2UDF5X0lfTGVCc3ZSRGhZdnUzcllkU1hoaGhOQ3NEVEhibTBvRGVpcFdVV0xCaFZZT3FLc1BjcktET3k2YnpyU2ZiVmMtdC11VHc?oc=5"
           },
           {
-            "title": "சம்​யுக்​தாவின் “சு​யம்​பு” படத்தின் டீசர் ரிலீஸ் தேதி அறிவிப்பு - Dailythanthi",
-            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQmxtdDNtSTdtVUpKYVptZW5CLUlYN0o4bXF4dmZ1UFZPZlBEUm9CTlpwaU95b19RZWF2b1Bab291akNIUVA2al85SDEtb1lFNkViUEZpd204ZGhmWWJUWVZDT1k1Y204RzhHMFdUX1hXUXJ4S2NicEkwaG1ZSXJNQ25DLXVPeEpaVFl3X2F6V0Z0OGVEUzd5ME00ckNreWFleVJGc2dCdGRHMEXSAasBQVVfeXFMTUJsbXQzbUk3bVVKSmFabWVuQi1JWDdKOG1xeHZmdVBWT2ZQRFJvQk5acGlPeW9fUWVhdm9QWm9vdWpDSFFQNmpfOUgxLW9ZRTZFYlBGaXdtOGRoZlliVFlWQ09ZNWNtOEc4RzBXVF9YV1FyeEtjYnBJMGhtWUlyTUNuQy11T3hKWlRZd19heldGdDhlRFM3eTBNNHJDa3lhZXlSRnNnQnRkRzBF?oc=5"
+            "title": "படமாகும் ஆந்திர முதல்-மந்திரி வாழ்க்கை ஜெகன் மோகன் ரெட்டி வேடத்தில் நடிக்கும் ஜீவா? - Dailythanthi",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeUpaNDZ6UktKaUVtYUl0a09pbm0yLW5ZSkdDbVUwWHhSaUpSNWFHVm5ZLVZId0NpM3hsZ0xJZ2lpV3lhaEdmcHgzemhIajlST2FVdTJwM0I5Vl9ReGx1VkdEZU1BS3JFOGNXSHV1S1g5QnBwMnU0UTVHSjNETDZIV1hZMm1vcnBmRXowNXZHUWtXUW1WRVhTaFZwbVk2RTBuNGQtbEd4VEdkZ1Nmc1BMV0hUQlBvaHFMRFFyT0ttRUtlc0tmYmJYM0tTNE7SAdQBQVVfeXFMTXl0bThUNFFEV2txSHltRjB3SXVfZGltc3dzSy1uYnhUWlRUb0FZdnBIQ05UNnNwTHFvYXFRY214bnFKOW5LdXF3Rk1vUmpaRGlzTGt6TkFQcFhBby1udlRObHREaVRpbEd2WWdiVVd5bHRVbkJzREdlQklqMm1WU011Y2E2Q01BMl9lanhWdkdBYmFaYmNaVXBlRzRaYlBpbmgycERZdm1PNko1WGctek5fTm5iekYzVVhjd2lJVXk2d2pkSWpaQ0VzZFVzbVBQYkdtNVM?oc=5"
           },
           {
-            "title": "அஜித்குமாரை சந்தித்த இயக்குநர் வெங்கட் பிரபு - Dailythanthi",
-            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX2k0UUFxcDFhQlItLWxfRVhPdFlEWHpTZzIzcXJwekJPRXNsZWQ0S29zbkU3OWNSLWxidTNkYlZ1bGZqUTVya3ZiX053MTNlN3A3MWxpRWNmMldpVUh6MFpRZDlZX181MGRzTFFib1N2bGo5cUZONUJTR05xQ1RPMFFKc0JvMXRnMEdpR3h1NklrTzFqZTVTVVV1OFRyUktLZmpqNUUyWdIBpwFBVV95cUxOX2k0UUFxcDFhQlItLWxfRVhPdFlEWHpTZzIzcXJwekJPRXNsZWQ0S29zbkU3OWNSLWxidTNkYlZ1bGZqUTVya3ZiX053MTNlN3A3MWxpRWNmMldpVUh6MFpRZDlZX181MGRzTFFib1N2bGo5cUZONUJTR05xQ1RPMFFKc0JvMXRnMEdpR3h1NklrTzFqZTVTVVV1OFRyUktLZmpqNUUyWQ?oc=5"
+            "title": "சென்னை ஐகோர்ட்டில் தணிக்கை வழக்கை வாபஸ் பெற்ற “ஜனநாயகன்” படக்குழு - Dailythanthi",
+            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOExNTnEwQ0VOVVphakZWTnIzQzFOS2FkOWdTald4T2JBaGRPZWFGSF9ERklnM25BTy1HeGZCUHBZOW5Ra1JoRktaY3p4S0laN3YzSTR5QndjM1ppbTZNaWZLOERYWnRvRDBXY0xQVWJ2ZEs3ODhhZjRzd3kxTWlRMmhJV3NoTW5WbUNjQ1VRQlh4STdVbVpjZXNnYjZrT28zTmNoSEIxT094cU40eUtFRks5TWRKdDls0gHGAUFVX3lxTE1Ld0gydnVncm9aQjRvcnhBZUEyUUpqclVfME9tMzc1bTVOTjdWX2dnTW1KVnFLYnBRdHZJVlZhS0pJLW53eTdHcnBuT2wycHhFYmZYaVZTcW81RHpJVzIxQUpXVXhoQ2hkcmVzTGJnQ25WdlFmNVFuWHlTdjhNRDh5clFYMEczMElyYnVvR3g2eHRRc3RBbGplanVLa1NiZFI0eXlfMG0ybVYyUzRHY25vUkFITE1kc1ZyWDVPYXFiWkJacHBnZw?oc=5"
           },
           {
-            "title": "“கயல்” வின்சென்ட் நடிக்கும் “அந்தோனி” படத்தின் பர்ஸ்ட் லுக் வெளியீடு - Dailythanthi",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQmtXcjZuUFBKZ2xSd3lsdFZ2NGY0RS1lckZLREJxdEZPRFJsQXhpcEZoNHp2SjM1VExic1VTQUN5dWFOTGZfMkpvVkNPWWtPdm5kR1ZRZXZKQTNkTkEyTzloaTJWNFh5ZnRJa1dDOHItNkwtV1U0QXRITGVOLXVvdE5BdEprMFVvYmZXRDE4OHBGal9rVENpNzRyUWJJUWFqR3fSAaIBQVVfeXFMTkJrV3I2blBQSmdsUnd5bHRWdjRmNEUtZXJGS0RCcXRGT0RSbEF4aXBGaDR6dkozNVRMYnNVU0FDeXVhTkxmXzJKb1ZDT1lrT3ZuZEdWUWV2SkEzZE5BMk85aGkyVjRYeWZ0SWtXQzhyLTZMLVdVNEF0SExlTi11b3ROQXRKazBVb2JmV0QxODhwRmpfa1RDaTc0clFiSVFhakd3?oc=5"
+            "title": "விஜய், சிவகார்த்திகேயன் மாதிரி எனக்கும்.. பிக்பாஸ் பிரபலம் திவாகர் - Dailythanthi",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZWVhUkNnUzlGTl9aUEllQUV0OG9zYkE3aTRVcWN6SXJTOW9qRURiZF9GWjExazVIcnpYTnUwQTY3ZFZpMW01dlhWWmRQYWNfMVNWWHRlandNNGY2ZldFN2lBVTlWVGFXREM2bnQ0aVJpTVc0d2NPTUdSN1R4aVNoZ0RoTFphZ19sZmFZa19Uc0JTbHFURng3ZTdaNWRxS0EtcXpoUlMzbS11SU1JMzUxYtIBvgFBVV95cUxQamphdjhoTm5NdEgzOXpvMUpVZ3BpU2FlUXdUTzRHTEdkd0VFcTlPRjdZRXFzUG1NWmFvckh1eTJCUEpGWGxfTEVTdnZMY094c1RyVFpmME9QdTc1RS16OWNrS29LanRpUWVyNWkzTXg3RE43alY4NXFaRk1hV09qNk02S19VLTVYU2lEVldaT3dwa0xZWkQzT3lqODdPSGVHcG9iWjJqVnNRYUIzZ2dxa0xMU08xT2JFc1phbU5n?oc=5"
           },
           {
-            "title": "வேல்ஸ் பிலிம் நிறுவனத்திடம் மோசடி செய்த புகாரில் ஈ.வி.பி சந்தோஷா ரெட்டி கைது - Dailythanthi",
-            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVItVXJCbjJyNmotRm9Wc2FDZERDYXdiYTlTU3VVTHF0YW5RMXZ0YUstRkVlTmpDbWE0X1lCLU85Wk8xSzZLeEFyeGdoLTBzTUx5WnV6Y1hQMmo1TUlSTXV4dmZpSkQwRWhRRTNvblZKMU5NX2lGZF9iZXA4ZDRXTHhZTXpDUjFZMEVldmo5eUtxbEZxU0ZSM2p1OU9mQi1qZkVrUG5KelpKbV9ObVdN0gG8AUFVX3lxTFBTTjlEOGxMMjUwWG5BSXp1VmMxWV9yZnVGdHctM2xScmNKNkp0RGJETGdoY0g2dmMyWEN4ZlBBZERJWWdHWFQ1RFpoUTZOX0RsOFZid0lHUHZOdjNQMnhIV1cxYWN6d1F0Y0x1b3NrLV8xd3R5RVlXdXM5Nmp3OG1XVWIwV2Z1bzVjaTZNS1NnbXlGTkMyYWMzUldveDI4WnFwakJ6V1FyNTQ0SmJyUzdEVGd6ejM1RGJPb2FO?oc=5"
+            "title": "“50 நாட்களுக்குப் பிறகே ஓடிடியில் படம் வர வேண்டும்” - சரத்குமார் வலியுறுத்தல் - Dailythanthi",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS1Mzbk5fOUNxREh0LW80N2VvZEFxdTRGNTRya043NzREcEJhRDR0dk1OcjVLOG9vS1FscWtXT0EzRGlXb1JSb2xKNkhCUlNkRkk3ck1GU2pranRQZ3pQdm9YWVZzZHRHVzNkeXJVcHBRZHFpNDdWOHpwRzBtQ1NDaUtNS19vbEsyM1NVV09hNWFrUndYQ0FSUFpQWHBiWUx5NFhPb09uaGFWdUh2SGo1Uy1Cd0VsS1p2QkxPTtIBygFBVV95cUxPakplYjVHcEZCTm1RWC1VckFVLTNhT0kzSnFIS0xZaUpFVlVVek5XS1pmYnpSOTM3WUJiQWduZHVQTkRJa2U1OS1YZ2oxUENJV1hCdWtzRkFDbWVYZlBNakpaWlg4QmlFZmxHMmNOT3hxNnZxWHQ3MERjU1lLWW43dk1TZkw5RWY4TWhIZ2plNmVZbEVzb0k4WG9XTmxmaTBOcEpGNGZCTFhCY21Bb21xQldpX19fYVhUWnAweUpOMWhSdHlPa01PbkdB?oc=5"
           },
           {
-            "title": "ஜெகன் மோகன் ரெட்டி உறவினர் திருமண நிகழ்ச்சியில் விஜய் - Dailythanthi",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZS1xazZZRDVSN0Y1SFhHeEhVUE1aY0o0QmM3dGwzMWxJSUpNUWdIUUNjUV9WN3ZnNzI2MTB5X1Axa2FtS2xSUDFNTWV4TGE3bXVtaFo0dHZlUWc4SGluSnBDa3p5RmJabmtKWUtUUExIRkR3bnRPOVJLNHVreW05VFF6QWhPcEhEUkZTbWNQZmI2VkdFYkl0ckZUcHZpSGZ5SnfSAaIBQVVfeXFMUGUtcWs2WUQ1UjdGNUhYR3hIVVBNWmNKNEJjN3RsMzFsSUlKTVFnSFFDY1FfVjd2ZzcyNjEweV9QMWthbUtsUlAxTU1leExhN211bWhaNHR2ZVFnOEhpbkpwQ2t6eUZiWm5rSllLVFBMSEZEd250TzlSSzR1a3ltOVRRekFoT3BIRFJGU21jUGZiNlZHRWJJdHJGVHB2aUhmeUp3?oc=5"
+            "title": "அர்ஜுனின் “சீதா பயணம்” படத்திற்கு “யு” தணிக்கை சான்றிதழ் - Dailythanthi",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYUVyeGF0OVg5Xzl5VUcta0V2NlhTVjZPZ001RkhKY2hKRXJ6NzhOOGZPM0RxaGl4aklqUE9zRUdnSDN5Wnd4YmdtTEVJN3ZCaHBBV25aRWlNMlpiU1VSLVdaSVR6Rk9XWVJYRGx5NkFZR1MtOThkOEVDTEF1TG9oSVFDQ3VuTnZpSXJjSFEwS3hyVTZOUTJtWlpjeHBEN0JydW9F0gGjAUFVX3lxTE9hRXJ4YXQ5WDlfOXlVRy1rRXY2WFNWNk9nTTVGSEpjaEpFcno3OE44Zk8zRHFoaXhqSWpQT3NFR2dIM3lad3hiZ21MRUk3dkJocEFXblpFaU0yWmJTVVItV1pJVHpGT1dZUlhEbHk2QVlHUy05OGQ4RUNMQXVMb2hJUUNDdW5OdmlJcmNIUTBLeHJVNk5RMm1aWmN4cEQ3QnJ1b0U?oc=5"
           },
           {
-            "title": "குழந்தையின் சிகிச்சைக்கு நிதியுதவி கோரும் நடிகா் பாா்த்திபன் - Dailythanthi",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNWZheTZhVm1uRnM5YzdOUGNZYmp5cUhLaDVKMWUwTVp4dWhqbExzUEtMekQzQ2FleS11RWxpSUNmdUpoZXJCUnFFN1RsRFRybVB5RFpGQXFkbFo4QXRCeEFJOFhWTGhEQjdaR1lUYkhQSmpSZmxzbW5DN3dIc21GdWRhcVNVSHU4Vk5McE9CSGZya2tuUHc0eWF6aXkxbFFsTWJTQXk2aWxKeWZkVUHSAa4BQVVfeXFMUDVmYXk2YVZtbkZzOWM3TlBjWWJqeXFIS2g1SjFlME1aeHVoamxMc1BLTHpEM0NhZXktdUVsaUlDZnVKaGVyQlJxRTdUbERUcm1QeURaRkFxZGxaOEF0QnhBSThYVkxoREI3WkdZVGJIUEpqUmZsc21uQzd3SHNtRnVkYXFTVUh1OFZOTHBPQkhmcmtrblB3NHlheml5MWxRbE1iU0F5NmlsSnlmZFVB?oc=5"
+            "title": "கரகாட்டக்காரன் 2 படம் வருமா? - இயக்குநர் கங்கை அமரன் பதில் - Dailythanthi",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOekEwOUtjR2szZGFHSFZHZWxLWUFvNzk2Tzh3bDRSQm5EUndUU2RPVDJEaXVFcWIwVTY0Ym5HVzhBQnNOenphOGx0TWllYThZaEFmbFV1aG1iNlR5TVQ1bTlBUlM1WFVNd3VZRm9uMC1Xd2I1S3VkcW5hUGNSalhJYllIdGZwSzd1clJEMjdTSVp3NU5GZHd2UHRXSXoxdkc5R2JHZGtacGxkVFFUYXZjSFFTTdIBwAFBVV95cUxPdW1WampVM0NaN19MQlhPdHV1WElLR0U2SEdONlVYSks1ZUtIR0h5dy1CSFZqUjlqcWNVZlhBVzIwWHdEdzRfTjVWb2FmclB6bzNkcFlXeWlVcFplTFp6aWxhamtfMFA2bnozTWJHaVZJbEVteC1pWkhZeW9wVTB4NEF5eGMxeDU3N2lhS0FpczNuOFpRUko0TWNfVkNtZXJzWE5UeGxDRmthZkQ3NmdtbnI1T2FCSEZHZW9nQWxmanU?oc=5"
           }
         ],
-        "summary": "• “யோகிடா” - சினிமா விமர்சனம் - Dailythanthi\n• தமிழ் சினிமாவில் எழுத்தாளர்களுக்கு முக்கியத்துவம் வேண்டும் - விஜய் ஆண்டனி - Dailythanthi\n• சரத்குமாரின் “ஆழி” படத்தின் டிரெய்லர் நாளை வெளியீடு - Dailythanthi\n• நடிகர் ரெடின் கிங்ஸ்லி குழந்தையை கொஞ்சிய திருமாவளவன் - Dailythanthi\n• ‘மலேசியாவில் பிரதமர் மோடி தமிழின் பெருமை பற்றி பேசியுள்ளார்’ - நயினார் நாகேந்திரன் - Dailythanthi\n• “மை லார்ட்” படம் என்னை நிறைய யோசிக்க வைத்தது - இயக்குனர் மாரி செல்வராஜ் - Dailythanthi\n• Tamil News Online | தமிழ் செய்திகள் | Latest Tamil News, Today Breaking News & Headlines in Tamil, Tamil News Paper - Dailythanthi\n• “பரியேறும் பெருமாள்” படத்தை பார்த்துட்டு நானும் வினோத்தும் வெட்கப்பட்டோம் - இயக்குனர் ராஜு முருகன் - Dailythanthi\n• மோனிகா பாடலுக்கு நடனம்.... பூஜா ஹெக்டேவை ஓவர்டேக் செய்த சிறுவன் - Dailythanthi\n• சம்​யுக்​தாவின் “சு​யம்​பு” படத்தின் டீசர் ரிலீஸ் தேதி அறிவிப்பு - Dailythanthi",
+        "summary": "• மறு தணிக்கைக்கு அனுப்பப்பட்டது விஜய்யின் 'ஜனநாயகன்' படம் - Dailythanthi\n• “பூக்கி” படத்தின் சாட்டிலைட் மற்றும் டிஜிட்டல் உரிமத்தை கைப்பற்றிய பிரபல நிறுவனம் - Dailythanthi\n• ஸ்ரீராம் கார்த்திக்கின் “மைலாஞ்சி” பட டிரெய்லர் வெளியானது - Dailythanthi\n• சரத்குமாரின் “ஆழி” படத்தின் டிரெய்லர் வெளியானது - Dailythanthi\n• ஓடிடியில் குறைந்த நேரத்தில் 100 மில்லியன் நிமிடங்களை எட்டி சாதனை படைத்த \"பராசக்தி\" - Dailythanthi\n• தொழிலதிபரான நடிகை முமைத்கான் - Dailythanthi\n• “நாளை நாளை” பாடல் ட்ரோலுக்கு நடிகை மமிதா பைஜுயின் பதில் - Dailythanthi\n• உங்களை சிரிக்க, சிந்திக்க வைக்கிற படமாக “மை லார்ட்” இருக்கும் - நடிகர் சசிகுமார் - Dailythanthi\n• வேம்பயர் ஜானரில் உருவாகும் அமலாபால் படத்தின் அப்டேட் - Dailythanthi\n• படமாகும் ஆந்திர முதல்-மந்திரி வாழ்க்கை ஜெகன் மோகன் ரெட்டி வேடத்தில் நடிக்கும் ஜீவா? - Dailythanthi",
         "summary_method": "headlines"
       }
     ]
